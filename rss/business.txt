@@ -1,0 +1,9 @@
+https://feeds.businessinsider.com/custom/all
+https://www.entrepreneur.com/latest.rss
+http://feeds.hbr.org/harvardbusiness/
+https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+https://www.inc.com/rss
+https://fortune.com/feed/fortune-feeds/?id=3230629
+https://www.economist.com/international/rss.xml
+https://feeds.feedburner.com/fastcompany/headlines
+https://feeds.bloomberg.com/markets/news.rss

@@ -1,0 +1,6 @@
+https://www.sciencenews.org/feed
+https://www.sciencedaily.com/rss/all.xml
+https://www.nature.com/nature.rss
+https://www.newscientist.com/feed/home/
+https://www.space.com/feeds/all
+http://rss.sciam.com/ScientificAmerican-Global

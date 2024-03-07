@@ -1,0 +1,11 @@
+https://news.ycombinator.com/rss
+https://www.theverge.com/rss/index.xml
+https://rss.slashdot.org/Slashdot/slashdotMain?format=xml
+https://feeds.arstechnica.com/arstechnica/technology-lab
+https://www.404media.co/rss/
+https://www.theregister.com/headlines.atom
+https://techcrunch.com/feed/
+https://thenextweb.com/neural/feed
+https://www.techmeme.com/feed.xml
+https://feeds.bloomberg.com/technology/news.rss
+https://venturebeat.com/feed/

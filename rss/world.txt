@@ -1,0 +1,9 @@
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://www.bellingcat.com/feed/
+https://www.reutersagency.com/feed/?taxonomy=best-regions&post_type=best
+https://www.theguardian.com/international/rss
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://www.independent.co.uk/news/world/rss
+https://www.cbc.ca/webfeed/rss/rss-topstories
+https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_35
+https://feeds.bloomberg.com/politics/news.rss
