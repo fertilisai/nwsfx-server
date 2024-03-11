@@ -1,5 +1,1193 @@
 [
     {
+        "title": "LWiAI Podcast #158 - Claude 3, Elon Musk sues OpenAI, StarCoder 2, AI-Generated Spam",
+        "link": "https://lastweekin.ai/p/lwiai-podcast-158-claude-3-elon-musk",
+        "date": "Sun, 10 Mar 2024 20:11:15 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            20,
+            11,
+            15,
+            6,
+            70,
+            0
+        ],
+        "source": "lastweekin.ai",
+        "image": ""
+    },
+    {
+        "title": "Authors sue AI chip giant Nvidia for copyright infringement",
+        "link": "https://the-decoder.com/authors-sue-ai-chip-giant-nvidia-for-copyright-infringement/",
+        "date": "Sun, 10 Mar 2024 19:16:07 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            19,
+            16,
+            7,
+            6,
+            70,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "Beyond human intelligence: Claude 3.0 and the quest for AGI",
+        "link": "https://venturebeat.com/ai/beyond-human-intelligence-claude-3-0-and-the-quest-for-agi/",
+        "date": "Sun, 10 Mar 2024 18:45:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            18,
+            45,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Miami teens arrested for creating AI-generated nude images of classmates",
+        "link": "https://the-decoder.com/miami-teens-arrested-for-creating-ai-generated-nude-images-of-classmates/",
+        "date": "Sun, 10 Mar 2024 13:44:52 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            13,
+            44,
+            52,
+            6,
+            70,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "Selective Forgetting Can Help AI Learn Better",
+        "link": "https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/",
+        "date": "Sun, 10 Mar 2024 13:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            13,
+            0,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "wired.com",
+        "image": "https://media.wired.com/photos/65eb6c969bce7f2401b59460/master/pass/AiPlasticity-byValentinTkach-Lede-Quanta-Science.jpg"
+    },
+    {
+        "title": "Green Alliance sees two fundamental climate risks from AI",
+        "link": "https://the-decoder.com/green-alliance-sees-two-fundamental-climate-risks-from-ai/",
+        "date": "Sun, 10 Mar 2024 12:35:03 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            35,
+            3,
+            6,
+            70,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "Testing an unsupervised deep learning model for robot imitation of human motions",
+        "link": "https://techxplore.com/news/2024-03-unsupervised-deep-robot-imitation-human.html",
+        "date": "Sun, 10 Mar 2024 07:50:01 EDT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            11,
+            50,
+            1,
+            6,
+            70,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/testing-an-unsupervise.jpg"
+    },
+    {
+        "title": "OpenAI CTO Mira Murati says she was not involved in Sam Altman's firing",
+        "link": "https://the-decoder.com/openai-cto-mira-murati-says-she-was-not-involved-in-sam-altmans-firing/",
+        "date": "Sun, 10 Mar 2024 11:11:27 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            11,
+            11,
+            27,
+            6,
+            70,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "Huawei's PixArt-\u03a3 generates stunning 4K AI images with accurate prompt following",
+        "link": "https://the-decoder.com/huaweis-pixart-%cf%83-generates-stunning-4k-ai-images-with-accurate-prompt-following/",
+        "date": "Sun, 10 Mar 2024 10:29:40 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            10,
+            29,
+            40,
+            6,
+            70,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "Warning over use in UK of unregulated AI chatbots to create social care plans",
+        "link": "https://www.theguardian.com/technology/2024/mar/10/warning-over-use-in-uk-of-unregulated-ai-chatbots-to-create-social-care-plans",
+        "date": "Sun, 10 Mar 2024 09:00:05 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            9,
+            0,
+            5,
+            6,
+            70,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/4f8fa7449bf120054914b3764c195325728f04f5/0_211_5700_3420/master/5700.jpg?width=140&quality=85&auto=format&fit=max&s=aea8a4a6de0738942bb42128af5a4d71"
+    },
+    {
+        "title": "Elon Musk v OpenAI: tech giants are inciting existential fears to evade scrutiny | Kenan Malik",
+        "link": "https://www.theguardian.com/commentisfree/2024/mar/10/ai-wont-destroy-us-but-tech-giants-use-fear-it-will-to-evade-scrutiny",
+        "date": "Sun, 10 Mar 2024 07:00:13 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            7,
+            0,
+            13,
+            6,
+            70,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/ca2af152aa759f48f1257e48bf5dca3c86d7f670/0_0_6048_3628/master/6048.jpg?width=140&quality=85&auto=format&fit=max&s=251117423bccb15b4050118d60228899"
+    },
+    {
+        "title": "\u2018I welcome our digital minions\u2019: the Silicon Valley insider warning about algorithms \u2013 while embracing them",
+        "link": "https://www.theguardian.com/books/2024/mar/10/i-welcome-our-digital-minions-the-silicon-valley-insider-warning-about-algorithms-while-embracing-them",
+        "date": "Sat, 09 Mar 2024 23:00:01 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            23,
+            0,
+            1,
+            5,
+            69,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/91a5587f07588b247fdaf1970776c550582209e3/0_170_6192_3715/master/6192.jpg?width=140&quality=85&auto=format&fit=max&s=4ae580bb6050ae6f214628305b8f5733"
+    },
+    {
+        "title": "Top 5 Research Trends + OpenAI Sora, Google Gemini, Groq Math (Jan-Feb 2024 Audio Recap) + Latent Space Anniversary with Lindy.ai, RWKV, Pixee, Julius.ai, Listener Q&A!",
+        "link": "https://www.latent.space/p/jan-feb-2024-recap-audio",
+        "date": "Sat, 09 Mar 2024 22:55:15 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            22,
+            55,
+            15,
+            5,
+            69,
+            0
+        ],
+        "source": "latent.space",
+        "image": ""
+    },
+    {
+        "title": "Why we need to move away from anthropomorphic naming conventions in AI",
+        "link": "https://venturebeat.com/ai/why-we-need-to-move-away-from-anthropomorphic-naming-conventions-in-ai/",
+        "date": "Sat, 09 Mar 2024 19:15:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            19,
+            15,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Can\u2019t read a map or add up? Don\u2019t worry, we\u2019ve always let technology do the boring stuff | Martha Gill",
+        "link": "https://www.theguardian.com/commentisfree/2024/mar/09/cannot-read-a-map-or-add-up-donot-worry-we-have-always-let-technology-do-the-boring-stuff",
+        "date": "Sat, 09 Mar 2024 19:00:42 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            19,
+            0,
+            42,
+            5,
+            69,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/20add0f4b1a02af7d2cc3ab60f8381e883bc6b1a/0_375_5000_3000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6fc0dfa1208062138719fdc806d87136"
+    },
+    {
+        "title": "You got legal trouble? Better call SauLM-7B",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/09/better_call_saul_llm/",
+        "date": "2024-03-09T18:27:10.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            18,
+            27,
+            10,
+            5,
+            69,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "The week in audio: Electoral Dysfunction; Black Box; The Price of Music; An Taobh Tuathail \u2013 review",
+        "link": "https://www.theguardian.com/tv-and-radio/2024/mar/09/the-week-in-audio-electoral-dysfunction-review-jess-phillips-beth-rigby-ruth-davidson-black-box-michael-safi-ai-the-price-of-music-an-taobh-tuathail-cian-o-ciobhain",
+        "date": "Sat, 09 Mar 2024 17:00:37 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            17,
+            0,
+            37,
+            5,
+            69,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/da60af73e1c0e3727e36c13c68062884d72650fd/0_220_5088_3052/master/5088.jpg?width=140&quality=85&auto=format&fit=max&s=f1593f37667a730140786357c5a00b8c"
+    },
+    {
+        "title": "How Lenovo wants to unlock AI for all at the edge | Kirk Skaugen interview",
+        "link": "https://venturebeat.com/games/how-lenovo-wants-to-unlock-ai-for-all-at-the-edge-kirk-skaugen-interview/",
+        "date": "Sat, 09 Mar 2024 16:45:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            16,
+            45,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Biden's State of the Union included a battle cry against AI mimicry",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/09/biden_2024_sotu/",
+        "date": "2024-03-09T15:30:11.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            15,
+            30,
+            11,
+            5,
+            69,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Artists fume as new Midjourney v6 feature suggests their names for prompts",
+        "link": "https://the-decoder.com/artists-fume-as-new-midjourney-v6-feature-suggests-their-names-for-prompts/",
+        "date": "Sat, 09 Mar 2024 15:06:49 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            15,
+            6,
+            49,
+            5,
+            69,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "The feud between Elon Musk and Sam Altman \u2013 explained",
+        "link": "https://www.theguardian.com/technology/2024/mar/09/why-is-elon-musk-suing-sam-altman-openai",
+        "date": "Sat, 09 Mar 2024 12:00:31 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            12,
+            0,
+            31,
+            5,
+            69,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/a9e1b2f013bf9a705d2f5c68ee7e04f940c7c964/1_0_2559_1536/master/2559.jpg?width=140&quality=85&auto=format&fit=max&s=0396d08d544dcf9ee9cc74de5ddda00c"
+    },
+    {
+        "title": "Welcome to the Valley of the Creepy AI Dolls",
+        "link": "https://www.wired.com/story/ai-dolls-for-older-adults/",
+        "date": "Sat, 09 Mar 2024 11:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            11,
+            0,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "wired.com",
+        "image": "https://media.wired.com/photos/65eb4f1df0b575321bdc1cf1/master/pass/AI-Dolls-Featured-Gear.jpg"
+    },
+    {
+        "title": "OpenAI's image AI DALL-E 3 gets an interface update",
+        "link": "https://the-decoder.com/openais-image-ai-dall-e-3-gets-an-interface-update/",
+        "date": "Sat, 09 Mar 2024 10:50:46 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            10,
+            50,
+            46,
+            5,
+            69,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "How exploration could help with reasoning in language models",
+        "link": "https://the-decoder.com/how-exploration-could-help-with-reasoning-in-language-models/",
+        "date": "Sat, 09 Mar 2024 09:49:19 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            9,
+            49,
+            19,
+            5,
+            69,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "Microsoft's NaturalSpeech 3 clones voices and emotions",
+        "link": "https://the-decoder.com/microsofts-naturalspeech-3-clones-voices-and-emotions/",
+        "date": "Sat, 09 Mar 2024 09:36:15 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            9,
+            36,
+            15,
+            5,
+            69,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "OpenAI's video AI Sora will not be released \"anytime soon\"",
+        "link": "https://the-decoder.com/openais-video-ai-sora-will-not-be-released-anytime-soon/",
+        "date": "Sat, 09 Mar 2024 09:25:22 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            9,
+            25,
+            22,
+            5,
+            69,
+            0
+        ],
+        "source": "the-decoder.com",
+        "image": ""
+    },
+    {
+        "title": "Sam Altman returns to OpenAI board months after crisis",
+        "link": "https://techxplore.com/news/2024-03-sam-altman-openai-board-months.html",
+        "date": "Sat, 09 Mar 2024 04:15:56 EST",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            9,
+            15,
+            56,
+            5,
+            69,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/openai-ceo-sam-altman-1.jpg"
+    },
+    {
+        "title": "\u2018It\u2019s terrifying\u2019: songwriter behind Robbie Williams hits out at AI in the music industry",
+        "link": "https://www.theguardian.com/music/2024/mar/09/its-terrifying-songwriter-behind-robbie-williams-hits-out-at-ai-in-the-music-industry",
+        "date": "Sat, 09 Mar 2024 08:00:27 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            8,
+            0,
+            27,
+            5,
+            69,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/7c334132669684a3d615c330c4319dc4aeddc51d/0_98_2000_1199/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=cc3eab2434e4c1852632c58dbb79e580"
+    },
+    {
+        "title": "OpenAI reinstates CEO Sam Altman to board after firing and rehiring",
+        "link": "https://www.theguardian.com/technology/2024/mar/08/openai-sam-altman-reinstated",
+        "date": "Sat, 09 Mar 2024 01:09:24 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            1,
+            9,
+            24,
+            5,
+            69,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/31d22fd8fcc34bb0ab7a9da447f294d8138108f9/10_180_3487_2094/master/3487.jpg?width=140&quality=85&auto=format&fit=max&s=17d8b730d27b1614d2b918521812a794"
+    },
+    {
+        "title": "Sam Altman reinstated to OpenAI board after investigation clears him of wrongdoing",
+        "link": "https://venturebeat.com/ai/sam-altman-reinstated-to-openai-board-after-investigation-clears-him-of-wrongdoing/",
+        "date": "Fri, 08 Mar 2024 23:37:41 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            23,
+            37,
+            41,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Sam Altman Back on OpenAI's Board After He Is Cleared by Investigation",
+        "link": "https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/",
+        "date": "Fri, 08 Mar 2024 22:51:57 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            22,
+            51,
+            57,
+            4,
+            68,
+            0
+        ],
+        "source": "wired.com",
+        "image": "https://media.wired.com/photos/65eb92d5ba9d8d594d1b6608/master/pass/Sam-Altman-Reinstated-OpenAI-Board-Business-1255249281.jpg"
+    },
+    {
+        "title": "Nano a nono: Pixel 8 phones too dumb for Google's smallest Gemini AI model",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/google_gemini_nano_pixel_8/",
+        "date": "2024-03-08T21:52:59.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            21,
+            52,
+            59,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Snail robot excretes sticky mucus that helps it crawl up slopes",
+        "link": "https://www.newscientist.com/article/2421134-snail-robot-excretes-sticky-mucus-that-helps-it-crawl-up-slopes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
+        "date": "Fri, 08 Mar 2024 20:00:29 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            0,
+            29,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/08125514/SEI_195081260.jpg"
+    },
+    {
+        "title": "Google API brings LLMs to Android and iOS devices",
+        "link": "https://www.infoworld.com/article/3714343/google-api-brings-llms-to-android-and-ios-devices.html#tk.rss_machinelearning",
+        "date": "Fri, 08 Mar 2024 11:53:00 -0800",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            19,
+            53,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "infoworld.com",
+        "image": "https://images.idgesg.net/images/idge/imported/imageapi/2024/03/04/14/shutterstock_2248315255-100947624-small-100961651-small.jpg"
+    },
+    {
+        "title": "Quantum memory device could stop unhackable networks from failing",
+        "link": "https://www.newscientist.com/article/2420664-quantum-memory-device-could-stop-unhackable-networks-from-failing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
+        "date": "Fri, 08 Mar 2024 18:00:19 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            18,
+            0,
+            19,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06191034/SEI_194647530.jpg"
+    },
+    {
+        "title": "Why Apple needs to face greater antitrust scrutiny | The DeanBeat",
+        "link": "https://venturebeat.com/game-development/why-apple-needs-to-face-greater-antitrust-scrutiny-the-deanbeat/",
+        "date": "Fri, 08 Mar 2024 18:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            18,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Insilico Medicine unveils first AI-generated and AI-discovered drug in new paper",
+        "link": "https://venturebeat.com/ai/insilico-medicine-unveils-first-ai-generated-and-ai-discovered-drug-in-new-paper/",
+        "date": "Fri, 08 Mar 2024 17:49:17 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            49,
+            17,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Legal AI Is Taking Off in Australia and Could Shake Up the Private Practice Legal Market",
+        "link": "https://www.techrepublic.com/article/australian-legal-profession-adapting-ai/",
+        "date": "Fri, 08 Mar 2024 17:21:53 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            21,
+            53,
+            4,
+            68,
+            0
+        ],
+        "source": "techrepublic.com",
+        "image": ""
+    },
+    {
+        "title": "Italy opens probe into OpenAI's new video tool Sora",
+        "link": "https://techxplore.com/news/2024-03-italy-probe-openai-video-tool.html",
+        "date": "Fri, 08 Mar 2024 12:07:31 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            7,
+            31,
+            4,
+            68,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/chatgpt-9.jpg"
+    },
+    {
+        "title": "Florida Middle Schoolers Arrested for Allegedly Creating Deepfake Nudes of Classmates",
+        "link": "https://www.wired.com/story/florida-teens-arrested-deepfake-nudes-classmates/",
+        "date": "Fri, 08 Mar 2024 16:35:58 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            35,
+            58,
+            4,
+            68,
+            0
+        ],
+        "source": "wired.com",
+        "image": "https://media.wired.com/photos/65ea433de0038c22b89c1999/master/pass/business_teens_generative_ai_nudes.jpg"
+    },
+    {
+        "title": "The perfect workspace collaborator",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/the_perfect_workspace_collaborator/",
+        "date": "2024-03-08T16:01:36.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            1,
+            36,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Balancing training data and human knowledge to make AI act more like a scientist",
+        "link": "https://techxplore.com/news/2024-03-human-knowledge-ai-scientist.html",
+        "date": "Fri, 08 Mar 2024 11:00:01 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            0,
+            1,
+            4,
+            68,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/8-ai.jpg"
+    },
+    {
+        "title": "Researchers enhance peripheral vision in AI models",
+        "link": "https://techxplore.com/news/2024-03-peripheral-vision-ai.html",
+        "date": "Fri, 08 Mar 2024 10:46:05 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            46,
+            5,
+            4,
+            68,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/researchers-enhance-pe.jpg"
+    },
+    {
+        "title": "Microsoft's small language model outperforms larger models on standardized math tests",
+        "link": "https://techxplore.com/news/2024-03-microsoft-small-language-outperforms-larger.html",
+        "date": "Fri, 08 Mar 2024 10:40:01 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            40,
+            1,
+            4,
+            68,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/grade-school-math-1.jpg"
+    },
+    {
+        "title": "Palantir wins US Army contract for battlefield AI",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/palantir_wins_us_army_contract/",
+        "date": "2024-03-08T15:31:07.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            31,
+            7,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "AI chatbots found to use racist stereotypes even after anti-racism training",
+        "link": "https://techxplore.com/news/2024-03-ai-chatbots-racist-stereotypes-anti.html",
+        "date": "Fri, 08 Mar 2024 10:09:19 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            9,
+            19,
+            4,
+            68,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/ai-chatbots-found-to-u.jpg"
+    },
+    {
+        "title": "\u2018We definitely messed up\u2019: why did Google AI tool make offensive historical images?",
+        "link": "https://www.theguardian.com/technology/2024/mar/08/we-definitely-messed-up-why-did-google-ai-tool-make-offensive-historical-images",
+        "date": "Fri, 08 Mar 2024 15:00:05 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            0,
+            5,
+            4,
+            68,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/ef1e7590a9abf0d089bbab9de247b4592c9a0a9a/244_1353_1119_671/master/1119.jpg?width=140&quality=85&auto=format&fit=max&s=efacd155632326023b0ff0bfcad5d359"
+    },
+    {
+        "title": "UK fusion startup breaks pressure record using giant \u2018gun\u2019 machine",
+        "link": "https://thenextweb.com/news/uk-fusion-startup-breaks-pressure-record-giant-gun-z-machine",
+        "date": "Fri, 08 Mar 2024 14:58:11 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            58,
+            11,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "Pres. Biden calls upon Congress to ban AI voice impersonation in State of the Union address",
+        "link": "https://venturebeat.com/ai/pres-biden-calls-upon-congress-to-ban-ai-voice-impersonation-in-state-of-the-union-address/",
+        "date": "Fri, 08 Mar 2024 14:17:48 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            17,
+            48,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Sharing the AI journey: Amplifying female founder voices",
+        "link": "https://thenextweb.com/news/ai-amplifying-female-founder-voices",
+        "date": "Fri, 08 Mar 2024 14:16:42 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            16,
+            42,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "LLMs exhibit significant Western cultural bias, study finds",
+        "link": "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
+        "date": "Fri, 08 Mar 2024 14:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Experts call for stricter femtech laws to safeguard women\u2019s data",
+        "link": "https://thenextweb.com/news/femtech-app-law-privacy-women-data",
+        "date": "Fri, 08 Mar 2024 13:02:51 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            2,
+            51,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "AI chatbot models \u2018think\u2019 in English even when using other languages",
+        "link": "https://www.newscientist.com/article/2420973-ai-chatbot-models-think-in-english-even-when-using-other-languages/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
+        "date": "Fri, 08 Mar 2024 13:00:25 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            0,
+            25,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07102147/SEI_194777974.jpg"
+    },
+    {
+        "title": "An approach to realize in-sensor dynamic computing and advance computer vision",
+        "link": "https://techxplore.com/news/2024-03-approach-sensor-dynamic-advance-vision.html",
+        "date": "Fri, 08 Mar 2024 06:50:01 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            11,
+            50,
+            1,
+            4,
+            68,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/an-approach-to-realize.jpg"
+    },
+    {
+        "title": "Age of AI - large models call for better database choice",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/meeting_customer_requirements_for_database/",
+        "date": "2024-03-08T10:24:03.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            10,
+            24,
+            3,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "The EU\u2019s DMA is a new take on tech regulation \u2014 but that doesn\u2019t mean it\u2019ll work",
+        "link": "https://thenextweb.com/news/eu-dma-new-take-tech-regulation-will-it-work",
+        "date": "Fri, 08 Mar 2024 09:56:24 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            9,
+            56,
+            24,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "Brazil seeks to curb AI deepfakes as key elections loom",
+        "link": "https://techxplore.com/news/2024-03-brazil-curb-ai-deepfakes-key.html",
+        "date": "Fri, 08 Mar 2024 02:31:51 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            7,
+            31,
+            51,
+            4,
+            68,
+            0
+        ],
+        "source": "techxplore.com",
+        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/the-rapid-development.jpg"
+    },
+    {
+        "title": "AI mishaps are surging \u2013 and now they're being tracked like software bugs",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/ai_mishaps_are_surging_and/",
+        "date": "2024-03-08T07:25:12.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            7,
+            25,
+            12,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "AI could be an extraordinary force for good. So why do our politicians still not have a plan? | Gaby Hinsliff",
+        "link": "https://www.theguardian.com/commentisfree/2024/mar/08/ai-politics-public-services-economy-technology",
+        "date": "Fri, 08 Mar 2024 06:00:44 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            6,
+            0,
+            44,
+            4,
+            68,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/a103641efee7776c6be20502c7d7b84c9cb9618c/0_0_5000_3000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=db450ea2a5806c8a12be3f942577cd69"
+    },
+    {
+        "title": "80% of Australians think AI risk is a global priority. The government needs to step up",
+        "link": "https://theconversation.com/80-of-australians-think-ai-risk-is-a-global-priority-the-government-needs-to-step-up-225175",
+        "date": "2024-03-08T05:46:43Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            5,
+            46,
+            43,
+            4,
+            68,
+            0
+        ],
+        "source": "theconversation.com",
+        "image": ""
+    },
+    {
+        "title": "Researchers enhance peripheral vision in AI models",
+        "link": "https://news.mit.edu/2024/researchers-enhance-peripheral-vision-ai-models-0308",
+        "date": "Fri, 08 Mar 2024 00:00:00 -0500",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            5,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "mit.edu",
+        "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202403/MIT-Peripheral-Vision-01-press.jpg?itok=aNqT8UxF"
+    },
+    {
+        "title": "NIST staffers revolt against expected appointment  of \u2018effective altruist\u2019 AI researcher to US AI Safety Institute",
+        "link": "https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/",
+        "date": "Fri, 08 Mar 2024 04:48:55 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            4,
+            48,
+            55,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Black Box: The connectionists",
+        "link": "https://www.theguardian.com/news/audio/2024/mar/08/black-box-the-connectionists-podcast",
+        "date": "Fri, 08 Mar 2024 03:00:39 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            3,
+            0,
+            39,
+            4,
+            68,
+            0
+        ],
+        "source": "theguardian.com",
+        "image": "https://i.guim.co.uk/img/media/1b92a515e717324782740b96e00364f4e98fad88/0_0_5198_3119/master/5198.jpg?width=140&quality=85&auto=format&fit=max&s=2102021c7d85d619860874864b2bd165"
+    },
+    {
+        "title": "India plans 10,000-GPU sovereign AI supercomputer",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/indiaai_policy_funding_secured/",
+        "date": "2024-03-08T02:30:15.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            2,
+            30,
+            15,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Experts call for legal \u2018safe harbor\u2019 so researchers, journalists and artists can evaluate AI tools",
+        "link": "https://venturebeat.com/ai/experts-call-for-legal-safe-harbor-so-researchers-journalists-and-artists-can-evaluate-ai-tools/",
+        "date": "Thu, 07 Mar 2024 21:36:44 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            36,
+            44,
+            3,
+            67,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "CMOs Need A Measurement Strategy That Connects To Business Outcomes",
+        "link": "https://www.forrester.com/blogs/cmos-need-a-measurement-strategy-that-connects-to-business-outcomes/",
+        "date": "Thu, 07 Mar 2024 19:55:26 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            19,
+            55,
+            26,
+            3,
+            67,
+            0
+        ],
+        "source": "forrester.com",
+        "image": ""
+    },
+    {
         "title": "Meet \u2018Liberated Qwen\u2019, an uncensored LLM that strictly adheres to system prompts",
         "link": "https://venturebeat.com/ai/meet-liberated-qwen-an-uncensored-llm-that-strictly-adheres-to-system-prompts/",
         "date": "Thu, 07 Mar 2024 19:30:55 +0000",
@@ -90,7 +1278,7 @@
         "image": ""
     },
     {
-        "title": "Reddit rolling out AI bouncer to halt harrassment",
+        "title": "Reddit rolling out AI bouncer to halt harassment",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/reddit_introduces_aipowered_harassment_filter/",
         "date": "2024-03-07T17:31:06.00Z",
         "date_parsed": [
@@ -270,25 +1458,7 @@
         "image": "https://i.guim.co.uk/img/media/d54d7b67ba6afff2b801d41f89f65b96ccae8688/0_0_7000_4200/master/7000.jpg?width=140&quality=85&auto=format&fit=max&s=bddc7ff93a994a5f919091b87c13a41a"
     },
     {
-        "title": "Microsoft employee warns FTC about Microsoft's AI image generator",
-        "link": "https://the-decoder.com/microsoft-employee-warns-ftc-about-microsofts-ai-image-generator/",
-        "date": "Thu, 07 Mar 2024 13:14:03 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            14,
-            3,
-            3,
-            67,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
-    },
-    {
-        "title": "Google\u2019s GenAI Bots Are Struggling. But so Are Its Humans",
+        "title": "Google\u2019s GenAI Bots Are Struggling. But So Are Its Humans",
         "link": "https://www.wired.com/story/gadget-lab-podcast-635/",
         "date": "Thu, 07 Mar 2024 13:00:00 +0000",
         "date_parsed": [
@@ -304,24 +1474,6 @@
         ],
         "source": "wired.com",
         "image": "https://media.wired.com/photos/65e8f9fbb6e3664565f3c00d/master/pass/Google%E2%80%99s-GenAI-Bots-Are-Struggling.-But-so-Are-Its-Humans-Gear-GettyImages-1829286546.jpg"
-    },
-    {
-        "title": "Why Anthropic's Claude 3 seems more human than other chatbots",
-        "link": "https://the-decoder.com/why-anthropics-claude-3-seems-more-human-than-other-chatbots/",
-        "date": "Thu, 07 Mar 2024 12:52:12 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            52,
-            12,
-            3,
-            67,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
     },
     {
         "title": "Spain halts Sam Altman\u2019s eyeball-scanning startup Worldcoin over privacy concerns",
@@ -504,7 +1656,7 @@
         "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/generative-ai-tools-ha.jpg"
     },
     {
-        "title": "Here\u2019s something else AI can do: expose bad infosec to give cyber-crims a toehold in your organization",
+        "title": "Reminder: Infostealer malware is coming for your ChatGPT credentials",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/more_than_250000/",
         "date": "2024-03-07T06:27:08.00Z",
         "date_parsed": [
@@ -1008,24 +2160,6 @@
         "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/deepmind-demonstrates.jpg"
     },
     {
-        "title": "Google targets AI spam and low-quality content in its latest search algorithm overhaul",
-        "link": "https://the-decoder.com/google-targets-ai-spam-and-low-quality-content-in-its-latest-search-algorithm-overhaul/",
-        "date": "Wed, 06 Mar 2024 16:38:41 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            16,
-            38,
-            41,
-            2,
-            66,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
-    },
-    {
         "title": "Governments not keen on pushing citizen-facing AI services, for obvious reasons",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/ai_services_government_gartner/",
         "date": "2024-03-06T16:15:10.00Z",
@@ -1170,24 +2304,6 @@
         "image": "https://media.wired.com/photos/65e87e45daf1eaef272e8b20/master/pass/GettyImages-1228795132.jpg"
     },
     {
-        "title": "Nobel winner behind graphene hails new \u2018wonder materials\u2019 for smart contact lenses",
-        "link": "https://thenextweb.com/news/graphene-nobel-winner-discovery-smart-contact-lenses",
-        "date": "Wed, 06 Mar 2024 14:17:22 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            14,
-            17,
-            22,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
-        "image": ""
-    },
-    {
         "title": "Informatica Claims Data Fragmentation Is Standing in the Way of APAC Generative AI",
         "link": "https://www.techrepublic.com/article/apac-survey-findings-informatica-generative-ai/",
         "date": "Wed, 06 Mar 2024 14:00:59 +0000",
@@ -1257,24 +2373,6 @@
             0
         ],
         "source": "theconversation.com",
-        "image": ""
-    },
-    {
-        "title": "Why US-based VCs are investing big in European climate tech",
-        "link": "https://thenextweb.com/news/why-us-based-vcs-are-investing-big-in-european-climate-tech",
-        "date": "Wed, 06 Mar 2024 13:25:44 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            13,
-            25,
-            44,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
         "image": ""
     },
     {
@@ -1350,24 +2448,6 @@
         "image": ""
     },
     {
-        "title": "TNW Podcast: The tech that makes us walk",
-        "link": "https://thenextweb.com/news/podcast-tech-that-makes-us-walk",
-        "date": "Wed, 06 Mar 2024 12:17:07 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            12,
-            17,
-            7,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
-        "image": ""
-    },
-    {
         "title": "The job applicants shut out by AI: \u2018The interviewer sounded like Siri\u2019",
         "link": "https://www.theguardian.com/technology/2024/mar/06/ai-interviews-job-applications",
         "date": "Wed, 06 Mar 2024 12:00:38 GMT",
@@ -1384,24 +2464,6 @@
         ],
         "source": "theguardian.com",
         "image": "https://i.guim.co.uk/img/media/246dbbab336047e094bfce6023490ad80bda7a4e/19_8_1481_888/master/1481.jpg?width=140&quality=85&auto=format&fit=max&s=c8d2e982e6d3d3db112a39cb9851beb1"
-    },
-    {
-        "title": "OpenAI hits back at Elon Musk with a blast from the past in email showdown",
-        "link": "https://the-decoder.com/openai-hits-back-at-elon-musk-with-a-blast-from-the-past-in-email-showdown/",
-        "date": "Wed, 06 Mar 2024 12:00:14 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            12,
-            0,
-            14,
-            2,
-            66,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
     },
     {
         "title": "The Dark Side of Open Source AI Image Generators",
@@ -1440,24 +2502,6 @@
         "image": "https://i.guim.co.uk/img/media/48c6a50b822abdc1cd3deb8b71fea945bfe2eb82/0_157_4742_2847/master/4742.jpg?width=140&quality=85&auto=format&fit=max&s=f256ed44862359801dd759f6e6c1f808"
     },
     {
-        "title": "UK startup launches AI satellite to provide near real-time images of Earth",
-        "link": "https://thenextweb.com/news/uk-startup-ai-satellite-real-time-images-of-earth-spacex",
-        "date": "Wed, 06 Mar 2024 10:05:35 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            10,
-            5,
-            35,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
-        "image": ""
-    },
-    {
         "title": "OpenAI rejects Musk's accusations of 'betrayal'",
         "link": "https://techxplore.com/news/2024-03-openai-musk-accusations-betrayal.html",
         "date": "Wed, 06 Mar 2024 04:14:33 EST",
@@ -1474,24 +2518,6 @@
         ],
         "source": "techxplore.com",
         "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/openai-the-firm-behind.jpg"
-    },
-    {
-        "title": "Anthropics Claude 3 lags behind GPT-4 Turbo",
-        "link": "https://the-decoder.com/anthropics-claude-3-lags-behind-gpt-4-turbo/",
-        "date": "Wed, 06 Mar 2024 09:09:30 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            9,
-            9,
-            30,
-            2,
-            66,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
     },
     {
         "title": "China pushes 'AI Plus' initiative to integrate technology and industry",
@@ -1618,24 +2644,6 @@
         ],
         "source": "venturebeat.com",
         "image": ""
-    },
-    {
-        "title": "Google Is Finally Trying to Kill AI Clickbait",
-        "link": "https://www.wired.com/story/google-search-artificial-intelligence-clickbait-spam-crackdown/",
-        "date": "Tue, 05 Mar 2024 21:16:52 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            21,
-            16,
-            52,
-            1,
-            65,
-            0
-        ],
-        "source": "wired.com",
-        "image": "https://media.wired.com/photos/65e75bc356e85b67104a62e9/master/pass/Google-Search-Weed-Out-AI-Spam-Business-1782552231.jpg"
     },
     {
         "title": "Box AI integrates with Microsoft\u2019s Azure OpenAI Service as it becomes generally available",
@@ -1836,24 +2844,6 @@
         "image": ""
     },
     {
-        "title": "A world of superb theatre at Shakespeare\u2019s Globe for just \u00a35 | Brief letters",
-        "link": "https://www.theguardian.com/stage/2024/mar/05/a-world-of-superb-theatre-at-shakespeares-globe-for-just-5",
-        "date": "Tue, 05 Mar 2024 17:04:29 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            17,
-            4,
-            29,
-            1,
-            65,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/e2dc57312d40fa5ff146150bb0d1ccc8a2e5c372/0_400_6000_3600/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=0167b98f981118045b12f7c0f9ccb260"
-    },
-    {
         "title": "Counterexamples to completeness of major algorithms in distributed constraint optimization problem",
         "link": "https://techxplore.com/news/2024-03-counterexamples-major-algorithms-constraint-optimization.html",
         "date": "Tue, 05 Mar 2024 12:04:02 EST",
@@ -1906,24 +2896,6 @@
         ],
         "source": "siliconangle.com",
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/talkie-minimax-screenshot.png"
-    },
-    {
-        "title": "The marriage of generative AI and marketing",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/05/the_marriage_of_generative_ai/",
-        "date": "2024-03-05T16:01:27.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            16,
-            1,
-            27,
-            1,
-            65,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
     },
     {
         "title": "US Army tests AI chatbots as battle planners in a war game simulation",
@@ -1980,42 +2952,6 @@
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Charlie-Kawwas-president-of-Broadcom-MWC-2024.jpg"
     },
     {
-        "title": "Free TripoSR generates 3D models in half a second",
-        "link": "https://the-decoder.com/free-triposr-generates-3d-models-in-half-a-second/",
-        "date": "Tue, 05 Mar 2024 15:17:16 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            15,
-            17,
-            16,
-            1,
-            65,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
-    },
-    {
-        "title": "Deep learning tool may help cut emissions caused by air resistance",
-        "link": "https://techxplore.com/news/2024-03-deep-tool-emissions-air-resistance.html",
-        "date": "Tue, 05 Mar 2024 09:57:03 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            14,
-            57,
-            3,
-            1,
-            65,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/deep-learning-tool-may-1.jpg"
-    },
-    {
         "title": "Microsoft: Copyright law didn't stop the VCR and shouldn't stop the LLM",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/05/ms_openai_vs_nyt/",
         "date": "2024-03-05T14:01:34.00Z",
@@ -2052,24 +2988,6 @@
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/dataloop.jpg"
     },
     {
-        "title": "Black Box episode one: The connectionists - podcast",
-        "link": "https://www.theguardian.com/australia-news/audio/2024/mar/05/black-box-episode-one-the-connectionists-full-story-podcast",
-        "date": "Tue, 05 Mar 2024 14:00:08 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            14,
-            0,
-            8,
-            1,
-            65,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/b6b09640eaaf29d09e559944c561835210a9998b/1_0_9291_5576/master/9291.jpg?width=140&quality=85&auto=format&fit=max&s=7e9df9ed0a3cdc4fc90e1bcaa4f5707c"
-    },
-    {
         "title": "AMD introduces Spartan UltraScale+ programmable logic chips for edge applications",
         "link": "https://venturebeat.com/ai/amd-introduces-spartan-ultrascale-programmable-chips-for-edge-applications/",
         "date": "Tue, 05 Mar 2024 14:00:00 +0000",
@@ -2078,42 +2996,6 @@
             3,
             5,
             14,
-            0,
-            0,
-            1,
-            65,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Snowflake partners with Mistral AI, taking its open LLMs to the data cloud",
-        "link": "https://venturebeat.com/ai/snowflake-partners-with-mistral-ai-taking-its-open-llms-to-the-data-cloud/",
-        "date": "Tue, 05 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            14,
-            0,
-            0,
-            1,
-            65,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "CrowdStrike and Dell unleash an AI-powered, unified security vision",
-        "link": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
-        "date": "Tue, 05 Mar 2024 13:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            13,
             0,
             0,
             1,
@@ -2139,24 +3021,6 @@
             0
         ],
         "source": "theconversation.com",
-        "image": ""
-    },
-    {
-        "title": "Microsoft compares New York Times to '80s movie studios trying to ban VCRs",
-        "link": "https://the-decoder.com/microsoft-compares-new-york-times-to-80s-movie-studios-trying-to-ban-vcrs/",
-        "date": "Tue, 05 Mar 2024 10:09:52 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            10,
-            9,
-            52,
-            1,
-            65,
-            0
-        ],
-        "source": "the-decoder.com",
         "image": ""
     },
     {
@@ -2268,24 +3132,6 @@
         "image": ""
     },
     {
-        "title": "Anthropic\u2019s Claude 3 knew when researchers were testing it",
-        "link": "https://venturebeat.com/ai/anthropics-claude-3-knew-when-researchers-were-testing-it/",
-        "date": "Tue, 05 Mar 2024 00:17:54 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            0,
-            17,
-            54,
-            1,
-            65,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
         "title": "Baseten nabs $40M for its cloud-based AI inference platform",
         "link": "https://siliconangle.com/2024/03/04/baseten-nabs-40m-cloud-based-ai-inference-platform/",
         "date": "Mon, 04 Mar 2024 22:56:41 +0000",
@@ -2302,60 +3148,6 @@
         ],
         "source": "siliconangle.com",
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Baseten.png"
-    },
-    {
-        "title": "Britain\u2019s AI sector expected to get \u00a3100m extra funding in budget",
-        "link": "https://www.theguardian.com/uk-news/2024/mar/04/britain-ai-industry-funding-budget-alan-turing-institute",
-        "date": "Mon, 04 Mar 2024 22:30:51 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            22,
-            30,
-            51,
-            0,
-            64,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/4f857b67c5a5fff47703651247cfbfdca90c8861/0_125_5000_3000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1db030a9ba6081945c5cc0a6d8d2f425"
-    },
-    {
-        "title": "Computer scientists find a better method to detect and prevent toxic AI prompts",
-        "link": "https://techxplore.com/news/2024-03-scientists-method-toxic-ai-prompts.html",
-        "date": "Mon, 04 Mar 2024 15:06:51 EST",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            20,
-            6,
-            51,
-            0,
-            64,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/working-towards-toxic.jpg"
-    },
-    {
-        "title": "Anthropic's Claude 3 challenges GPT-4 with improved \"intelligence\" and visual capabilities",
-        "link": "https://the-decoder.com/anthropics-claude-3-llm-challenges-gpt-4-with-improved-intelligence-and-visual-capabilities/",
-        "date": "Mon, 04 Mar 2024 19:56:32 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            19,
-            56,
-            32,
-            0,
-            64,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
     },
     {
         "title": "Anthropic debuts Claude 3 model series with \u2018near-human\u2019 capabilities in some areas",
@@ -2376,24 +3168,6 @@
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Anthropic.png"
     },
     {
-        "title": "VentureBeat to feature interviews with AWS, Microsoft, Google and more from Nvidia GTC 2024",
-        "link": "https://venturebeat.com/ai/venturebeat-to-feature-interviews-with-aws-microsoft-google-and-more-from-nvidia-gtc-2024/",
-        "date": "Mon, 04 Mar 2024 19:16:27 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            19,
-            16,
-            27,
-            0,
-            64,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
         "title": "Google\u2019s Gemini showcases more powerful technology, but we\u2019re still not close to superhuman AI",
         "link": "https://theconversation.com/googles-gemini-showcases-more-powerful-technology-but-were-still-not-close-to-superhuman-ai-224289",
         "date": "2024-03-04T19:13:57Z",
@@ -2409,42 +3183,6 @@
             0
         ],
         "source": "theconversation.com",
-        "image": ""
-    },
-    {
-        "title": "ChatGPT-rival Anthropic releases more powerful AI",
-        "link": "https://techxplore.com/news/2024-03-chatgpt-rival-anthropic-powerful-ai.html",
-        "date": "Mon, 04 Mar 2024 14:04:06 EST",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            19,
-            4,
-            6,
-            0,
-            64,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/anthropic-co-founder-a.jpg"
-    },
-    {
-        "title": "OpenAI adds \u2018Read Aloud\u2019 voiceover to ChatGPT, allowing it to speak its outputs",
-        "link": "https://venturebeat.com/ai/openai-adds-read-aloud-voiceover-to-chatgpt-allowing-it-to-speak-its-outputs/",
-        "date": "Mon, 04 Mar 2024 19:02:40 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            19,
-            2,
-            40,
-            0,
-            64,
-            0
-        ],
-        "source": "venturebeat.com",
         "image": ""
     },
     {
@@ -2466,42 +3204,6 @@
         "image": ""
     },
     {
-        "title": "ChatGPT can now read out generated texts",
-        "link": "https://the-decoder.com/chatgpt-can-now-read-out-generated-texts/",
-        "date": "Mon, 04 Mar 2024 18:18:33 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            18,
-            18,
-            33,
-            0,
-            64,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
-    },
-    {
-        "title": "Why OpenAI\u2019s nonprofit mission to build AGI is under fire \u2014\u00a0again | The AI Beat",
-        "link": "https://venturebeat.com/ai/why-openais-nonprofit-mission-to-build-agi-is-under-fire-again-the-ai-beat/",
-        "date": "Mon, 04 Mar 2024 17:58:55 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            17,
-            58,
-            55,
-            0,
-            64,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
         "title": "Meta\u2019s AI Watermarking Plan Is Flimsy, at Best",
         "link": "https://spectrum.ieee.org/meta-ai-watermarks",
         "date": "Mon, 04 Mar 2024 17:35:31 +0000",
@@ -2520,42 +3222,6 @@
         "image": "https://spectrum.ieee.org/media-library/letters-and-numbers-bunched-together-with-the-colors-blue-in-a-box-and-red-and-white-in-stripes.jpg?id=51634902&width=980"
     },
     {
-        "title": "Amazon adds Claude 3, which beats GPT-4, to Bedrock",
-        "link": "https://venturebeat.com/ai/amazon-adds-claude-3-beats-gpt-4-to-bedrock/",
-        "date": "Mon, 04 Mar 2024 17:32:22 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            17,
-            32,
-            22,
-            0,
-            64,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "India tightens regulation of AI models from major tech platforms",
-        "link": "https://the-decoder.com/india-tightens-regulation-of-ai-models-from-major-tech-platforms/",
-        "date": "Mon, 04 Mar 2024 17:26:45 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            17,
-            26,
-            45,
-            0,
-            64,
-            0
-        ],
-        "source": "the-decoder.com",
-        "image": ""
-    },
-    {
         "title": "Last Week in AI #260: Figure raises $675 million, Microsoft partners with Mistral, Elon Musk sues OpenAI, India mandates Gen AI approvals",
         "link": "https://lastweekin.ai/p/260",
         "date": "Mon, 04 Mar 2024 17:01:27 GMT",
@@ -2572,42 +3238,6 @@
         ],
         "source": "lastweekin.ai",
         "image": ""
-    },
-    {
-        "title": "Do AI video-generators dream of San Pedro? Madonna among early adopters of AI's next wave",
-        "link": "https://techxplore.com/news/2024-03-ai-video-generators-san-pedro.html",
-        "date": "Mon, 04 Mar 2024 11:20:02 EST",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            16,
-            20,
-            2,
-            0,
-            64,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/do-ai-video-generators.jpg"
-    },
-    {
-        "title": "AI bias: The organized struggle against automated discrimination",
-        "link": "https://techxplore.com/news/2024-03-ai-bias-struggle-automated-discrimination.html",
-        "date": "Mon, 04 Mar 2024 11:10:01 EST",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            16,
-            10,
-            1,
-            0,
-            64,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/ai-bias.jpg"
     },
     {
         "title": "Faster, More Secure Photonic Chip Boosts AI Training",
@@ -2646,24 +3276,6 @@
         "image": ""
     },
     {
-        "title": "Demand for computer chips fueled by AI could reshape global politics and security",
-        "link": "https://techxplore.com/news/2024-03-demand-chips-fueled-ai-reshape.html",
-        "date": "Mon, 04 Mar 2024 10:57:45 EST",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            15,
-            57,
-            45,
-            0,
-            64,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/1-chip.jpg"
-    },
-    {
         "title": "Cloudflare announces new defensive AI products for protecting LLMs and companies from attack",
         "link": "https://siliconangle.com/2024/03/04/cloudflare-announces-new-defensive-ai-products-protecting-llms-companies-attack/",
         "date": "Mon, 04 Mar 2024 14:00:51 +0000",
@@ -2680,42 +3292,6 @@
         ],
         "source": "siliconangle.com",
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/FSO-1024x740.jpg"
-    },
-    {
-        "title": "Anthropic unveils Claude 3, surpassing GPT-4 and Gemini Ultra in benchmark tests",
-        "link": "https://venturebeat.com/ai/anthropic-unveils-claude-3-claims-new-standard-for-intelligence/",
-        "date": "Mon, 04 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            14,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Combining big data and machine learning to predict power outages and help consumers prepare",
-        "link": "https://techxplore.com/news/2024-03-combining-big-machine-power-outages.html",
-        "date": "Mon, 04 Mar 2024 08:50:01 EST",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            13,
-            50,
-            1,
-            0,
-            64,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/power-outage.jpg"
     },
     {
         "title": "Demand for computer chips fuelled by AI could reshape global politics and security",
@@ -2754,24 +3330,6 @@
         "image": ""
     },
     {
-        "title": "AI-generated images of Trump with Black voters being spread by supporters",
-        "link": "https://www.theguardian.com/us-news/2024/mar/04/trump-ai-generated-images-black-voters",
-        "date": "Mon, 04 Mar 2024 13:08:44 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            13,
-            8,
-            44,
-            0,
-            64,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/cd8fc8e1adb8b564cc21c635b2a9bf8085a73a50/0_186_5618_3373/master/5618.jpg?width=140&quality=85&auto=format&fit=max&s=2250197d68e14ea012696aa00e517cff"
-    },
-    {
         "title": "AI bias: the organised struggle against automated discrimination",
         "link": "https://theconversation.com/ai-bias-the-organised-struggle-against-automated-discrimination-223988",
         "date": "2024-03-04T12:41:55Z",
@@ -2788,24 +3346,6 @@
         ],
         "source": "theconversation.com",
         "image": ""
-    },
-    {
-        "title": "The US stock markets are booming. But why? | Kenneth Rogoff",
-        "link": "https://www.theguardian.com/business/2024/mar/04/us-stock-markets-are-booming-but-why",
-        "date": "Mon, 04 Mar 2024 11:54:06 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            11,
-            54,
-            6,
-            0,
-            64,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/40ab185101a656a68b369086e4d42c0135efc8a0/0_123_3689_2214/master/3689.jpg?width=140&quality=85&auto=format&fit=max&s=ee6ea471af397e56fed1849c51942ddf"
     },
     {
         "title": "Google launches $5m prize to find actual uses for quantum computers",
@@ -2844,24 +3384,6 @@
         "image": "https://images.idgesg.net/images/article/2017/07/science-fiction-space-cloud-100729097-small.jpg"
     },
     {
-        "title": "AI bot 'Jennifer' calling California voters for Congress hopeful",
-        "link": "https://techxplore.com/news/2024-03-ai-bot-jennifer-california-voters.html",
-        "date": "Mon, 04 Mar 2024 03:58:32 EST",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            8,
-            58,
-            32,
-            0,
-            64,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/peter-dixons-operation.jpg"
-    },
-    {
         "title": "India demands beta AIs secure government permission before going public",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/04/india_ai_permission/",
         "date": "2024-03-04T06:26:11.00Z",
@@ -2898,24 +3420,6 @@
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/01150204/SEI_193381736.jpg"
     },
     {
-        "title": "Episode one \u2013 The connectionists",
-        "link": "https://www.theguardian.com/technology/audio/2024/mar/04/episode-one-the-connectionists-ai-podcast",
-        "date": "Mon, 04 Mar 2024 05:00:20 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            5,
-            0,
-            20,
-            0,
-            64,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/b6b09640eaaf29d09e559944c561835210a9998b/1_0_9291_5576/master/9291.jpg?width=140&quality=85&auto=format&fit=max&s=7e9df9ed0a3cdc4fc90e1bcaa4f5707c"
-    },
-    {
         "title": "LWiAI Podcast #157 - Gemini controversy, new Mistral models, Deepmind's Genie & Griffinn, AI Warfare is here",
         "link": "https://lastweekin.ai/p/lwiai-podcast-157-gemini-controversy",
         "date": "Sun, 03 Mar 2024 20:13:04 GMT",
@@ -2931,42 +3435,6 @@
             0
         ],
         "source": "lastweekin.ai",
-        "image": ""
-    },
-    {
-        "title": "What Is OpenAI\u2019s ChatGPT Plus? Here\u2019s What You Should Know",
-        "link": "https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/",
-        "date": "Sun, 03 Mar 2024 12:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            3,
-            12,
-            0,
-            0,
-            6,
-            63,
-            0
-        ],
-        "source": "wired.com",
-        "image": "https://media.wired.com/photos/641cf5a980545eda57eee5fc/master/pass/New-GPT-4-Features-Business-1291963891.jpg"
-    },
-    {
-        "title": "Dune: Part 2 tries to balance the book\u2019s canon with creative license (spoilers)",
-        "link": "https://venturebeat.com/ai/dune-part-2-tries-to-balance-the-books-canon-with-creative-license-spoilers/",
-        "date": "Sat, 02 Mar 2024 21:45:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            2,
-            21,
-            45,
-            0,
-            5,
-            62,
-            0
-        ],
-        "source": "venturebeat.com",
         "image": ""
     },
     {
@@ -2988,42 +3456,6 @@
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Broadcom-under-the-magnifying-glass.jpeg"
     },
     {
-        "title": "\u2018I can cry without feeling stigma\u2019: meet the people turning to AI chatbots for therapy",
-        "link": "https://www.theguardian.com/lifeandstyle/2024/mar/02/can-ai-chatbot-therapists-do-better-than-the-real-thing",
-        "date": "Sat, 02 Mar 2024 16:00:34 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            2,
-            16,
-            0,
-            34,
-            5,
-            62,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/7b8b39f2b5abb9658a847146874475e5c2df03dd/0_184_5067_3040/master/5067.jpg?width=140&quality=85&auto=format&fit=max&s=f1a974560ac1d3f4a38dd93fb304a371"
-    },
-    {
-        "title": "AI\u2019s craving for data is matched only by a runaway thirst for water and energy | John Naughton",
-        "link": "https://www.theguardian.com/commentisfree/2024/mar/02/ais-craving-for-data-is-matched-only-by-a-runaway-thirst-for-water-and-energy",
-        "date": "Sat, 02 Mar 2024 15:55:33 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            2,
-            15,
-            55,
-            33,
-            5,
-            62,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/12576f906a47ff23877c1d6676c8e5890e80df37/0_160_4800_2880/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=8ac7fea3ef4df5aa3caef568cea4deae"
-    },
-    {
         "title": "A Few Social Media Influencers Are Shaping AI",
         "link": "https://spectrum.ieee.org/social-media-ai",
         "date": "Sat, 02 Mar 2024 14:00:02 +0000",
@@ -3042,60 +3474,6 @@
         "image": "https://spectrum.ieee.org/media-library/illustration-of-a-group-of-people-standing-on-gray-lines-that-branch-out-in-different-directions-on-a-navy-background.jpg?id=51614082&width=980"
     },
     {
-        "title": "The Guardian\u2019s new podcast series about AI: Black Box \u2013 prologue",
-        "link": "https://www.theguardian.com/science/audio/2024/mar/02/the-guardians-new-podcast-series-about-ai-black-box-prologue",
-        "date": "Sat, 02 Mar 2024 08:00:24 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            2,
-            8,
-            0,
-            24,
-            5,
-            62,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/b6b09640eaaf29d09e559944c561835210a9998b/0_0_9293_5576/master/9293.jpg?width=140&quality=85&auto=format&fit=max&s=ac870c8b2fae32f6023d26f729561bbb"
-    },
-    {
-        "title": "The Wild Claim at the Heart of Elon Musk\u2019s OpenAI Lawsuit",
-        "link": "https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/",
-        "date": "Fri, 01 Mar 2024 22:50:40 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            22,
-            50,
-            40,
-            4,
-            61,
-            0
-        ],
-        "source": "wired.com",
-        "image": "https://media.wired.com/photos/65e23950aa28795d9218b146/master/pass/Musk-Altman-Bizarre-Lawsuit-Claims-Business-1258197415.jpg"
-    },
-    {
-        "title": "US stock markets close at record highs as enthusiasm for AI drives gains",
-        "link": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-        "date": "Fri, 01 Mar 2024 21:56:28 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            21,
-            56,
-            28,
-            4,
-            61,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/dd523ec21e76471b1119e8dbd02c6e0a3adc83dd/0_6_3000_1799/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=20fe946916c38201d459f5e0fc9ffb2d"
-    },
-    {
         "title": "AI chip startup Groq acquires Definitive Intelligence to scale its cloud platform",
         "link": "https://siliconangle.com/2024/03/01/ai-chip-startup-groq-acquires-definitive-intelligence-scale-cloud-platform/",
         "date": "Fri, 01 Mar 2024 21:44:07 +0000",
@@ -3112,24 +3490,6 @@
         ],
         "source": "siliconangle.com",
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Groq.png"
-    },
-    {
-        "title": "Five ways AI is helping to reduce supply chain attacks on DevOps teams",
-        "link": "https://venturebeat.com/security/five-ways-ai-is-helping-to-reduce-supply-chain-attacks-on-devops-teams/",
-        "date": "Fri, 01 Mar 2024 20:55:50 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            20,
-            55,
-            50,
-            4,
-            61,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
     },
     {
         "title": "On theCUBE Pod live from MWC Barcelona: A deep dive into networking, silicon innovation and the future of data centers",
@@ -3166,24 +3526,6 @@
         ],
         "source": "siliconangle.com",
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Photo.jpg"
-    },
-    {
-        "title": "Musk sues OpenAI over 'betrayal' of mission",
-        "link": "https://techxplore.com/news/2024-03-musk-sues-openai-betrayal-mission.html",
-        "date": "Fri, 01 Mar 2024 13:43:20 EST",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            18,
-            43,
-            20,
-            4,
-            61,
-            0
-        ],
-        "source": "techxplore.com",
-        "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/elon-musk-is-asking-th.jpg"
     },
     {
         "title": "In 2024, we\u2019ll truly find out how robust our democracies are to online disinformation campaigns",
@@ -3258,24 +3600,6 @@
         "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/mwc2024.jpeg"
     },
     {
-        "title": "Elon Musk sues OpenAI accusing it of putting profit before humanity",
-        "link": "https://www.theguardian.com/technology/2024/mar/01/elon-musk-sues-open-ai-profit-power-microsoft-sam-altman",
-        "date": "Fri, 01 Mar 2024 16:10:00 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            16,
-            10,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/a9e1b2f013bf9a705d2f5c68ee7e04f940c7c964/1_0_2559_1536/master/2559.jpg?width=140&quality=85&auto=format&fit=max&s=0396d08d544dcf9ee9cc74de5ddda00c"
-    },
-    {
         "title": "Musk joins OpenAI lawsuit queue, says there's nothing 'open' about it",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/01/elon_musk_sues_openai_gpt4/",
         "date": "2024-03-01T15:32:07.00Z",
@@ -3348,24 +3672,6 @@
         "image": "https://images.idgesg.net/images/article/2023/12/sam-altman-openai-100950687-small.jpg"
     },
     {
-        "title": "The Mind-Blowing Experience of a Chatbot That Answers Instantly",
-        "link": "https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "wired.com",
-        "image": "https://media.wired.com/photos/65e110d19addb0324b7920f3/master/pass/Faster-Chatbots-Groq-Plaintext-Business-1223649990-screenshot-site.jpg"
-    },
-    {
         "title": "Elon Musk asks court to decide if GPT-4 has human-level intelligence",
         "link": "https://www.newscientist.com/article/2420111-elon-musk-asks-court-to-decide-if-gpt-4-has-human-level-intelligence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
         "date": "Fri, 01 Mar 2024 13:43:53 +0000",
@@ -3436,24 +3742,6 @@
         ],
         "source": "infoworld.com",
         "image": "https://images.idgesg.net/images/article/2024/02/shutterstock_1820130491-100961602-small.jpg"
-    },
-    {
-        "title": "TechRepublic Premium Editorial Calendar: Policies, Checklists, Hiring Kits and Glossaries for Download",
-        "link": "https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar-it-policies-checklists-toolkits-and-research-for-download/",
-        "date": "Fri, 01 Mar 2024 08:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            8,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "techrepublic.com",
-        "image": ""
     },
     {
         "title": "AI to fix UK Civil Service's bureaucratic bungling, deputy PM bets",
@@ -4644,24 +4932,6 @@
         "image": ""
     },
     {
-        "title": "Gen AI and cloud optimization help Asian SuperApp Grab turn a profit",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/02/26/grab_profitable_quarter/",
-        "date": "2024-02-26T05:47:31.00Z",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            5,
-            47,
-            31,
-            0,
-            57,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
         "title": "Putting AI into the hands of people with problems to solve",
         "link": "https://news.mit.edu/2024/pienso-putting-user-friendly-ai-problem-solving-0226",
         "date": "Mon, 26 Feb 2024 00:00:00 -0500",
@@ -4695,24 +4965,6 @@
             0
         ],
         "source": "theconversation.com",
-        "image": ""
-    },
-    {
-        "title": "Microsoft trying to stop Copilot generating fake Putin comments on Navalny's death",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/02/26/ai_in_brief/",
-        "date": "2024-02-26T04:29:11.00Z",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            4,
-            29,
-            11,
-            0,
-            57,
-            0
-        ],
-        "source": "theregister.com",
         "image": ""
     },
     {
@@ -4767,42 +5019,6 @@
             0
         ],
         "source": "theconversation.com",
-        "image": ""
-    },
-    {
-        "title": "Judge slaps down law firm using ChatGPT to justify six-figure trial fee",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/02/24/chatgpt_cuddy_legal_fees/",
-        "date": "2024-02-24T10:52:13.00Z",
-        "date_parsed": [
-            2024,
-            2,
-            24,
-            10,
-            52,
-            13,
-            5,
-            55,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "AI comes for jobs at studio of American filmmaker Tyler Perry",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/02/23/ai_jobs_tyler_perry/",
-        "date": "2024-02-23T22:28:07.00Z",
-        "date_parsed": [
-            2024,
-            2,
-            23,
-            22,
-            28,
-            7,
-            4,
-            54,
-            0
-        ],
-        "source": "theregister.com",
         "image": ""
     },
     {
@@ -4878,24 +5094,6 @@
         "image": ""
     },
     {
-        "title": "Microsoft adds more AI to Photos in Windows 10 and 11",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/02/23/microsoft_adds_more_ai_to_windows/",
-        "date": "2024-02-23T12:50:07.00Z",
-        "date_parsed": [
-            2024,
-            2,
-            23,
-            12,
-            50,
-            7,
-            4,
-            54,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
         "title": "A robot dog has learned to open doors with its leg",
         "link": "https://www.newscientist.com/article/2418439-a-robot-dog-has-learned-to-open-doors-with-its-leg/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
         "date": "Fri, 23 Feb 2024 12:00:17 +0000",
@@ -4912,24 +5110,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/02/22125649/SEI_192712713.jpg"
-    },
-    {
-        "title": "Are you ready to back up your AI chatbot's promises? You'd better be",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/02/23/opinion_column/",
-        "date": "2024-02-23T11:33:15.00Z",
-        "date_parsed": [
-            2024,
-            2,
-            23,
-            11,
-            33,
-            15,
-            4,
-            54,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
     },
     {
         "title": "When cloud AI lands you in court",
@@ -4966,24 +5146,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/02/20114234/SEI_191483581.jpg"
-    },
-    {
-        "title": "Google sends Gemini AI back to engineering to adjust its White balance",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/02/23/google_suspends_gemini/",
-        "date": "2024-02-23T00:05:13.00Z",
-        "date_parsed": [
-            2024,
-            2,
-            23,
-            0,
-            5,
-            13,
-            4,
-            54,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
     },
     {
         "title": "Your Predictions Questions Answered: Leveraging GenAI Successfully",
@@ -5110,24 +5272,6 @@
         ],
         "source": "sciencedaily.com",
         "image": ""
-    },
-    {
-        "title": "Google stresses safety with Gemma open models",
-        "link": "https://www.infoworld.com/article/3713140/google-stresses-safety-with-gemma-open-models.html#tk.rss_machinelearning",
-        "date": "Wed, 21 Feb 2024 12:48:00 -0800",
-        "date_parsed": [
-            2024,
-            2,
-            21,
-            20,
-            48,
-            0,
-            2,
-            52,
-            0
-        ],
-        "source": "infoworld.com",
-        "image": "https://images.idgesg.net/images/article/2018/07/google-lgo-sign_headquarters-poland-by-pawel-czerwinski-unsplash-100764252-small.jpg"
     },
     {
         "title": "OpenAI\u2019s new generative tool Sora could revolutionize marketing and content creation",
@@ -5616,24 +5760,6 @@
         "image": ""
     },
     {
-        "title": "AI tools produce dazzling results \u2013 but do they really have \u2018intelligence\u2019?",
-        "link": "https://theconversation.com/ai-tools-produce-dazzling-results-but-do-they-really-have-intelligence-223311",
-        "date": "2024-02-13T19:06:47Z",
-        "date_parsed": [
-            2024,
-            2,
-            13,
-            19,
-            6,
-            47,
-            1,
-            44,
-            0
-        ],
-        "source": "theconversation.com",
-        "image": ""
-    },
-    {
         "title": "The FCC\u2019s Ban on AI in Robocalls Won\u2019t Be Enough",
         "link": "https://spectrum.ieee.org/ai-robocalls-2667266649",
         "date": "Tue, 13 Feb 2024 17:00:03 +0000",
@@ -5829,24 +5955,6 @@
             0
         ],
         "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "A Patchwork Of US AI Regulations Is Here \u2014 It\u2019s Time To Deal With It",
-        "link": "https://www.forrester.com/blogs/a-patchwork-of-us-ai-regulations-is-here-its-time-to-deal-with-it/",
-        "date": "Fri, 09 Feb 2024 17:58:36 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            9,
-            17,
-            58,
-            36,
-            4,
-            40,
-            0
-        ],
-        "source": "forrester.com",
         "image": ""
     },
     {
@@ -7992,24 +8100,6 @@
         "image": "https://images.newscientist.com/wp-content/uploads/2023/12/19112404/SEI_184620714.jpg"
     },
     {
-        "title": "Last Week in AI #251: AI dataset scandal, Anthropic to defend users from copyright lawsuits, Midjourney V6 launches, and more!",
-        "link": "https://lastweekin.ai/p/251",
-        "date": "Mon, 25 Dec 2023 17:00:05 GMT",
-        "date_parsed": [
-            2023,
-            12,
-            25,
-            17,
-            0,
-            5,
-            0,
-            359,
-            0
-        ],
-        "source": "lastweekin.ai",
-        "image": ""
-    },
-    {
         "title": "NeurIPS 2023 Recap \u2014 Best Papers",
         "link": "https://www.latent.space/p/neurips-2023-papers",
         "date": "Sat, 23 Dec 2023 23:44:13 GMT",
@@ -8352,24 +8442,6 @@
         "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202312/MIT-Transition-State-01-press.jpg?itok=TqcLAFI6"
     },
     {
-        "title": "Housework robot can learn to do almost any chore in 20 minutes",
-        "link": "https://www.newscientist.com/article/2408273-housework-robot-can-learn-to-do-almost-any-chore-in-20-minutes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
-        "date": "Fri, 15 Dec 2023 09:00:30 +0000",
-        "date_parsed": [
-            2023,
-            12,
-            15,
-            9,
-            0,
-            30,
-            4,
-            349,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2023/12/13121855/SEI_183894622.jpg"
-    },
-    {
         "title": "The \"Normsky\" architecture for AI coding agents \u2014 with Beyang Liu + Steve Yegge of SourceGraph",
         "link": "https://www.latent.space/p/sourcegraph",
         "date": "Thu, 14 Dec 2023 18:48:22 GMT",
@@ -8386,24 +8458,6 @@
         ],
         "source": "latent.space",
         "image": ""
-    },
-    {
-        "title": "DeepMind AI with built-in fact-checker makes mathematical discoveries",
-        "link": "https://www.newscientist.com/article/2407897-deepmind-ai-with-built-in-fact-checker-makes-mathematical-discoveries/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
-        "date": "Thu, 14 Dec 2023 16:00:54 +0000",
-        "date_parsed": [
-            2023,
-            12,
-            14,
-            16,
-            0,
-            54,
-            3,
-            348,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2023/12/14114531/SEI_184047213.jpg"
     },
     {
         "title": "Three MIT students selected as inaugural MIT-Pillar AI Collective Fellows",
@@ -8530,24 +8584,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2023/12/13141250/SEI_183160249.jpg"
-    },
-    {
-        "title": "A tale of two Silicon Valley Sams \u2013 Bankman-Fried and Altman",
-        "link": "https://www.newscientist.com/article/mg26034694-300-a-tale-of-two-silicon-valley-sams-bankman-fried-and-altman/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=technology",
-        "date": "Wed, 13 Dec 2023 18:00:00 +0000",
-        "date_parsed": [
-            2023,
-            12,
-            13,
-            18,
-            0,
-            0,
-            2,
-            347,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2023/12/12143841/SEI_183065014.jpg"
     },
     {
         "title": "Closing the design-to-manufacturing gap for optical devices",
@@ -9162,24 +9198,6 @@
         "image": ""
     },
     {
-        "title": "The State of Silicon and the GPU Poors - with Dylan Patel of SemiAnalysis",
-        "link": "https://www.latent.space/p/semianalysis",
-        "date": "Fri, 17 Nov 2023 19:32:06 GMT",
-        "date_parsed": [
-            2023,
-            11,
-            17,
-            19,
-            32,
-            6,
-            4,
-            321,
-            0
-        ],
-        "source": "latent.space",
-        "image": ""
-    },
-    {
         "title": "The mind's eye of a neural network system",
         "link": "https://www.sciencedaily.com/releases/2023/11/231116141058.htm",
         "date": "Thu, 16 Nov 2023 14:10:58 EST",
@@ -9574,24 +9592,6 @@
         ],
         "source": "sciencedaily.com",
         "image": ""
-    },
-    {
-        "title": "Making genetic prediction models more inclusive",
-        "link": "https://news.mit.edu/2023/making-genetic-prediction-models-more-inclusive-1026",
-        "date": "Thu, 26 Oct 2023 11:00:00 -0400",
-        "date_parsed": [
-            2023,
-            10,
-            26,
-            15,
-            0,
-            0,
-            3,
-            299,
-            0
-        ],
-        "source": "mit.edu",
-        "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202310/MIT-Polygenic-Scores-01.jpg?itok=ixcMK4U6"
     },
     {
         "title": "Vision via sound for the blind",

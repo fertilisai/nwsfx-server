@@ -1,57 +1,1281 @@
 [
     {
-        "title": "NASA high-altitude balloon breaks agency flight record",
-        "link": "https://www.space.com/nasa-gusto-high-altitude-balloon-breaks-flight-record",
-        "date": "Thu, 07 Mar 2024 19:00:01 +0000",
+        "title": "SpaceX to launch 23 Starlink satellites from California tonight in 2nd leg of spaceflight doubleheader",
+        "link": "https://www.space.com/spacex-starlink-launch-group-7-17",
+        "date": "Sun, 10 Mar 2024 20:53:15 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            20,
+            53,
+            15,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/ygEz73stQzeYT9eoG8ExnA.jpg"
+    },
+    {
+        "title": "SpaceX launching 23 Starlink satellites from Florida tonight",
+        "link": "https://www.space.com/spacex-starlink-launch-group-6-43",
+        "date": "Sun, 10 Mar 2024 20:40:34 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            20,
+            40,
+            34,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/PuY8fttHe2hf8Tiiw4KQoH.jpg"
+    },
+    {
+        "title": "Benro Rhino 24C Two Series travel tripod and VX25 head review",
+        "link": "https://www.space.com/benro-rhino-24c-two-series-travel-tripod-review",
+        "date": "Sun, 10 Mar 2024 18:29:07 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            18,
+            29,
+            7,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/L88cfPeKK3T9mFNM4cdCik.jpg"
+    },
+    {
+        "title": "Best laptops for astronomers 2024: Link up telescopes and edit astrophotographs",
+        "link": "https://www.space.com/best-laptops-for-astronomers",
+        "date": "Sun, 10 Mar 2024 15:10:38 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            15,
+            10,
+            38,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/4Bxz2783Pr8prRrVudmcAe.jpg"
+    },
+    {
+        "title": "New UAE astronauts prepare for Ramadan and family reunions: report",
+        "link": "https://www.space.com/uae-astronauts-new-ramadan-family-2024",
+        "date": "Sun, 10 Mar 2024 13:00:01 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            13,
+            0,
+            1,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/GeABKeaYJMYBZwSx39kQ2P.jpg"
+    },
+    {
+        "title": "The new moon lets the winter constellations shine tonight",
+        "link": "https://www.space.com/new-moon-march-2024",
+        "date": "Sun, 10 Mar 2024 12:00:37 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            0,
+            37,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/SWydabXW6JL7cnG7LdJuBA.jpg"
+    },
+    {
+        "title": "Why astronomers are worried about 2 major telescopes right now",
+        "link": "https://www.space.com/giant-telescope-projects-drama-tmt-gmt",
+        "date": "Sun, 10 Mar 2024 10:00:01 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            10,
+            0,
+            1,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/7MKg3r9BQr8wuppicaC7CA.jpg"
+    },
+    {
+        "title": "A chronology of the April 8 total solar eclipse",
+        "link": "https://www.space.com/total-solar-eclipse-chronology-april-8-2024",
+        "date": "Sun, 10 Mar 2024 10:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            10,
+            0,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/UKzs8JJGHkt5hbfzHPfSqZ.jpg"
+    },
+    {
+        "title": "10 things you probably didn't know about the 2024 total solar eclipse",
+        "link": "https://www.space.com/10-things-you-probably-did-not-know-about-the-2024-total-solar-eclipse",
+        "date": "Sat, 09 Mar 2024 15:00:37 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            15,
+            0,
+            37,
+            5,
+            69,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/DdzJhigzqFiLNsTGXTps4n.jpg"
+    },
+    {
+        "title": "The next chapter of lunar exploration could forever change the moon \u2014 and our relationship to it (op-ed)",
+        "link": "https://www.space.com/moon-occupation-nearest-neighbor",
+        "date": "Sat, 09 Mar 2024 14:00:15 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            14,
+            0,
+            15,
+            5,
+            69,
+            0
+        ],
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/dbXcFfXqn4d68danptipjF.jpg"
+    },
+    {
+        "title": "Microplastics Linked to Heart Attack, Stroke and Death",
+        "link": "https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death/",
+        "date": "Sat, 09 Mar 2024 14:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            14,
+            0,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "How the Seven Bridges of K\u00f6nigsberg Spawned New Math",
+        "link": "https://www.scientificamerican.com/article/how-the-seven-bridges-of-koenigsberg-spawned-new-math/",
+        "date": "Sat, 09 Mar 2024 13:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            13,
+            0,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "These Invasive Ants Are Changing How Lions Hunt",
+        "link": "https://www.scientificamerican.com/podcast/episode/these-invasive-ants-are-changing-how-lions-hunt/",
+        "date": "Fri, 08 Mar 2024 23:30:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            23,
+            30,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Exclusive: Aid groups have no concrete long-term health plans for Gaza",
+        "link": "https://www.newscientist.com/article/2421388-exclusive-aid-groups-have-no-concrete-long-term-health-plans-for-gaza/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 21:49:22 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            21,
+            49,
+            22,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/08212708/SEI_194760108.jpg"
+    },
+    {
+        "title": "Snail robot excretes sticky mucus that helps it crawl up slopes",
+        "link": "https://www.newscientist.com/article/2421134-snail-robot-excretes-sticky-mucus-that-helps-it-crawl-up-slopes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 20:00:29 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            0,
+            29,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/08125514/SEI_195081260.jpg"
+    },
+    {
+        "title": "Meet the Real-Life Versions of Dune\u2019s Epic Sandworms",
+        "link": "https://www.scientificamerican.com/article/meet-the-real-life-versions-of-dunes-epic-sandworms/",
+        "date": "Fri, 08 Mar 2024 20:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Pushing the boundary on ultralow frequency gravitational waves",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240308142750.htm",
+        "date": "Fri, 08 Mar 2024 14:27:50 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            19,
+            27,
+            50,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Quantum memory device could stop unhackable networks from failing",
+        "link": "https://www.newscientist.com/article/2420664-quantum-memory-device-could-stop-unhackable-networks-from-failing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 18:00:19 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            18,
+            0,
+            19,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06191034/SEI_194647530.jpg"
+    },
+    {
+        "title": "Small class sizes not better for pupils' grades or resilience, says study",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240308123326.htm",
+        "date": "Fri, 08 Mar 2024 12:33:26 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            33,
+            26,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Optimizing boosters: How COVID mRNA vaccines reshape immune memory after each dose",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240308123303.htm",
+        "date": "Fri, 08 Mar 2024 12:33:03 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            33,
+            3,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Researchers develop artificial building blocks of life",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240308123258.htm",
+        "date": "Fri, 08 Mar 2024 12:32:58 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            32,
+            58,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Good news for coral reef restoration efforts: Study finds 'full recovery' of reef growth within four years",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240308123248.htm",
+        "date": "Fri, 08 Mar 2024 12:32:48 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            32,
+            48,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Balancing training data and human knowledge makes AI act more like a scientist",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240308123245.htm",
+        "date": "Fri, 08 Mar 2024 12:32:45 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            32,
+            45,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Lack of focus doesn't equal lack of intelligence -- it's proof of an intricate brain",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240308122958.htm",
+        "date": "Fri, 08 Mar 2024 12:29:58 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            29,
+            58,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Lead from Old Paint and Pipes Is Still a Deadly Hazard in Millions of U.S. Homes",
+        "link": "https://www.scientificamerican.com/article/lead-from-old-paint-and-pipes-is-still-a-deadly-hazard-in-millions-of-us/",
+        "date": "Fri, 08 Mar 2024 17:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Biden\u2019s State of the Union Promises Big Job Gains from Clean Energy Policy",
+        "link": "https://www.scientificamerican.com/article/bidens-state-of-the-union-promises-big-job-gains-from-clean-energy-policy/",
+        "date": "Fri, 08 Mar 2024 16:30:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            30,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Damaged coral reefs can recover quickly after restoration work",
+        "link": "https://www.newscientist.com/article/2421390-damaged-coral-reefs-can-recover-quickly-after-restoration-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 16:00:28 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            0,
+            28,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/08094804/SEI_195065281.jpg"
+    },
+    {
+        "title": "Chemical injection brings dying batteries back to life",
+        "link": "https://www.newscientist.com/article/2421357-chemical-injection-brings-dying-batteries-back-to-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 16:00:03 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            0,
+            3,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/08144105/SEI_195074454.jpg"
+    },
+    {
+        "title": "Big monarch caterpillars don\u2019t avoid toxic milkweed goo. They binge on it",
+        "link": "https://www.sciencenews.org/article/monarch-caterpillar-milkweed-butterfly-binge",
+        "date": "Fri, 08 Mar 2024 15:45:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            45,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencenews.org",
+        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/03/030424_sm_monarch-caterpillars_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
+        "title": "Paying Attention to Sensations Can Help Reset the Mind",
+        "link": "https://www.scientificamerican.com/article/paying-attention-to-sensations-can-help-reset-the-mind/",
+        "date": "Fri, 08 Mar 2024 14:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "How Arguments that Embryos Are People Pose a Threat to IVF",
+        "link": "https://www.scientificamerican.com/article/how-arguments-that-embryos-are-people-pose-a-threat-to-ivf/",
+        "date": "Fri, 08 Mar 2024 13:30:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            30,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "AI chatbot models \u2018think\u2019 in English even when using other languages",
+        "link": "https://www.newscientist.com/article/2420973-ai-chatbot-models-think-in-english-even-when-using-other-languages/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 13:00:25 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            0,
+            25,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07102147/SEI_194777974.jpg"
+    },
+    {
+        "title": "\u2018Space: The Longest Goodbye\u2019 explores astronauts\u2019 mental health",
+        "link": "https://www.sciencenews.org/article/space-longest-goodbye-astronaut-mental-health-documentary",
+        "date": "Fri, 08 Mar 2024 13:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencenews.org",
+        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/03/032324_reviews_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
+        "title": "NASA\u2019s Hopes for Space Solar Power Are Looking Dim",
+        "link": "https://www.scientificamerican.com/article/nasas-hopes-for-space-solar-power-are-looking-dim/",
+        "date": "Fri, 08 Mar 2024 12:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            12,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "How Big Is Space?",
+        "link": "https://www.scientificamerican.com/article/how-big-is-space/",
+        "date": "Fri, 08 Mar 2024 11:45:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            11,
+            45,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Engineers are diverting Mississippi river to restore Louisiana\u2019s coast",
+        "link": "https://www.newscientist.com/article/2420178-engineers-are-diverting-mississippi-river-to-restore-louisianas-coast/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 11:00:35 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            11,
+            0,
+            35,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07190857/SEI_194500098.jpg"
+    },
+    {
+        "title": "How one theory ties together everything we know about the universe",
+        "link": "https://www.newscientist.com/article/2420992-how-one-theory-ties-together-everything-we-know-about-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Fri, 08 Mar 2024 10:00:56 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            10,
+            0,
+            56,
+            4,
+            68,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06153251/SEI_1944674991.jpg"
+    },
+    {
+        "title": "Children with 'lazy eye' are at increased risk of serious disease in adulthood",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307212445.htm",
+        "date": "Thu, 07 Mar 2024 21:24:45 EST",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            2,
+            24,
+            45,
+            4,
+            68,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Buried vases hint that ancient Americans might have drunk tobacco",
+        "link": "https://www.nature.com/articles/d41586-024-00602-x",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "A better way to charge a quantum battery",
+        "link": "https://www.nature.com/articles/d41586-024-00652-1",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "Show off your science in <i>Nature</i>\u2019s photo competition",
+        "link": "https://www.nature.com/articles/d41586-024-00688-3",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "China promises more money for science in 2024",
+        "link": "https://www.nature.com/articles/d41586-024-00695-4",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "How a light touch registers on the skin",
+        "link": "https://www.nature.com/articles/d41586-024-00651-2",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines",
+        "link": "https://www.nature.com/articles/d41586-024-00699-0",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "\u2018There is no cookie cutter female scientist\u2019",
+        "link": "https://www.nature.com/articles/d41586-024-00703-7",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "Superconductivity scandal: the inside story of deception in a rising star's physics lab",
+        "link": "https://www.nature.com/articles/d41586-024-00716-2",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "Roger Guillemin (1924\u20132024), neuroscientist who showed how the brain controls hormones",
+        "link": "https://www.nature.com/articles/d41586-024-00714-4",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "Workplaces are failing Black women; they must do better",
+        "link": "https://www.nature.com/articles/d41586-024-00719-z",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "159 days of solitude: how loneliness haunts astronauts",
+        "link": "https://www.nature.com/articles/d41586-024-00717-1",
+        "date": "2024-03-08",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            0,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "Interstellar signal linked to aliens was actually just a truck",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307165128.htm",
+        "date": "Thu, 07 Mar 2024 16:51:28 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            51,
+            28,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "COVID vaccines are safe for pregnant women and babies, study finds",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307165123.htm",
+        "date": "Thu, 07 Mar 2024 16:51:23 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            51,
+            23,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "New study reveals insight into which animals are most vulnerable to extinction due to climate change",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307165112.htm",
+        "date": "Thu, 07 Mar 2024 16:51:12 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            51,
+            12,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "How does a virus hijack insect sperm to control disease vectors and pests?",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307165104.htm",
+        "date": "Thu, 07 Mar 2024 16:51:04 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            51,
+            4,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "How the brain coordinates speaking and breathing",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307165101.htm",
+        "date": "Thu, 07 Mar 2024 16:51:01 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            51,
+            1,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Loss of nature costs more than previously estimated",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307165053.htm",
+        "date": "Thu, 07 Mar 2024 16:50:53 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            50,
+            53,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Clownfish avoid the sting of their anemone hosts with sugary slime",
+        "link": "https://www.newscientist.com/article/2421343-clownfish-avoid-the-sting-of-their-anemone-hosts-with-sugary-slime/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Thu, 07 Mar 2024 21:20:35 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            20,
+            35,
+            3,
+            67,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07171047/SEI_194600470.jpg"
+    },
+    {
+        "title": "6 things to look out for during the total solar eclipse",
+        "link": "https://www.newscientist.com/article/2421194-6-things-to-look-out-for-during-the-total-solar-eclipse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Thu, 07 Mar 2024 20:00:42 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            20,
+            0,
+            42,
+            3,
+            67,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07151114/SEI_194931990.jpg"
+    },
+    {
+        "title": "Deepwater Sharks Are Threatened by Demand for Liver Oil",
+        "link": "https://www.scientificamerican.com/article/deepwater-sharks-are-threatened-by-demand-for-liver-oil/",
+        "date": "Thu, 07 Mar 2024 19:15:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            19,
+            15,
+            0,
+            3,
+            67,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Worm-like amphibian produces a kind of milk for its hatchlings",
+        "link": "https://www.newscientist.com/article/2421263-worm-like-amphibian-produces-a-kind-of-milk-for-its-hatchlings/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Thu, 07 Mar 2024 19:00:22 +0000",
         "date_parsed": [
             2024,
             3,
             7,
             19,
             0,
-            1,
+            22,
             3,
             67,
             0
         ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/QDynPAQ2mbUmThgEt4mZud.jpg"
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07154434/SEI_194943144.jpg"
     },
     {
-        "title": "NASA's James Webb Space Telescope mission \u2014 Live updates",
-        "link": "https://www.space.com/news/live/james-webb-space-telescope-updates",
-        "date": "Thu, 07 Mar 2024 16:10:48 +0000",
+        "title": "This is the first egg-laying amphibian found to feed its babies \u2018milk\u2019",
+        "link": "https://www.sciencenews.org/article/caecilian-egg-laying-amphibian-feed-milk-animal",
+        "date": "Thu, 07 Mar 2024 19:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            19,
+            0,
+            0,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencenews.org",
+        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/03/030624_jb_amphibian-milk_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
+        "title": "The First Amphibian Known to Beg Its Mother for Milk Is More Bizarre than You Might Imagine",
+        "link": "https://www.scientificamerican.com/article/the-first-amphibian-known-to-beg-its-mother-for-milk-is-more-bizarre-than/",
+        "date": "Thu, 07 Mar 2024 19:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            19,
+            0,
+            0,
+            3,
+            67,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Extreme Summer Heat Threatens Coral Replanting Effort",
+        "link": "https://www.scientificamerican.com/article/extreme-summer-heat-threatens-coral-replanting-effort/",
+        "date": "Thu, 07 Mar 2024 18:45:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            18,
+            45,
+            0,
+            3,
+            67,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
+    },
+    {
+        "title": "Experimental weight loss pill seems to be more potent than Ozempic",
+        "link": "https://www.newscientist.com/article/2421279-experimental-weight-loss-pill-seems-to-be-more-potent-than-ozempic/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Thu, 07 Mar 2024 16:43:02 +0000",
         "date_parsed": [
             2024,
             3,
             7,
             16,
-            10,
-            48,
+            43,
+            2,
             3,
             67,
             0
         ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/z8sf5yaERm5hCoeAaikmSX.jpg"
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07163850/SEI_194952775.jpg"
     },
     {
-        "title": "Big, dead satellite's crash was a space-junk wakeup call, experts say",
-        "link": "https://www.space.com/ers-2-satellite-crash-space-junk-wakeup-call",
-        "date": "Thu, 07 Mar 2024 16:00:53 +0000",
+        "title": "D-Wave says its quantum computers can solve otherwise impossible tasks",
+        "link": "https://www.newscientist.com/article/2420543-d-wave-says-its-quantum-computers-can-solve-otherwise-impossible-tasks/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Thu, 07 Mar 2024 16:33:52 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            16,
+            33,
+            52,
+            3,
+            67,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07162835/SEI_194951649.jpg"
+    },
+    {
+        "title": "Earth's earliest forest revealed in Somerset fossils",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307110751.htm",
+        "date": "Thu, 07 Mar 2024 11:07:51 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            16,
+            7,
+            51,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Children surpass a year of HIV remission after treatment pause",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307110740.htm",
+        "date": "Thu, 07 Mar 2024 11:07:40 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            16,
+            7,
+            40,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Cracking epigenetic inheritance: Biologists discovered the secrets of how gene traits are passed on",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307110735.htm",
+        "date": "Thu, 07 Mar 2024 11:07:35 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            16,
+            7,
+            35,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Baby quasars: Growing supermassive black holes",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307110725.htm",
+        "date": "Thu, 07 Mar 2024 11:07:25 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            16,
+            7,
+            25,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Foot-eye coordination: How our vision changes in rhythm with our walking",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240307110719.htm",
+        "date": "Thu, 07 Mar 2024 11:07:19 EST",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            16,
+            7,
+            19,
+            3,
+            67,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Salmon farms are increasingly being hit by mass die-offs",
+        "link": "https://www.newscientist.com/article/2421227-salmon-farms-are-increasingly-being-hit-by-mass-die-offs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Thu, 07 Mar 2024 16:00:10 +0000",
         "date_parsed": [
             2024,
             3,
             7,
             16,
             0,
-            53,
+            10,
             3,
             67,
             0
         ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/KyA2DJV2rCkEHVp2ZZKfn9.jpg"
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/07133156/SEI_194929075.jpg"
+    },
+    {
+        "title": "The Amazing Aerial Adventures of the 'Flying Feminist' Lilian Bland",
+        "link": "https://www.scientificamerican.com/article/the-amazing-aerial-adventures-of-the-flying-feminist-lillian-bland/",
+        "date": "Thu, 07 Mar 2024 16:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            16,
+            0,
+            0,
+            3,
+            67,
+            0
+        ],
+        "source": "scientificamerican.com",
+        "image": ""
     },
     {
         "title": "Scientists Thought Only Humans Learn Complex Behaviors from Others. They Were Wrong",
@@ -72,42 +1296,6 @@
         "image": ""
     },
     {
-        "title": "The Amazing Aerial Adventures of the 'Flying Feminist' Lillian Bland",
-        "link": "https://www.scientificamerican.com/article/the-amazing-aerial-adventures-of-the-flying-feminist-lillian-bland/",
-        "date": "Thu, 07 Mar 2024 16:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "Satellite snaps eerily circular holes in the clouds above Florida. What caused them?",
-        "link": "https://www.space.com/satellite-snaps-eerily-circular-holes-in-the-clouds-above-florida-what-caused-them",
-        "date": "Thu, 07 Mar 2024 15:00:20 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            0,
-            20,
-            3,
-            67,
-            0
-        ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/SCXmEQPhYqaanohgPscNf3.jpg"
-    },
-    {
         "title": "Jupiter\u2019s stormy surface replicated in lab",
         "link": "https://www.newscientist.com/article/2420751-jupiters-stormy-surface-replicated-in-lab/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
         "date": "Thu, 07 Mar 2024 14:30:21 +0000",
@@ -126,25 +1314,25 @@
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06191009/SEI_194778212.jpg"
     },
     {
-        "title": "6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years",
-        "link": "https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years",
-        "date": "Thu, 07 Mar 2024 14:00:24 +0000",
+        "title": "How air pollution may make it harder for pollinators to find flowers",
+        "link": "https://www.sciencenews.org/article/air-pollution-hard-pollinators-find-flowers",
+        "date": "Thu, 07 Mar 2024 14:00:00 +0000",
         "date_parsed": [
             2024,
             3,
             7,
             14,
             0,
-            24,
+            0,
             3,
             67,
             0
         ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/n4uiqhKKPwB3R5DdKZZFqE.jpg"
+        "source": "sciencenews.org",
+        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022224_sb_pollinatorandpollution_feat-1.png?fit=800%2C450&ssl=1"
     },
     {
-        "title": "How Starvation Causes Lasting Damage to the Body",
+        "title": "How Starvation in Gaza Could Cause Lasting Health Problems",
         "link": "https://www.scientificamerican.com/article/how-starvation-causes-lasting-damage-to-the-body/",
         "date": "Thu, 07 Mar 2024 14:00:00 +0000",
         "date_parsed": [
@@ -160,24 +1348,6 @@
         ],
         "source": "scientificamerican.com",
         "image": ""
-    },
-    {
-        "title": "NASA launches its 1st official tabletop roleplaying game campaign",
-        "link": "https://www.space.com/nasa-roleplaying-game-the-lost-universe",
-        "date": "Thu, 07 Mar 2024 13:00:09 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            0,
-            9,
-            3,
-            67,
-            0
-        ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/A7T6i98RvzLiqLTBNbVuik.jpg"
     },
     {
         "title": "We Need Small Astronomy as Much as Big Astronomy",
@@ -234,24 +1404,6 @@
         "image": ""
     },
     {
-        "title": "SpaceX to push the envelope on 3rd Starship test flight",
-        "link": "https://www.space.com/spacex-starship-third-test-flight-objectives",
-        "date": "Thu, 07 Mar 2024 11:00:41 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            11,
-            0,
-            41,
-            3,
-            67,
-            0
-        ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/RGBcs5HwcjKiTGojSFNZiW.jpg"
-    },
-    {
         "title": "AI chatbots use racist stereotypes even after anti-racism training",
         "link": "https://www.newscientist.com/article/2421067-ai-chatbots-use-racist-stereotypes-even-after-anti-racism-training/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
         "date": "Thu, 07 Mar 2024 11:00:06 +0000",
@@ -270,60 +1422,6 @@
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06200115/SEI_194781954.jpg"
     },
     {
-        "title": "Best solar binoculars 2024: Ideal for the April 8 solar eclipse",
-        "link": "https://www.space.com/best-solar-binoculars",
-        "date": "Thu, 07 Mar 2024 10:50:35 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            10,
-            50,
-            35,
-            3,
-            67,
-            0
-        ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/bnbhKdU3aoF2KciAqX4E9C.jpg"
-    },
-    {
-        "title": "How do some black holes get so big? The James Webb Space Telescope may have an answer",
-        "link": "https://www.space.com/supermassive-black-hole-growth-mystery-james-webb-space-telescope",
-        "date": "Thu, 07 Mar 2024 10:00:01 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            10,
-            0,
-            1,
-            3,
-            67,
-            0
-        ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/KzZyykRHhUFUr2m3U33o7M.jpg"
-    },
-    {
-        "title": "Total solar eclipse 2024: Live updates",
-        "link": "https://www.space.com/news/live/solar-eclipse-live-updates",
-        "date": "Thu, 07 Mar 2024 08:28:26 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            8,
-            28,
-            26,
-            3,
-            67,
-            0
-        ],
-        "source": "space.com",
-        "image": "https://cdn.mos.cms.futurecdn.net/ddgi3Ga6NRsueNEenpWsUA.jpg"
-    },
-    {
         "title": "The world just experienced the hottest February on record",
         "link": "https://www.newscientist.com/article/2421106-the-world-just-experienced-the-hottest-february-on-record/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
         "date": "Thu, 07 Mar 2024 03:00:51 +0000",
@@ -340,6 +1438,24 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06214610/SEI_194834346.jpg"
+    },
+    {
+        "title": "Got milk? Meet the weird amphibian that nurses its young",
+        "link": "https://www.nature.com/articles/d41586-024-00686-5",
+        "date": "2024-03-07",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            0,
+            0,
+            0,
+            3,
+            67,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
     },
     {
         "title": "\u2018Despair\u2019: Argentinian researchers protest as president begins dismantling science",
@@ -362,6 +1478,24 @@
     {
         "title": "AI-generated images and video are here: how could they shape research?",
         "link": "https://www.nature.com/articles/d41586-024-00659-8",
+        "date": "2024-03-07",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            0,
+            0,
+            0,
+            3,
+            67,
+            0
+        ],
+        "source": "nature.com",
+        "image": ""
+    },
+    {
+        "title": "Meet the real-life versions of <i>Dune</i>\u2019s epic sandworms",
+        "link": "https://www.nature.com/articles/d41586-024-00690-9",
         "date": "2024-03-07",
         "date_parsed": [
             2024,
@@ -450,6 +1584,24 @@
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06182046/SEI_1947672561.jpg"
     },
     {
+        "title": "Micro- and nanoplastics in the body are passed on during cell division",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150719.htm",
+        "date": "Wed, 06 Mar 2024 15:07:19 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            7,
+            19,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
         "title": "More than half of American Indian youth may have abnormal or high cholesterol",
         "link": "https://www.sciencedaily.com/releases/2024/03/240306150704.htm",
         "date": "Wed, 06 Mar 2024 15:07:04 EST",
@@ -468,6 +1620,96 @@
         "image": ""
     },
     {
+        "title": "Scientists CT scanned thousands of natural history specimens, which you can access for free",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150651.htm",
+        "date": "Wed, 06 Mar 2024 15:06:51 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            51,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Breakthrough research enables high-density hydrogen storage for future energy systems",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150645.htm",
+        "date": "Wed, 06 Mar 2024 15:06:45 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            45,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Nanodevices can produce energy from evaporating tap or seawater",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150642.htm",
+        "date": "Wed, 06 Mar 2024 15:06:42 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            42,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Peer pressure susceptibility lasts into adulthood",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150631.htm",
+        "date": "Wed, 06 Mar 2024 15:06:31 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            31,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Study takes wider view at household size, children's development",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150627.htm",
+        "date": "Wed, 06 Mar 2024 15:06:27 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            27,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
         "title": "Finding new physics in debris from colliding neutron stars",
         "link": "https://www.sciencedaily.com/releases/2024/03/240306150618.htm",
         "date": "Wed, 06 Mar 2024 15:06:18 EST",
@@ -478,6 +1720,24 @@
             20,
             6,
             18,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Healable cathode could unlock potential of solid-state lithium-sulfur batteries",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150616.htm",
+        "date": "Wed, 06 Mar 2024 15:06:16 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            16,
             2,
             66,
             0
@@ -514,6 +1774,114 @@
             20,
             6,
             10,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "How the body copes with airway closure",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150604.htm",
+        "date": "Wed, 06 Mar 2024 15:06:04 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            4,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "3D reflector microchips could speed development of 6G wireless",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150601.htm",
+        "date": "Wed, 06 Mar 2024 15:06:01 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            6,
+            1,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Bee-2-Bee influencing: Bees master complex tasks through social interaction",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150557.htm",
+        "date": "Wed, 06 Mar 2024 15:05:57 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            5,
+            57,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "New study may broaden the picture of the consequences of childhood adversity",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150555.htm",
+        "date": "Wed, 06 Mar 2024 15:05:55 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            5,
+            55,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Revealing the evolutionary origin of genomic imprinting",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150553.htm",
+        "date": "Wed, 06 Mar 2024 15:05:53 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            5,
+            53,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Universal tool for tracking cell-to-cell interactions",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150551.htm",
+        "date": "Wed, 06 Mar 2024 15:05:51 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            5,
+            51,
             2,
             66,
             0
@@ -568,6 +1936,42 @@
             20,
             5,
             42,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "New microscopy tech answers fundamental questions",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150540.htm",
+        "date": "Wed, 06 Mar 2024 15:05:40 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            5,
+            40,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
+        "title": "Deconstructing the structural elements of a lesser-known microbe",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150538.htm",
+        "date": "Wed, 06 Mar 2024 15:05:38 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            5,
+            38,
             2,
             66,
             0
@@ -810,6 +2214,24 @@
         "image": ""
     },
     {
+        "title": "Nanosurgical tool could be key to cancer breakthrough",
+        "link": "https://www.sciencedaily.com/releases/2024/03/240306150435.htm",
+        "date": "Wed, 06 Mar 2024 15:04:35 EST",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            20,
+            4,
+            35,
+            2,
+            66,
+            0
+        ],
+        "source": "sciencedaily.com",
+        "image": ""
+    },
+    {
         "title": "Genetic mutation in a quarter of all Labradors hard-wires them for obesity",
         "link": "https://www.sciencedaily.com/releases/2024/03/240306150433.htm",
         "date": "Wed, 06 Mar 2024 15:04:33 EST",
@@ -900,24 +2322,6 @@
         "image": ""
     },
     {
-        "title": "AI can speed design of health software",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240306144729.htm",
-        "date": "Wed, 06 Mar 2024 14:47:29 EST",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            19,
-            47,
-            29,
-            2,
-            66,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
         "title": "Hunger-inducing mutation makes some Labradors more likely to get fat",
         "link": "https://www.newscientist.com/article/2420806-hunger-inducing-mutation-makes-some-labradors-more-likely-to-get-fat/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
         "date": "Wed, 06 Mar 2024 19:00:35 +0000",
@@ -970,6 +2374,60 @@
         ],
         "source": "scientificamerican.com",
         "image": ""
+    },
+    {
+        "title": "The scientific secrets to baking a perfectly moist chocolate cake",
+        "link": "https://www.newscientist.com/article/mg26134811-100-the-scientific-secrets-to-baking-a-perfectly-moist-chocolate-cake/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Wed, 06 Mar 2024 18:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            18,
+            0,
+            0,
+            2,
+            66,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06115815/SEI_193702228.jpg"
+    },
+    {
+        "title": "The Tomb of the Mili Mongga review: Hunting for giants in Indonesia",
+        "link": "https://www.newscientist.com/article/mg26134810-700-the-tomb-of-the-mili-mongga-review-hunting-for-giants-in-indonesia/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Wed, 06 Mar 2024 18:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            18,
+            0,
+            0,
+            2,
+            66,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/06103727/SEI_193686956.jpg"
+    },
+    {
+        "title": "Stark, haunting images show Kazakhstan's former nuclear testing ground",
+        "link": "https://www.newscientist.com/article/mg26134810-300-stark-haunting-images-show-kazakhstans-former-nuclear-testing-ground/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Wed, 06 Mar 2024 18:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            6,
+            18,
+            0,
+            0,
+            2,
+            66,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2024/03/05105845/SEI_193817462.jpg"
     },
     {
         "title": "A tale of two mysteries: ghostly neutrinos and the proton decay puzzle",
@@ -1438,78 +2896,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/05155711/SEI_194607648.jpg"
-    },
-    {
-        "title": "Can you tell AI-generated people from real ones?",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240306003456.htm",
-        "date": "Wed, 06 Mar 2024 00:34:56 EST",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            5,
-            34,
-            56,
-            2,
-            66,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Key advance toward removing common herbicide from groundwater",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305204445.htm",
-        "date": "Tue, 05 Mar 2024 20:44:45 EST",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            1,
-            44,
-            45,
-            2,
-            66,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Research explores the cooling effects of 'scuba-diving' in lizards",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305204443.htm",
-        "date": "Tue, 05 Mar 2024 20:44:43 EST",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            1,
-            44,
-            43,
-            2,
-            66,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Aluminum nanoparticles make tunable green catalysts",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305204424.htm",
-        "date": "Tue, 05 Mar 2024 20:44:24 EST",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            1,
-            44,
-            24,
-            2,
-            66,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
     },
     {
         "title": "The molecular basis of sugar detection by an insect taste receptor",
@@ -2376,96 +3762,6 @@
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/05115401/SEI_1946078381.jpg"
     },
     {
-        "title": "Tiny worms tolerate Chornobyl radiation",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305165928.htm",
-        "date": "Tue, 05 Mar 2024 16:59:28 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            21,
-            59,
-            28,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Having self-control leads to power",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305165925.htm",
-        "date": "Tue, 05 Mar 2024 16:59:25 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            21,
-            59,
-            25,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Harmful 'forever chemicals' removed from water with new electrocatalysis method",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305165911.htm",
-        "date": "Tue, 05 Mar 2024 16:59:11 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            21,
-            59,
-            11,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "For a healthy fruit snack, what would you choose?",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305165908.htm",
-        "date": "Tue, 05 Mar 2024 16:59:08 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            21,
-            59,
-            8,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Evolving hydrogen-storage technology: Guidelines developed for the design of anti-evaporation catalysts",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305165709.htm",
-        "date": "Tue, 05 Mar 2024 16:57:09 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            21,
-            57,
-            9,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
         "title": "Rare Brown Panda Mystery Solved after 40 Years",
         "link": "https://www.scientificamerican.com/article/rare-brown-panda-mystery-solved-after-40-years/",
         "date": "Tue, 05 Mar 2024 20:30:00 +0000",
@@ -2500,456 +3796,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/03/05200553/SEI_194648123.jpg"
-    },
-    {
-        "title": "A smart molecule beats the mutation behind most pancreatic cancer",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134402.htm",
-        "date": "Tue, 05 Mar 2024 13:44:02 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            44,
-            2,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Using light to precisely control single-molecule devices",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134359.htm",
-        "date": "Tue, 05 Mar 2024 13:43:59 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            59,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Lab-grown liver organoid to speed up turtle research, making useful traits easier to harness",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134355.htm",
-        "date": "Tue, 05 Mar 2024 13:43:55 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            55,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "New method measures the 3D position of individual atoms",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134352.htm",
-        "date": "Tue, 05 Mar 2024 13:43:52 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            52,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Toward understanding sperm quality",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134346.htm",
-        "date": "Tue, 05 Mar 2024 13:43:46 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            46,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Researchers closing in on genetic treatments for hereditary lung disease, vision loss",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134330.htm",
-        "date": "Tue, 05 Mar 2024 13:43:30 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            30,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Gen Z's climate anxiety is real and needs action -- for everyone's wellbeing",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134319.htm",
-        "date": "Tue, 05 Mar 2024 13:43:19 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            19,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Shortcut to Success: Toward fast and robust quantum control through accelerating adiabatic passage",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134315.htm",
-        "date": "Tue, 05 Mar 2024 13:43:15 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            15,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Smart optimization paves the way for improved silicon solar cell performance",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134312.htm",
-        "date": "Tue, 05 Mar 2024 13:43:12 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            12,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Sweetened drinks linked to atrial fibrillation risk",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134303.htm",
-        "date": "Tue, 05 Mar 2024 13:43:03 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            3,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "'Like a lab in your pocket' -- new test strips raise game in gene-based diagnostics",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134300.htm",
-        "date": "Tue, 05 Mar 2024 13:43:00 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            43,
-            0,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Fossils of giant sea lizard with dagger-like teeth show how our oceans have fundamentally changed since the dinosaur era",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134258.htm",
-        "date": "Tue, 05 Mar 2024 13:42:58 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            58,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Running performance helped by mathematical research",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134255.htm",
-        "date": "Tue, 05 Mar 2024 13:42:55 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            55,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Waist-to-height ratio detects fat obesity in children and adolescents significantly better than BMI",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134243.htm",
-        "date": "Tue, 05 Mar 2024 13:42:43 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            43,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Groundbreaking survey reveals secrets of planet birth around dozens of stars",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134240.htm",
-        "date": "Tue, 05 Mar 2024 13:42:40 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            40,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "One way to improve a fusion reaction: Use weaknesses as strengths",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134238.htm",
-        "date": "Tue, 05 Mar 2024 13:42:38 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            38,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Possible 'Trojan Horse' found for treating stubborn bacterial infections",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134236.htm",
-        "date": "Tue, 05 Mar 2024 13:42:36 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            36,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Conservation actions for SA's white shark population now a matter of urgency",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134233.htm",
-        "date": "Tue, 05 Mar 2024 13:42:33 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            33,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Smoking during pregnancy may increase the risk of behavioral disorders in newborns, predicts AI",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134228.htm",
-        "date": "Tue, 05 Mar 2024 13:42:28 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            28,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "What makes black holes grow and new stars form? Machine learning helps solve the mystery",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134225.htm",
-        "date": "Tue, 05 Mar 2024 13:42:25 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            25,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Sprinting 'like a jet' will produce Premier League strikers of tomorrow, study shows",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134220.htm",
-        "date": "Tue, 05 Mar 2024 13:42:20 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            20,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Juno spacecraft measures oxygen production on Jupiter's moon, Europa",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134217.htm",
-        "date": "Tue, 05 Mar 2024 13:42:17 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            17,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "After decades of Arctic sea ice getting faster and more hazardous for transport, models suggest a dramatic reversal is coming",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134215.htm",
-        "date": "Tue, 05 Mar 2024 13:42:15 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            15,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "New cardiovascular imaging approach provides a better view of dangerous plaques",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134213.htm",
-        "date": "Tue, 05 Mar 2024 13:42:13 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            13,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
-    },
-    {
-        "title": "Robotic-assisted surgery for gallbladder cancer as effective as traditional surgery",
-        "link": "https://www.sciencedaily.com/releases/2024/03/240305134210.htm",
-        "date": "Tue, 05 Mar 2024 13:42:10 EST",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            42,
-            10,
-            1,
-            65,
-            0
-        ],
-        "source": "sciencedaily.com",
-        "image": ""
     },
     {
         "title": "How to view an eclipse safely and what to look for in eclipse glasses",
@@ -3384,24 +4230,6 @@
         "image": ""
     },
     {
-        "title": "Five tips for digitizing handwritten data",
-        "link": "https://www.nature.com/articles/d41586-024-00646-z",
-        "date": "2024-03-05",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            0,
-            0,
-            0,
-            1,
-            65,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
         "title": "Should You Swab Your Throat Plus Your Nose for COVID?",
         "link": "https://www.scientificamerican.com/podcast/episode/should-you-swab-your-throat-plus-your-nose-for-covid/",
         "date": "Mon, 04 Mar 2024 22:35:00 +0000",
@@ -3780,219 +4608,39 @@
         "image": "https://images.newscientist.com/wp-content/uploads/2024/02/28175636/SEI_193713383.jpg"
     },
     {
-        "title": "Triple-junction solar cells with cyanate in ultrawide bandgap perovskites",
-        "link": "https://www.nature.com/articles/s41586-024-07226-1",
-        "date": "2024-03-04",
+        "title": "Here comes the sun, the eclipsed version",
+        "link": "https://www.sciencenews.org/article/here-comes-the-sun-the-eclipsed-version",
+        "date": "Sun, 03 Mar 2024 12:15:00 +0000",
         "date_parsed": [
             2024,
             3,
-            4,
+            3,
+            12,
+            15,
             0,
-            0,
-            0,
-            0,
-            64,
+            6,
+            63,
             0
         ],
-        "source": "nature.com",
+        "source": "sciencenews.org",
         "image": ""
     },
     {
-        "title": "Dopant-additive synergism enhances perovskite solar modules",
-        "link": "https://www.nature.com/articles/s41586-024-07228-z",
-        "date": "2024-03-04",
+        "title": "Readers discuss cholesterol treatments and AI",
+        "link": "https://www.sciencenews.org/article/reader-questions-cholesterol-ai",
+        "date": "Sun, 03 Mar 2024 12:00:00 +0000",
         "date_parsed": [
             2024,
             3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "I look for the mineral equivalent of tree rings",
-        "link": "https://www.nature.com/articles/d41586-024-00647-y",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
             3,
-            4,
+            12,
             0,
             0,
-            0,
-            0,
-            64,
+            6,
+            63,
             0
         ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "Genetics solves mystery of rare brown pandas after 40 years",
-        "link": "https://www.nature.com/articles/d41586-024-00614-7",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "Oldest known animal sex chromosome evolved in octopuses 380 million years ago",
-        "link": "https://www.nature.com/articles/d41586-024-00637-0",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "Organoids grown from amniotic fluid could shed light on rare diseases",
-        "link": "https://www.nature.com/articles/d41586-024-00656-x",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "Millions of research papers at risk of disappearing from the Internet",
-        "link": "https://www.nature.com/articles/d41586-024-00616-5",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "Big science in Latin America: accelerate particles and progress",
-        "link": "https://www.nature.com/articles/d41586-024-00598-4",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "Daily briefing: Millions of online papers at risk of disappearing",
-        "link": "https://www.nature.com/articles/d41586-024-00664-x",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "What science says about hybrid working \u2014 and how to make it a success",
-        "link": "https://www.nature.com/articles/d41586-024-00643-2",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "My productivity waxes and wanes \u2014 and I\u2019m learning to account for it",
-        "link": "https://www.nature.com/articles/d41586-024-00648-x",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
-        "image": ""
-    },
-    {
-        "title": "The spy who flunked it: Kurt G\u00f6del\u2019s forgotten part in the atom-bomb story",
-        "link": "https://www.nature.com/articles/d41586-024-00644-1",
-        "date": "2024-03-04",
-        "date_parsed": [
-            2024,
-            3,
-            4,
-            0,
-            0,
-            0,
-            0,
-            64,
-            0
-        ],
-        "source": "nature.com",
+        "source": "sciencenews.org",
         "image": ""
     },
     {
@@ -4068,24 +4716,6 @@
         "image": ""
     },
     {
-        "title": "Humpback Whale Sex Observed for the First Time Ever, between Two Males",
-        "link": "https://www.scientificamerican.com/article/humpback-whale-sex-observed-for-the-first-time-ever-between-two-males/",
-        "date": "Fri, 01 Mar 2024 22:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            22,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
         "title": "AI could help replicate smells in danger of being lost to history",
         "link": "https://www.newscientist.com/article/2419766-ai-could-help-replicate-smells-in-danger-of-being-lost-to-history/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
         "date": "Fri, 01 Mar 2024 20:00:56 +0000",
@@ -4102,24 +4732,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/02/29212123/SEI_193841046.jpg"
-    },
-    {
-        "title": "Florida Surgeon General Risks Making a Dangerous Measles Outbreak Much Worse",
-        "link": "https://www.scientificamerican.com/article/florida-surgeon-general-risks-making-a-dangerous-measles-outbreak-much-worse/",
-        "date": "Fri, 01 Mar 2024 19:30:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            19,
-            30,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
     },
     {
         "title": "Persistent pain after a UTI may be due to an overgrowth of nerve cells",
@@ -4156,60 +4768,6 @@
         ],
         "source": "sciencenews.org",
         "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/03/030124_hb_uti_pain_feat_REV.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-        "title": "People with Food Allergies Can Treat Symptoms with Asthma Medication, FDA Decides",
-        "link": "https://www.scientificamerican.com/article/people-with-food-allergies-can-treat-symptoms-with-asthma-medication-fda/",
-        "date": "Fri, 01 Mar 2024 19:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            19,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "Extreme Weather Events Raise Death Rates for Weeks",
-        "link": "https://www.scientificamerican.com/article/extreme-weather-events-raise-death-rates-for-weeks/",
-        "date": "Fri, 01 Mar 2024 18:30:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            18,
-            30,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "AI Chatbot Brains Are Going Inside Robot Bodies. What Could Possibly Go Wrong?",
-        "link": "https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/",
-        "date": "Fri, 01 Mar 2024 16:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            16,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
     },
     {
         "title": "Why space dust is key to everything from star birth to life on Earth",
@@ -4264,150 +4822,6 @@
         ],
         "source": "sciencenews.org",
         "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022924_ts_dune_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-        "title": "Readers Respond to the November 2023 Issue",
-        "link": "https://www.scientificamerican.com/article/readers-respond-to-the-november-2023-issue/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "Poem: 'Want'",
-        "link": "https://www.scientificamerican.com/article/poem-want/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "Is Marijuana Bad for Health? Here's What We Know So Far",
-        "link": "https://www.scientificamerican.com/article/is-marijuana-bad-for-health-heres-what-we-know-so-far/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "March 2024: Science History from 50, 100 and 150 Years Ago",
-        "link": "https://www.scientificamerican.com/article/march-2024-science-history-from-50-100-and-150-years-ago/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "Changing Car Culture Can Benefit Our Health and Our Planet",
-        "link": "https://www.scientificamerican.com/article/changing-car-culture-can-benefit-our-health-and-our-planet/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "A Sexbot Gains Sentience in an Eerie New Novel",
-        "link": "https://www.scientificamerican.com/article/a-sexbot-gains-sentience-in-an-eerie-new-novel/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "When Hurricanes Strike, Climate Change Dominates Social Media",
-        "link": "https://www.scientificamerican.com/article/when-hurricanes-strike-climate-change-dominates-social-media/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
-    },
-    {
-        "title": "Many Pregnancy Losses Are Caused by Errors in Cell Division",
-        "link": "https://www.scientificamerican.com/article/many-pregnancy-losses-are-caused-by-errors-in-cell-division/",
-        "date": "Fri, 01 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            14,
-            0,
-            0,
-            4,
-            61,
-            0
-        ],
-        "source": "scientificamerican.com",
-        "image": ""
     },
     {
         "title": "Elon Musk asks court to decide if GPT-4 has human-level intelligence",
@@ -5094,150 +5508,6 @@
         "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022224_ts_AI-dont-understand_feat.jpg?fit=800%2C450&ssl=1"
     },
     {
-        "title": "Strange animals called pyrosomes are thriving as the Pacific heats up",
-        "link": "https://www.newscientist.com/article/2418446-strange-animals-called-pyrosomes-are-thriving-as-the-pacific-heats-up/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Wed, 28 Feb 2024 12:00:53 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            28,
-            12,
-            0,
-            53,
-            2,
-            59,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26134956/SEI_192587697.jpg"
-    },
-    {
-        "title": "Pythagoras was wrong about the maths behind pleasant music",
-        "link": "https://www.newscientist.com/article/2419442-pythagoras-was-wrong-about-the-maths-behind-pleasant-music/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Wed, 28 Feb 2024 10:14:17 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            28,
-            10,
-            14,
-            17,
-            2,
-            59,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/28100426/SEI_193556866.jpg"
-    },
-    {
-        "title": "Melting of Greenland ice could cause European heat extremes this year",
-        "link": "https://www.newscientist.com/article/2419372-melting-of-greenland-ice-could-cause-european-heat-extremes-this-year/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Wed, 28 Feb 2024 05:00:35 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            28,
-            5,
-            0,
-            35,
-            2,
-            59,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/27165452/SEI_193559989.jpg"
-    },
-    {
-        "title": "Thousands of humpback whales starved to death after marine heatwave",
-        "link": "https://www.newscientist.com/article/2419289-thousands-of-humpback-whales-starved-to-death-after-marine-heatwave/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Wed, 28 Feb 2024 00:01:54 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            28,
-            0,
-            1,
-            54,
-            2,
-            59,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/27142134/SEI_193537649.jpg"
-    },
-    {
-        "title": "Eclipse 2024: When is it and where can I see it?",
-        "link": "https://www.newscientist.com/article/2418925-eclipse-2024-when-is-it-and-where-can-i-see-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 21:27:09 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            21,
-            27,
-            9,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/27182902/SEI_193561689.jpg"
-    },
-    {
-        "title": "YouTube has managed to stop its algorithm serving up extreme videos",
-        "link": "https://www.newscientist.com/article/2419033-youtube-has-managed-to-stop-its-algorithm-serving-up-extreme-videos/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 18:00:47 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            18,
-            0,
-            47,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26135212/SEI_192726556.jpg"
-    },
-    {
-        "title": "AI designs bespoke 3D-printed prosthetic eyes",
-        "link": "https://www.newscientist.com/article/2418510-ai-designs-bespoke-3d-printed-prosthetic-eyes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 16:00:52 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            16,
-            0,
-            52,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/27142441/SEI_193509520.jpg"
-    },
-    {
-        "title": "Greener way to dye denim could cut the environmental impact of jeans",
-        "link": "https://www.newscientist.com/article/2418509-greener-way-to-dye-denim-could-cut-the-environmental-impact-of-jeans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 16:00:35 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            16,
-            0,
-            35,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/27133729/SEI_193533941.jpg"
-    },
-    {
         "title": "Dishabituation: How to trick your brain to find more joy in life",
         "link": "https://www.newscientist.com/article/mg26134800-900-dishabituation-how-to-trick-your-brain-to-find-more-joy-in-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
         "date": "Tue, 27 Feb 2024 16:00:00 +0000",
@@ -5274,222 +5544,6 @@
         "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022624_eg_smallest-vertebrate_feat.jpeg?fit=800%2C450&ssl=1"
     },
     {
-        "title": "Is battery swapping a better way to recharge electric cars?",
-        "link": "https://www.newscientist.com/article/2419065-is-battery-swapping-a-better-way-to-recharge-electric-cars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 15:00:20 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            15,
-            0,
-            20,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/23160020/SEI_192327467.jpg"
-    },
-    {
-        "title": "Snake venom toxins can be neutralized by a new synthetic antibody",
-        "link": "https://www.sciencenews.org/article/snake-venom-toxins-antivenom-synthetic-antibody",
-        "date": "Tue, 27 Feb 2024 13:15:00 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            13,
-            15,
-            0,
-            1,
-            58,
-            0
-        ],
-        "source": "sciencenews.org",
-        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022324_mr_antivenom_feat.jpeg?fit=800%2C450&ssl=1"
-    },
-    {
-        "title": "Covid-19 vaccines seem to cut the risk of heart attacks and strokes",
-        "link": "https://www.newscientist.com/article/2418619-covid-19-vaccines-seem-to-cut-the-risk-of-heart-attacks-and-strokes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 12:00:09 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            12,
-            0,
-            9,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/23141633/SEI_192735606.jpg"
-    },
-    {
-        "title": "Jackals may urinate on their favourite fruit to deter thieves",
-        "link": "https://www.newscientist.com/article/2418814-jackals-may-urinate-on-their-favourite-fruit-to-deter-thieves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 10:00:50 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            10,
-            0,
-            50,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/23144503/SEI_192844492.jpg"
-    },
-    {
-        "title": "Earthquakes hastened sea rise in Pacific islands by sinking the ground",
-        "link": "https://www.newscientist.com/article/2419166-earthquakes-hastened-sea-rise-in-pacific-islands-by-sinking-the-ground/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 10:00:26 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            10,
-            0,
-            26,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26200115/SEI_193379058.jpg"
-    },
-    {
-        "title": "Bizarre fish can extend its mouth to make a kind of trunk",
-        "link": "https://www.newscientist.com/article/2418659-bizarre-fish-can-extend-its-mouth-to-make-a-kind-of-trunk/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Tue, 27 Feb 2024 06:00:51 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            6,
-            0,
-            51,
-            1,
-            58,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/22160638/SEI_192718710.jpg"
-    },
-    {
-        "title": "Two lunar landers have fallen over \u2013 but they\u2019re still doing okay",
-        "link": "https://www.newscientist.com/article/2419139-two-lunar-landers-have-fallen-over-but-theyre-still-doing-okay/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Mon, 26 Feb 2024 20:49:04 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            20,
-            49,
-            4,
-            0,
-            57,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26204008/DMGTCHPDPICT001118308975.jpg"
-    },
-    {
-        "title": "We finally know why live music makes us so emotional",
-        "link": "https://www.newscientist.com/article/2419061-we-finally-know-why-live-music-makes-us-so-emotional/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Mon, 26 Feb 2024 20:00:58 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            20,
-            0,
-            58,
-            0,
-            57,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26162759/SEI_193420820.jpg"
-    },
-    {
-        "title": "How one of the smallest fish makes a sound as loud as a firecracker",
-        "link": "https://www.newscientist.com/article/2419077-how-one-of-the-smallest-fish-makes-a-sound-as-loud-as-a-firecracker/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Mon, 26 Feb 2024 20:00:49 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            20,
-            0,
-            49,
-            0,
-            57,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26173709/SEI_193430992.jpg"
-    },
-    {
-        "title": "Wasabi could help preserve ancient Egyptian papyrus artefacts",
-        "link": "https://www.newscientist.com/article/2418921-wasabi-could-help-preserve-ancient-egyptian-papyrus-artefacts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Mon, 26 Feb 2024 19:00:40 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            19,
-            0,
-            40,
-            0,
-            57,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26154617/SEI_193385488.jpg"
-    },
-    {
-        "title": "Weird white dwarf star has a metal scar after eating a planet",
-        "link": "https://www.newscientist.com/article/2418708-weird-white-dwarf-star-has-a-metal-scar-after-eating-a-planet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "date": "Mon, 26 Feb 2024 16:00:55 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            16,
-            0,
-            55,
-            0,
-            57,
-            0
-        ],
-        "source": "newscientist.com",
-        "image": "https://images.newscientist.com/wp-content/uploads/2024/02/23134918/SEI_192868402.jpg"
-    },
-    {
-        "title": "On hot summer days, this thistle is somehow cool to the touch",
-        "link": "https://www.sciencenews.org/article/summer-thistle-cool-thermoregulation",
-        "date": "Mon, 26 Feb 2024 16:00:00 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            16,
-            0,
-            0,
-            0,
-            57,
-            0
-        ],
-        "source": "sciencenews.org",
-        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022224_di_cooling_thistle_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
         "title": "Why we're finally on the cusp of finding exomoons around other planets",
         "link": "https://www.newscientist.com/article/mg26134800-800-why-were-finally-on-the-cusp-of-finding-exomoons-around-other-planets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
         "date": "Mon, 26 Feb 2024 16:00:00 +0000",
@@ -5506,60 +5560,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/02/26113834/SEI_192569877.jpg"
-    },
-    {
-        "title": "How two outsiders tackled the mystery of arithmetic progressions",
-        "link": "https://www.sciencenews.org/article/arithmetic-progressions-math-order-combinatorics",
-        "date": "Mon, 26 Feb 2024 13:00:00 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            26,
-            13,
-            0,
-            0,
-            0,
-            57,
-            0
-        ],
-        "source": "sciencenews.org",
-        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022424_arithmetic-progression_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-        "title": "Ancient trees\u2019 gnarled, twisted shapes provide irreplaceable habitats",
-        "link": "https://www.sciencenews.org/article/ancient-trees-irreplaceable-habitats-mountain-pines",
-        "date": "Fri, 23 Feb 2024 15:30:00 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            23,
-            15,
-            30,
-            0,
-            4,
-            54,
-            0
-        ],
-        "source": "sciencenews.org",
-        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022224_jb_oldtrees_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-        "title": "50 years ago, computers helped speed up drug discovery",
-        "link": "https://www.sciencenews.org/article/computers-drug-discovery-ai-50-years-ago",
-        "date": "Fri, 23 Feb 2024 13:00:00 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            23,
-            13,
-            0,
-            0,
-            4,
-            54,
-            0
-        ],
-        "source": "sciencenews.org",
-        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/020824_eg_50YA-AIdrugs_feat.jpeg?fit=800%2C450&ssl=1"
     },
     {
         "title": "\u2018It is all but impossible life exists, and yet it is here\u2019",
@@ -5596,24 +5596,6 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2024/02/21151850/SEI_192569175.jpg"
-    },
-    {
-        "title": "JWST spies hints of a neutron star left behind by supernova 1987A",
-        "link": "https://www.sciencenews.org/article/jwst-neutron-star-supernova-1987a-nasa",
-        "date": "Thu, 22 Feb 2024 19:00:00 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            22,
-            19,
-            0,
-            0,
-            3,
-            53,
-            0
-        ],
-        "source": "sciencenews.org",
-        "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/02/022224_am_supernova-radiation_featA.jpg?fit=800%2C450&ssl=1"
     },
     {
         "title": "We aren't addicted to our phones and we don't need a 'digital detox'",
@@ -5668,5 +5650,23 @@
         ],
         "source": "newscientist.com",
         "image": "https://images.newscientist.com/wp-content/uploads/2023/07/10120529/SEI_163183274.jpg"
+    },
+    {
+        "title": "Largest ever animal may have been Triassic ichthyosaur super-predator",
+        "link": "https://www.newscientist.com/article/mg25634180-900-largest-ever-animal-may-have-been-triassic-ichthyosaur-super-predator/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "date": "Thu, 29 Dec 2022 09:00:00 +0000",
+        "date_parsed": [
+            2022,
+            12,
+            29,
+            9,
+            0,
+            0,
+            3,
+            363,
+            0
+        ],
+        "source": "newscientist.com",
+        "image": "https://images.newscientist.com/wp-content/uploads/2022/12/21110725/SEI_138106785.jpg"
     }
 ]

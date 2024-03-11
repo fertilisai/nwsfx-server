@@ -1,20 +1,3008 @@
 [
     {
-        "title": "Apple will make it easier to move to Android by fall 2025",
-        "link": "https://techcrunch.com/2024/03/07/apple-will-make-it-easier-to-move-to-android-by-fall-2025/",
-        "date": "Thu, 07 Mar 2024 19:33:52 +0000",
+        "title": "Nvidia is sued by authors over AI use of copyrighted works",
+        "link": "https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/",
+        "date": "Sun, 10 Mar 2024 22:27:18 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            22,
+            27,
+            18,
+            6,
+            70,
+            0
+        ],
+        "source": "reuters.com",
+        "image": ""
+    },
+    {
+        "title": "A look at AI-enabled dolls, such as those made by South Korea's Hyodol and Israel's Intuition Robotics, which offer companionship and assistance to older adults (Boone Ashworth/Wired)",
+        "link": "http://www.techmeme.com/240310/p7#a240310p7",
+        "date": "Sun, 10 Mar 2024 18:25:00 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            22,
+            25,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Two Oscar Hopefuls, an Agent and a CEO Debate the Future of Movies",
+        "link": "https://www.bloomberg.com/news/newsletters/2024-03-10/oscars-2024-two-contenders-an-agent-and-a-ceo-debate-the-future-of-movies",
+        "date": "Sun, 10 Mar 2024 22:00:26 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            22,
+            0,
+            26,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy5c738S0YEU/v1/1200x-1.jpg"
+    },
+    {
+        "title": "Oscars 2024: all the latest from the biggest night in film",
+        "link": "https://www.theverge.com/24091138/oscars-2024-news-winners-nominees",
+        "date": "2024-03-10T18:00:00-04:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            22,
+            0,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Does Reddit Represent the Return of the Junk Stock IPO?",
+        "link": "https://tech.slashdot.org/story/24/03/10/2114224/does-reddit-represent-the-return-of-the-junk-stock-ipo?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T21:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            21,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Monte-Carlo Graph Search from First Principles",
+        "link": "https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md",
+        "date": "Sun, 10 Mar 2024 21:33:46 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            21,
+            33,
+            46,
+            6,
+            70,
+            0
+        ],
+        "source": "github.com",
+        "image": ""
+    },
+    {
+        "title": "Why the Use of \"Recall\" for Tesla Over-the-Air Updates Is Silly",
+        "link": "https://www.wsj.com/articles/dont-believe-the-tesla-headlines-safety-recall-software-update-c2e95f3a",
+        "date": "Sun, 10 Mar 2024 21:30:29 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            21,
+            30,
+            29,
+            6,
+            70,
+            0
+        ],
+        "source": "wsj.com",
+        "image": ""
+    },
+    {
+        "title": "The Best Essay",
+        "link": "https://paulgraham.com/best.html",
+        "date": "Sun, 10 Mar 2024 21:20:21 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            21,
+            20,
+            21,
+            6,
+            70,
+            0
+        ],
+        "source": "paulgraham.com",
+        "image": ""
+    },
+    {
+        "title": "My Guide to Software Engineering Contracting in UK",
+        "link": "https://codedeepdives.com/blog/guide-to-software-engineer-contracting-in-uk",
+        "date": "Sun, 10 Mar 2024 21:02:17 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            21,
+            2,
+            17,
+            6,
+            70,
+            0
+        ],
+        "source": "codedeepdives.com",
+        "image": ""
+    },
+    {
+        "title": "China EV Makers Woo Buyers With In-Car Beds, Kitchens and Drones",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-10/5-unusual-electric-car-features-in-china-from-gaming-system-to-full-sized-beds",
+        "date": "Sun, 10 Mar 2024 21:00:00 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            21,
+            0,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2nb37GrGZBo/v1/1200x-1.jpg"
+    },
+    {
+        "title": "America's Justice Department Opens Criminal Investigation Into Boeing's Window Blowout Incident",
+        "link": "https://tech.slashdot.org/story/24/03/10/1946215/americas-justice-department-opens-criminal-investigation-into-boeings-window-blowout-incident?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T20:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            20,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Japanese Recycling Upstart Tests Waters With SPAC Debut on NYSE",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-10/japanese-recycling-upstart-tests-waters-with-spac-debut-on-nyse",
+        "date": "Sun, 10 Mar 2024 20:30:00 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            20,
+            30,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imHF7avwWEDk/v1/1200x-1.jpg"
+    },
+    {
+        "title": "Using PostgreSQL for military geoanalytics tasks",
+        "link": "https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks",
+        "date": "Sun, 10 Mar 2024 20:19:07 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            20,
+            19,
+            7,
+            6,
+            70,
+            0
+        ],
+        "source": "klioba.com",
+        "image": ""
+    },
+    {
+        "title": "PaperMC/Paper: The most widely used, high performance Minecraft server",
+        "link": "https://github.com/PaperMC/Paper",
+        "date": "Sun, 10 Mar 2024 19:55:28 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            19,
+            55,
+            28,
+            6,
+            70,
+            0
+        ],
+        "source": "github.com",
+        "image": ""
+    },
+    {
+        "title": "Are We in the 'Anthropocene,' the Human Age? Scientists Say:  Nope",
+        "link": "https://science.slashdot.org/story/24/03/10/1849256/are-we-in-the-anthropocene-the-human-age-scientists-say-nope?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T19:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            19,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Controlling 3.6kW of Solar EV Charging with an Arduino GIGA R1 WiFi",
+        "link": "https://blog.arduino.cc/2024/03/04/controlling-3-6kw-of-solar-ev-charging-with-an-arduino-giga-r1-wifi/",
+        "date": "Sun, 10 Mar 2024 19:28:37 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            19,
+            28,
+            37,
+            6,
+            70,
+            0
+        ],
+        "source": "arduino.cc",
+        "image": ""
+    },
+    {
+        "title": "A look at the challenges of academic AI research, as costs to develop generative AI models grow rapidly and tech companies' salaries drain academia of talent (Washington Post)",
+        "link": "http://www.techmeme.com/240310/p6#a240310p6",
+        "date": "Sun, 10 Mar 2024 15:25:22 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            19,
+            25,
+            22,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "The Fashion Police in 16th-century Italy (2014)",
+        "link": "https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/",
+        "date": "Sun, 10 Mar 2024 19:14:48 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            19,
+            14,
+            48,
+            6,
+            70,
+            0
+        ],
+        "source": "medievalists.net",
+        "image": ""
+    },
+    {
+        "title": "Reddit, Investors\u00a0Seek Up to $748 Million in Planned IPO",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-10/reddit-s-planned-ipo-is-said-to-seek-up-to-748-million",
+        "date": "Sun, 10 Mar 2024 19:12:15 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            19,
+            12,
+            15,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik4Jh4650Lzk/v1/1200x-1.jpg"
+    },
+    {
+        "title": "Rebuilding memchess.com from its archive",
+        "link": "https://grondilu.github.io/memchess/",
+        "date": "Sun, 10 Mar 2024 18:48:34 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            18,
+            48,
+            34,
+            6,
+            70,
+            0
+        ],
+        "source": "github.io",
+        "image": ""
+    },
+    {
+        "title": "Show HN: Timelock.dev \u2013 Send a secret into the future using timelock encryption",
+        "link": "https://timelock.dev/",
+        "date": "Sun, 10 Mar 2024 18:46:19 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            18,
+            46,
+            19,
+            6,
+            70,
+            0
+        ],
+        "source": "timelock.dev",
+        "image": ""
+    },
+    {
+        "title": "Beyond human intelligence: Claude 3.0 and the quest for AGI",
+        "link": "https://venturebeat.com/ai/beyond-human-intelligence-claude-3-0-and-the-quest-for-agi/",
+        "date": "Sun, 10 Mar 2024 18:45:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            18,
+            45,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "'Now Fusion Has a Chance': New MIT Research Claims Fusion Power's 'Practicality' Has Been Proven",
+        "link": "https://hardware.slashdot.org/story/24/03/10/1812221/now-fusion-has-a-chance-new-mit-research-claims-fusion-powers-practicality-has-been-proven?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T18:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            18,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Kernel Hardening \u2013 Protect Linux User Accounts Against Brute Force Attacks",
+        "link": "https://github.com/Kicksecure/security-misc",
+        "date": "Sun, 10 Mar 2024 17:46:25 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            17,
+            46,
+            25,
+            6,
+            70,
+            0
+        ],
+        "source": "github.com",
+        "image": ""
+    },
+    {
+        "title": "The women in AI making a difference",
+        "link": "https://techcrunch.com/2024/03/10/the-women-in-ai-making-a-difference/",
+        "date": "Sun, 10 Mar 2024 17:45:04 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            17,
+            45,
+            4,
+            6,
+            70,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "One Year Later, 81% of SVB's Clients Still Bank With Them - and Big Banks Got Bigger",
+        "link": "https://news.slashdot.org/story/24/03/10/1713225/one-year-later-81-of-svbs-clients-still-bank-with-them---and-big-banks-got-bigger?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T17:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            17,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "How far are we from intelligent visual deductive reasoning?",
+        "link": "https://arxiv.org/abs/2403.04732",
+        "date": "Sun, 10 Mar 2024 17:17:11 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            17,
+            17,
+            11,
+            6,
+            70,
+            0
+        ],
+        "source": "arxiv.org",
+        "image": ""
+    },
+    {
+        "title": "Startups vs scaleups: Are you doing it wrong?",
+        "link": "https://venturebeat.com/enterprise-analytics/startups-vs-scaleups-are-you-doing-it-wrong/",
+        "date": "Sun, 10 Mar 2024 17:05:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            17,
+            5,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "US Urges UnitedHealth to Issue Payments to Providers After Hack",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-10/us-urges-unitedhealth-to-issue-payments-to-providers-after-hack",
+        "date": "Sun, 10 Mar 2024 17:04:41 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            17,
+            4,
+            41,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3E027RKYkso/v1/1200x-1.jpg"
+    },
+    {
+        "title": "DBeaver \u2013 open-source database client",
+        "link": "https://github.com/dbeaver/dbeaver",
+        "date": "Sun, 10 Mar 2024 16:52:21 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            16,
+            52,
+            21,
+            6,
+            70,
+            0
+        ],
+        "source": "github.com",
+        "image": ""
+    },
+    {
+        "title": "A neural code for time and space in the human brain [pdf]",
+        "link": "https://www.cell.com/cell-reports/pdf/S2211-1247(23)01250-0.pdf",
+        "date": "Sun, 10 Mar 2024 16:36:10 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            16,
+            36,
+            10,
+            6,
+            70,
+            0
+        ],
+        "source": "cell.com",
+        "image": ""
+    },
+    {
+        "title": "To Replace HexChat, Linux Mint is Building a New Desktop Chat App Called 'Jargonaut'",
+        "link": "https://linux.slashdot.org/story/24/03/09/2049259/to-replace-hexchat-linux-mint-is-building-a-new-desktop-chat-app-called-jargonaut?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T16:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            16,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "An interview with Slack CEO Denise Dresser about bringing her own personality to the job, plans to use generative AI, competing with Microsoft Teams, and more (Ron Miller/TechCrunch)",
+        "link": "http://www.techmeme.com/240310/p5#a240310p5",
+        "date": "Sun, 10 Mar 2024 12:30:13 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            16,
+            30,
+            13,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "A Year Later, Lessons From Silicon Valley Bank\u2019s Epic Collapse",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-10/a-year-later-lessons-from-silicon-valley-bank-s-epic-collapse",
+        "date": "Sun, 10 Mar 2024 16:00:26 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            16,
+            0,
+            26,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOSRAdfBjlU0/v1/1200x-1.jpg"
+    },
+    {
+        "title": "The Apple IIgs: On a Machine This Slow, You Had To Get Weird",
+        "link": "https://developers.slashdot.org/story/24/03/09/2230202/the-apple-iigs-on-a-machine-this-slow-you-had-to-get-weird?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T15:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            15,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Serving Astro with Rust",
+        "link": "https://www.yieldcode.blog/post/serving-astro-with-rust/",
+        "date": "Sun, 10 Mar 2024 15:29:01 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            15,
+            29,
+            1,
+            6,
+            70,
+            0
+        ],
+        "source": "yieldcode.blog",
+        "image": ""
+    },
+    {
+        "title": "Nintendo and Illumination will partner on Super Mario Bros. movie sequel",
+        "link": "https://venturebeat.com/games/nintendo-and-illumination-will-partner-on-super-mario-bros-movie-sequel/",
+        "date": "Sun, 10 Mar 2024 15:21:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            15,
+            21,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Yi: Open Foundation Models by 01.AI",
+        "link": "https://arxiv.org/abs/2403.04652",
+        "date": "Sun, 10 Mar 2024 15:12:30 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            15,
+            12,
+            30,
+            6,
+            70,
+            0
+        ],
+        "source": "arxiv.org",
+        "image": ""
+    },
+    {
+        "title": "Profession by Isaac Asimov (1957)",
+        "link": "https://www.abelard.org/asimov.php",
+        "date": "Sun, 10 Mar 2024 15:04:51 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            15,
+            4,
+            51,
+            6,
+            70,
+            0
+        ],
+        "source": "abelard.org",
+        "image": ""
+    },
+    {
+        "title": "Lead From Gasoline Blunted the IQ of About Half the U.S. Population, Study Says",
+        "link": "https://news.slashdot.org/story/24/03/09/2318224/lead-from-gasoline-blunted-the-iq-of-about-half-the-us-population-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T14:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            14,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Why does every startup want to help you get paid?",
+        "link": "https://techcrunch.com/2024/03/10/global-payroll-gets-more-competitive/",
+        "date": "Sun, 10 Mar 2024 14:30:10 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            14,
+            30,
+            10,
+            6,
+            70,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "A look at the design options Apple considered for its car, including one by Jony Ive that resembled a modern reincarnation of the 1950s Volkswagen microbus (Mark Gurman/Bloomberg)",
+        "link": "http://www.techmeme.com/240310/p4#a240310p4",
+        "date": "Sun, 10 Mar 2024 10:00:27 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            14,
+            0,
+            27,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "The Super Mario Bros. Movie sequel is coming in 2026",
+        "link": "https://www.theverge.com/2024/3/10/24096213/super-mario-bros-movie-2-sequel-2026",
+        "date": "2024-03-10T09:42:50-04:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            13,
+            42,
+            50,
+            6,
+            70,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Tenstorrent unveils Grayskull, its RISC-V answer to GPUs",
+        "link": "https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus",
+        "date": "Sun, 10 Mar 2024 13:15:03 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            13,
+            15,
+            3,
+            6,
+            70,
+            0
+        ],
+        "source": "techradar.com",
+        "image": ""
+    },
+    {
+        "title": "How to watch the 2024 Academy Awards",
+        "link": "https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live",
+        "date": "2024-03-10T09:00:00-04:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            13,
+            0,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "K\u0101k\u0101p\u014d \u2013 A web bundler for Nix strings with context",
+        "link": "https://github.com/adisbladis/kakapo",
+        "date": "Sun, 10 Mar 2024 12:57:44 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            57,
+            44,
+            6,
+            70,
+            0
+        ],
+        "source": "github.com",
+        "image": ""
+    },
+    {
+        "title": "Apple\u00a0Car Designs Give Tantalizing Look at What Might Have Been",
+        "link": "https://www.bloomberg.com/news/newsletters/2024-03-10/what-did-the-apple-car-look-like-inside-apple-s-planned-self-driving-vehicle-ltlic8vt",
+        "date": "Sun, 10 Mar 2024 12:45:26 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            45,
+            26,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCRQcj9XxoZI/v1/1200x-1.jpg"
+    },
+    {
+        "title": "Show HN: LlamaGym \u2013 fine-tune LLM agents with online reinforcement learning",
+        "link": "https://github.com/KhoomeiK/LlamaGym",
+        "date": "Sun, 10 Mar 2024 12:40:43 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            40,
+            43,
+            6,
+            70,
+            0
+        ],
+        "source": "github.com",
+        "image": ""
+    },
+    {
+        "title": "'Monumental' Experiment Suggests How Life on Earth May Have Started",
+        "link": "https://science.slashdot.org/story/24/03/09/224218/monumental-experiment-suggests-how-life-on-earth-may-have-started?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T12:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Women in AI: Heidy Khlaaf, safety engineering director at Trail of Bits",
+        "link": "https://techcrunch.com/2024/03/10/women-in-ai-heidy-khlaaf-safety-engineering-director-at-trail-of-bits/",
+        "date": "Sun, 10 Mar 2024 12:30:48 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            30,
+            48,
+            6,
+            70,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+        "link": "https://jobs.lever.co/buildzoom",
+        "date": "Sun, 10 Mar 2024 12:06:49 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            6,
+            49,
+            6,
+            70,
+            0
+        ],
+        "source": "lever.co",
+        "image": ""
+    },
+    {
+        "title": "Don\u2019t forget! Submit your Side Event at TechCrunch Early Stage 2024",
+        "link": "https://techcrunch.com/2024/03/10/dont-forget-submit-your-side-event-at-techcrunch-early-stage-2024/",
+        "date": "Sun, 10 Mar 2024 12:00:45 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            0,
+            45,
+            6,
+            70,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "The perfect music streaming app does not exist",
+        "link": "https://www.theverge.com/2024/3/10/24094743/best-music-app-nothing-phone-2a-m3-macbook-air-rivian-r3-installer-newsletter",
+        "date": "2024-03-10T08:00:00-04:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            0,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Bubble Angst Belied by Big-Tech Weaklings, Broader S&amp;P 500 Gains",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-10/bubble-angst-belied-by-big-tech-weaklings-broader-s-p-500-gains",
+        "date": "Sun, 10 Mar 2024 12:00:00 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            12,
+            0,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijoiEtd0pxKc/v2/1200x-1.png"
+    },
+    {
+        "title": "Q&A with ex-PlayStation boss Shawn Layden about his support for Web3 gaming company Readygg, blockchain games, mass layoffs, AI, controlling costs, and more (Dean Takahashi/VentureBeat)",
+        "link": "http://www.techmeme.com/240310/p3#a240310p3",
+        "date": "Sun, 10 Mar 2024 07:05:02 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            11,
+            5,
+            2,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Iris (Infra-Red, in Situ) Silicon Verification Project Updates",
+        "link": "https://www.bunniestudios.com/blog/?p=6937",
+        "date": "Sun, 10 Mar 2024 09:52:44 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            9,
+            52,
+            44,
+            6,
+            70,
+            0
+        ],
+        "source": "bunniestudios.com",
+        "image": ""
+    },
+    {
+        "title": "Moore on Moore \u2013 The past, present and uncertain future of Moore's Law",
+        "link": "https://thechipletter.substack.com/p/moore-on-moore",
+        "date": "Sun, 10 Mar 2024 09:15:44 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            9,
+            15,
+            44,
+            6,
+            70,
+            0
+        ],
+        "source": "substack.com",
+        "image": ""
+    },
+    {
+        "title": "California State Legislator Proposes Ending Daylight Saving Time",
+        "link": "https://yro.slashdot.org/story/24/03/09/2311200/california-state-legislator-proposes-ending-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T08:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            8,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "A profile of, and interview with, Salesforce co-founder Parker Harris, who became Slack CTO in January, on tightly integrating Slack, generative AI, and more (Jordan Novet/CNBC)",
+        "link": "http://www.techmeme.com/240310/p2#a240310p2",
+        "date": "Sun, 10 Mar 2024 03:01:03 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            7,
+            1,
+            3,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Two scammers, a web of betrayal, and Europe's fraud of the century",
+        "link": "https://magazine.atavist.com/watch-it-burn-france-europe-carbon-fraud-scam-vat-betrayal/",
+        "date": "Sun, 10 Mar 2024 06:06:37 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            6,
+            6,
+            37,
+            6,
+            70,
+            0
+        ],
+        "source": "atavist.com",
+        "image": ""
+    },
+    {
+        "title": "eToro CEO Yoni Assia says he is \"exploring the right timing\" for a London or NY IPO, as the Tel Aviv-based multi-asset trading platform seeks a $3.5B+ valuation (Nikou Asgari/Financial Times)",
+        "link": "http://www.techmeme.com/240310/p1#a240310p1",
+        "date": "Sun, 10 Mar 2024 00:45:15 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            4,
+            45,
+            15,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "New US Defense Department Report Found 'No Evidence' of Alien Technology",
+        "link": "https://yro.slashdot.org/story/24/03/09/0637244/new-us-defense-department-report-found-no-evidence-of-alien-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T04:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            4,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "S3 is files, but not a filesystem",
+        "link": "https://calpaterson.com/s3.html",
+        "date": "Sun, 10 Mar 2024 04:11:26 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            4,
+            11,
+            26,
+            6,
+            70,
+            0
+        ],
+        "source": "calpaterson.com",
+        "image": ""
+    },
+    {
+        "title": "Source: ex-Activision CEO Bobby Kotick has approached ByteDance to express interest in buying TikTok and floated the idea of partnering to Sam Altman and others (Wall Street Journal)",
+        "link": "http://www.techmeme.com/240309/p20#a240309p20",
+        "date": "Sat, 09 Mar 2024 23:45:09 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            3,
+            45,
+            9,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Palantir wins a US Army contract worth $178.4M to provide battlefield AI systems for the TITAN ground station, the Army's first \"AI-defined vehicle\" (Lindsay Clark/The Register)",
+        "link": "http://www.techmeme.com/240309/p19#a240309p19",
+        "date": "Sat, 09 Mar 2024 23:25:43 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            3,
+            25,
+            43,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Sources: JP Morgan is frustrated with Techstars over missteps in deploying the JPMorgan-backed $80M fund, aimed at helping underrepresented founders, since 2022 (Dominic-Madori Davis/TechCrunch)",
+        "link": "http://www.techmeme.com/240309/p18#a240309p18",
+        "date": "Sat, 09 Mar 2024 23:10:04 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            3,
+            10,
+            4,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Linux Variants of Bifrost Trojan Evade Detection via Typosquatting",
+        "link": "https://linux.slashdot.org/story/24/03/09/210221/linux-variants-of-bifrost-trojan-evade-detection-via-typosquatting?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-10T02:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            2,
+            34,
+            0,
+            6,
+            70,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "How Google rolled out Street View in Germany after 10+ years of resistance, as Street View's utility trumped privacy concerns in Europe's most private country (Jeremy Gray/PetaPixel)",
+        "link": "http://www.techmeme.com/240309/p17#a240309p17",
+        "date": "Sat, 09 Mar 2024 21:30:14 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            10,
+            1,
+            30,
+            14,
+            6,
+            70,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "What\u2019s going on with the new bill that could ban TikTok?",
+        "link": "https://techcrunch.com/2024/03/09/will-congress-ban-tiktok/",
+        "date": "Sat, 09 Mar 2024 23:44:58 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            23,
+            44,
+            58,
+            5,
+            69,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "PFAS 'Forever Chemicals' To Officially Be Removed from Food Packaging, FDA Says",
+        "link": "https://yro.slashdot.org/story/24/03/09/2240238/pfas-forever-chemicals-to-officially-be-removed-from-food-packaging-fda-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-09T23:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            23,
+            34,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "'Canonical Turns 20: Shaping the Ubuntu Linux World'",
+        "link": "https://news.slashdot.org/story/24/03/09/2144211/canonical-turns-20-shaping-the-ubuntu-linux-world?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-09T22:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            22,
+            34,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Uber, Lyft, Instacart, and DoorDash are testing different ways to show high-margin ads to customers, including personalized content and movie trailers (Preetika Rana/Wall Street Journal)",
+        "link": "http://www.techmeme.com/240309/p15#a240309p15",
+        "date": "Sat, 09 Mar 2024 18:25:01 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            22,
+            25,
+            1,
+            5,
+            69,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Activision Publishing\u2019s 600 QA workers form union",
+        "link": "https://venturebeat.com/games/activision-publishings-600-qa-workers-form-union/",
+        "date": "Sat, 09 Mar 2024 21:55:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            21,
+            55,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "US Cybersecurity Agency Forced to Take Two Systems Offline Last Month After Ivanti Compromise",
+        "link": "https://it.slashdot.org/story/24/03/09/1945235/us-cybersecurity-agency-forced-to-take-two-systems-offline-last-month-after-ivanti-compromise?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "date": "2024-03-09T21:34:00+00:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            21,
+            34,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "slashdot.org",
+        "image": ""
+    },
+    {
+        "title": "Women in AI: Claire Leibowicz, AI and media integrity expert at PAI",
+        "link": "https://techcrunch.com/2024/03/09/women-in-ai-claire-leibowicz-ai-and-media-integrity-expert-at-pai/",
+        "date": "Sat, 09 Mar 2024 21:30:06 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            21,
+            30,
+            6,
+            5,
+            69,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Apple terminates Epic\u2019s account, Meta platforms get knocked offline and former Twitter execs sue Elon Musk",
+        "link": "https://techcrunch.com/2024/03/09/apple-terminates-epics-account-meta-platforms-get-knocked-offline-and-former-twitter-execs-sue-elon-musk/",
+        "date": "Sat, 09 Mar 2024 21:15:22 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            21,
+            15,
+            22,
+            5,
+            69,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "A profile of Chinese private hacking contractor I-Soon, as leaked documents show shady business practices, worker disgruntlement, poor security protocols, more (Associated Press)",
+        "link": "http://www.techmeme.com/240309/p14#a240309p14",
+        "date": "Sat, 09 Mar 2024 16:55:00 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            20,
+            55,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Roku faces a backlash after it appears to lock devices of users who don't agree to its new Dispute Resolution Terms, asking them to write a letter to opt out (Scharon Harding/Wired)",
+        "link": "http://www.techmeme.com/240309/p13#a240309p13",
+        "date": "Sat, 09 Mar 2024 15:35:00 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            19,
+            35,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "Why we need to move away from anthropomorphic naming conventions in AI",
+        "link": "https://venturebeat.com/ai/why-we-need-to-move-away-from-anthropomorphic-naming-conventions-in-ai/",
+        "date": "Sat, 09 Mar 2024 19:15:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            19,
+            15,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Bruno: Fast and Git-friendly open-source API client (Postman alternative)",
+        "link": "https://www.usebruno.com/",
+        "date": "Sat, 9 Mar 2024 18:29:56 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            18,
+            29,
+            56,
+            5,
+            69,
+            0
+        ],
+        "source": "usebruno.com",
+        "image": ""
+    },
+    {
+        "title": "You got legal trouble? Better call SauLM-7B",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/09/better_call_saul_llm/",
+        "date": "2024-03-09T18:27:10.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            18,
+            27,
+            10,
+            5,
+            69,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "In two recent papers, researchers detail a new breakthrough to speed up matrix multiplication, potentially leading to savings in computational power and money (Steve Nadis/Quanta Magazine)",
+        "link": "http://www.techmeme.com/240309/p12#a240309p12",
+        "date": "Sat, 09 Mar 2024 14:05:02 -0400",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            18,
+            5,
+            2,
+            5,
+            69,
+            0
+        ],
+        "source": "techmeme.com",
+        "image": ""
+    },
+    {
+        "title": "You can grab a PS5 with Marvel\u2019s Spider-Man 2 for $399.99 right now",
+        "link": "https://www.theverge.com/2024/3/9/24094340/sony-playstation-5-ps5-slim-bundle-spider-man-2-ipad-pro-m1-m2-deal-sale",
+        "date": "2024-03-09T12:04:21-05:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            17,
+            4,
+            21,
+            5,
+            69,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "How Lenovo wants to unlock AI for all at the edge | Kirk Skaugen interview",
+        "link": "https://venturebeat.com/games/how-lenovo-wants-to-unlock-ai-for-all-at-the-edge-kirk-skaugen-interview/",
+        "date": "Sat, 09 Mar 2024 16:45:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            16,
+            45,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Fortnite was down all day Friday, but now the \u2018Myths & Mortals\u2019 update is here",
+        "link": "https://www.theverge.com/2024/3/8/24094877/fortnite-down-outage-chapter-5-season-2-update-download",
+        "date": "2024-03-09T11:35:23-05:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            16,
+            35,
+            23,
+            5,
+            69,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Fair Benchmarking Considered Difficult (2018) [pdf]",
+        "link": "https://hannes.muehleisen.org/publications/DBTEST2018-performance-testing.pdf",
+        "date": "Sat, 9 Mar 2024 16:12:56 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            16,
+            12,
+            56,
+            5,
+            69,
+            0
+        ],
+        "source": "muehleisen.org",
+        "image": ""
+    },
+    {
+        "title": "Slack\u2019s new CEO looks to bring stability after a turbulent period",
+        "link": "https://techcrunch.com/2024/03/09/slack-ceo-looks-to-bring-stability-after-a-turbulent-period/",
+        "date": "Sat, 09 Mar 2024 16:00:42 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            16,
+            0,
+            42,
+            5,
+            69,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "She Is Conann is a glamorous fever dream about finding beauty in barbarism",
+        "link": "https://www.theverge.com/24090625/she-is-conann-bertrand-mandico-review",
+        "date": "2024-03-09T10:32:20-05:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            15,
+            32,
+            20,
+            5,
+            69,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Biden's State of the Union included a battle cry against AI mimicry",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/09/biden_2024_sotu/",
+        "date": "2024-03-09T15:30:11.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            15,
+            30,
+            11,
+            5,
+            69,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "How many startups shut down last year compared to the year before? A lot.",
+        "link": "https://techcrunch.com/2024/03/09/how-many-startups-shut-down-last-year-compared-to-the-year-before-a-lot/",
+        "date": "Sat, 09 Mar 2024 15:05:40 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            15,
+            5,
+            40,
+            5,
+            69,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Monodraw",
+        "link": "https://monodraw.helftone.com/",
+        "date": "Sat, 9 Mar 2024 14:33:02 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            14,
+            33,
+            2,
+            5,
+            69,
+            0
+        ],
+        "source": "helftone.com",
+        "image": ""
+    },
+    {
+        "title": "Withings ScanWatch 2 and Light review: simple vibes for the tech-fatigued",
+        "link": "https://www.theverge.com/24085043/withings-scanwatch-2-scanwatch-light-review-wearables-smartwatch",
+        "date": "2024-03-09T09:00:00-05:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            14,
+            0,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Women in AI: Sandra Watcher, professor of data ethics at Oxford",
+        "link": "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/",
+        "date": "Sat, 09 Mar 2024 13:30:36 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            13,
+            30,
+            36,
+            5,
+            69,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "An engine that can conjure thrust from thin air? We speak to the designer",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/09/darpa_abep_project_interview/",
+        "date": "2024-03-09T10:34:10.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            10,
+            34,
+            10,
+            5,
+            69,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "As the Change Healthcare outage drags on, fears grow that patient data could spill online",
+        "link": "https://techcrunch.com/2024/03/09/change-healthcare-fears-data-breach-ransomware/",
+        "date": "Sat, 09 Mar 2024 10:00:28 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            10,
+            0,
+            28,
+            5,
+            69,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "The S in IoT stands for security. You'll never secure all the Things",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/09/opinion_column_security_sjvn/",
+        "date": "2024-03-09T06:00:10.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            6,
+            0,
+            10,
+            5,
+            69,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Japan Startup\u2019s Rocket Launch Halted Due to Ship in Hazard Area",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-09/japan-startup-s-rocket-launch-halted-due-to-ship-in-hazard-area",
+        "date": "Sat, 09 Mar 2024 05:43:38 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            5,
+            43,
+            38,
+            5,
+            69,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOCvi6bzBTfo/v1/1200x-1.jpg"
+    },
+    {
+        "title": "Netflix premiers The Three Body Problem sci-fi series at SXSW",
+        "link": "https://venturebeat.com/games/netflix-premiers-the-three-body-problem-sci-fi-series-at-sxsw/",
+        "date": "Sat, 09 Mar 2024 05:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            5,
+            0,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Elon Musk\u2019s X to Launch YouTube Clone for Smart TVs: Fortune",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-09/elon-musk-s-x-to-launch-youtube-clone-for-smart-tvs-fortune",
+        "date": "Sat, 09 Mar 2024 01:48:02 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            1,
+            48,
+            2,
+            5,
+            69,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMHVe3c_EOFU/v0/1200x-1.jpg"
+    },
+    {
+        "title": "US Mulls Blacklisting CXMT to Curb China\u2019s Chip Advance",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-09/us-mulls-blacklisting-cxmt-to-further-curb-china-s-chip-advance",
+        "date": "Sat, 09 Mar 2024 01:15:29 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            1,
+            15,
+            29,
+            5,
+            69,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLuOQDPJ5Kc8/v0/1200x-1.jpg"
+    },
+    {
+        "title": "What\u2019s Wrong With China\u2019s Economy? Can It Be Fixed?",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-09/how-china-s-economy-is-failing-to-recover-and-why-it-matters",
+        "date": "Sat, 09 Mar 2024 01:00:01 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            1,
+            0,
+            1,
+            5,
+            69,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIfvYV2VV_lM/v1/1200x-1.jpg"
+    },
+    {
+        "title": "Activision QA workers form the largest US video game union yet",
+        "link": "https://www.theverge.com/2024/3/8/24094602/activision-blizzard-qa-workers-unionizing-microsoft",
+        "date": "2024-03-08T19:31:05-05:00",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            0,
+            31,
+            5,
+            5,
+            69,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Microsoft Game Testers Boost Union Ranks at Company to 1,000",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-09/microsoft-msft-game-testers-boost-union-ranks-at-company-to-1-000",
+        "date": "Sat, 09 Mar 2024 00:30:00 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            0,
+            30,
+            0,
+            5,
+            69,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iynoW8vRxyIQ/v1/1200x-1.jpg"
+    },
+    {
+        "title": "Trump, who tried kicking TikTok out of the US, says boo to latest ban effort",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/09/trump_who_tried_kicking_tiktok/",
+        "date": "2024-03-09T00:25:11.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            9,
+            0,
+            25,
+            11,
+            5,
+            69,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Sam Altman reinstated to OpenAI board after investigation clears him of wrongdoing",
+        "link": "https://venturebeat.com/ai/sam-altman-reinstated-to-openai-board-after-investigation-clears-him-of-wrongdoing/",
+        "date": "Fri, 08 Mar 2024 23:37:41 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            23,
+            37,
+            41,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Happy International Women\u2019s Day to women in gaming! | Kaser Focus",
+        "link": "https://venturebeat.com/games/happy-international-womens-day-to-women-in-gaming-kaser-focus/",
+        "date": "Fri, 08 Mar 2024 23:33:36 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            23,
+            33,
+            36,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Musk Increasingly Puts His Thumb on the Scale for Trump\u2019s GOP",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-08/musk-increasingly-puts-his-thumb-on-the-scale-for-trump-s-gop",
+        "date": "Fri, 08 Mar 2024 23:10:26 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            23,
+            10,
+            26,
+            4,
+            68,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih72uE61yrPU/v1/1200x-1.jpg"
+    },
+    {
+        "title": "OpenAI\u2019s Sam Altman Returns to Board After Probe Clears Him",
+        "link": "https://www.bloomberg.com/news/articles/2024-03-08/openai-s-altman-returns-to-board-after-probe-clears-him",
+        "date": "Fri, 08 Mar 2024 23:00:09 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            23,
+            0,
+            9,
+            4,
+            68,
+            0
+        ],
+        "source": "bloomberg.com",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia1C0xmKY0zg/v1/1200x-1.jpg"
+    },
+    {
+        "title": "OpenAI announces new board members, reinstates CEO Sam Altman",
+        "link": "https://techcrunch.com/2024/03/08/openai-announces-new-board-members-reinstates-sam-altman/",
+        "date": "Fri, 08 Mar 2024 22:58:12 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            22,
+            58,
+            12,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Cybercrime crew Magnet Goblin bursts onto the scene exploiting Ivanti holes",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/magnet_goblin_ivanti/",
+        "date": "2024-03-08T22:55:25.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            22,
+            55,
+            25,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Sam Altman rejoins OpenAI\u2019s board after investigation into sudden firing",
+        "link": "https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results",
+        "date": "2024-03-08T17:46:47-05:00",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            22,
+            46,
+            47,
+            4,
+            68,
+            0
+        ],
+        "source": "theverge.com",
+        "image": ""
+    },
+    {
+        "title": "Techstars\u2019 $80M partnership with J.P. Morgan is on the rocks, employees say",
+        "link": "https://techcrunch.com/2024/03/08/techstars-80-million-partnership-with-j-p-morgan-is-on-the-rocks-employees-say/",
+        "date": "Fri, 08 Mar 2024 22:30:12 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            22,
+            30,
+            12,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "A third of Bumble\u2019s Texas workforce moved after state passed restrictive \u2018Heartbeat Act\u2019 abortion bill",
+        "link": "https://techcrunch.com/2024/03/08/bumble-lost-a-third-of-its-texas-workforce-after-state-passed-restrictive-heartbeat-act-abortion-bill/",
+        "date": "Fri, 08 Mar 2024 22:12:11 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            22,
+            12,
+            11,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Nano a nono: Pixel 8 phones too dumb for Google's smallest Gemini AI model",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/google_gemini_nano_pixel_8/",
+        "date": "2024-03-08T21:52:59.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            21,
+            52,
+            59,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Two former CloudKitchens execs are tackling Mexico\u2019s solar power lag",
+        "link": "https://techcrunch.com/2024/03/08/niko-seed-fundraise/",
+        "date": "Fri, 08 Mar 2024 21:43:17 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            21,
+            43,
+            17,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Matrix multiplication breakthrough could lead to faster, more efficient AI models",
+        "link": "https://arstechnica.com/?p=2008905",
+        "date": "Fri, 08 Mar 2024 21:07:18 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            21,
+            7,
+            18,
+            4,
+            68,
+            0
+        ],
+        "source": "arstechnica.com",
+        "image": ""
+    },
+    {
+        "title": "Apple reverses course, reinstates Epic Games\u2019 developer account",
+        "link": "https://venturebeat.com/games/apple-epic-games-eu-dma-reinstate/",
+        "date": "Fri, 08 Mar 2024 20:19:47 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            19,
+            47,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Hey, it\u2019s me, Brian\u2019s less creepy Apple Vision Pro Persona",
+        "link": "https://techcrunch.com/2024/03/08/hey-its-me-brians-less-creepy-apple-vision-pro-persona/",
+        "date": "Fri, 08 Mar 2024 20:08:48 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            8,
+            48,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "The incumbents go shopping for startups",
+        "link": "https://techcrunch.com/2024/03/08/the-incumbents-go-shopping-for-startups/",
+        "date": "Fri, 08 Mar 2024 20:05:47 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            5,
+            47,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Rivian\u2019s new \u2018treehouse\u2019 rooftop tent comes with a movie projector",
+        "link": "https://techcrunch.com/2024/03/08/rivians-new-treehouse-rooftop-tent-comes-with-a-movie-projector/",
+        "date": "Fri, 08 Mar 2024 20:02:50 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            2,
+            50,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Only 7 days left to save $1,000 on Disrupt passes",
+        "link": "https://techcrunch.com/2024/03/08/only-7-days-left-to-save-1000-on-disrupt-passes/",
+        "date": "Fri, 08 Mar 2024 20:00:35 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            20,
+            0,
+            35,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Women in AI: Sarah Kreps, professor of government at Cornell",
+        "link": "https://techcrunch.com/2024/03/08/women-in-ai-sarah-kreps-professor-of-government-at-cornell/",
+        "date": "Fri, 08 Mar 2024 19:57:22 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            19,
+            57,
+            22,
+            4,
+            68,
+            0
+        ],
+        "source": "techcrunch.com",
+        "image": ""
+    },
+    {
+        "title": "Grab a helmet because retired ISS batteries are hurtling back to Earth",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/iss_battery_packs_reentry/",
+        "date": "2024-03-08T19:39:14.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            19,
+            39,
+            14,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "BAFTA\u2019s 20th Games Awards feature a variety of nominees",
+        "link": "https://venturebeat.com/games/baftas-20th-games-awards-feature-a-variety-of-nominees/",
+        "date": "Fri, 08 Mar 2024 19:07:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            19,
+            7,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Microsoft says Kremlin-backed hackers accessed its source and internal systems",
+        "link": "https://arstechnica.com/?p=2008953",
+        "date": "Fri, 08 Mar 2024 18:42:39 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            18,
+            42,
+            39,
+            4,
+            68,
+            0
+        ],
+        "source": "arstechnica.com",
+        "image": ""
+    },
+    {
+        "title": "Is Russia using Starlink in Ukraine? Congress demands answers",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/is_russia_using_starlink_in/",
+        "date": "2024-03-08T18:30:12.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            18,
+            30,
+            12,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Why Apple needs to face greater antitrust scrutiny | The DeanBeat",
+        "link": "https://venturebeat.com/game-development/why-apple-needs-to-face-greater-antitrust-scrutiny-the-deanbeat/",
+        "date": "Fri, 08 Mar 2024 18:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            18,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Insilico Medicine unveils first AI-generated and AI-discovered drug in new paper",
+        "link": "https://venturebeat.com/ai/insilico-medicine-unveils-first-ai-generated-and-ai-discovered-drug-in-new-paper/",
+        "date": "Fri, 08 Mar 2024 17:49:17 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            49,
+            17,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Here's the Video for Our Third FOIA Forum: Temple of Satan and Iterative FOIAs",
+        "link": "https://www.404media.co/heres-the-video-for-our-third-foia-forum-temple-of-satan-and-iterative-foias/",
+        "date": "Fri, 08 Mar 2024 17:04:02 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            17,
+            4,
+            2,
+            4,
+            68,
+            0
+        ],
+        "source": "404media.co",
+        "image": "https://www.404media.co/content/images/2024/03/Screenshot-2024-03-08-at-8.54.58-AM.png"
+    },
+    {
+        "title": "Behind the Blog: Nextdoor Madness and Pharmacy Hackers",
+        "link": "https://www.404media.co/behind-the-blog-nextdoor-madness-and-pharmacy-hackers/",
+        "date": "Fri, 08 Mar 2024 16:58:32 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            58,
+            32,
+            4,
+            68,
+            0
+        ],
+        "source": "404media.co",
+        "image": "https://www.404media.co/content/images/2024/03/nl3.8-1.png"
+    },
+    {
+        "title": "Microsoft confirms Russian spies stole source code, accessed internal systems",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/microsoft_confirms_russian_spies_stole/",
+        "date": "2024-03-08T16:56:46.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            56,
+            46,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Microsoft sends OneDrive URL upload feature to the cloud graveyard",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/microsoft_axes_onedrive_url_upload/",
+        "date": "2024-03-08T16:27:09.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            16,
+            27,
+            9,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Palantir wins US Army contract for battlefield AI",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/palantir_wins_us_army_contract/",
+        "date": "2024-03-08T15:31:07.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            31,
+            7,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "How Black Desert stayed strong after 8 years of live ops | Jeonghee Jin interview",
+        "link": "https://venturebeat.com/games/how-black-desert-stayed-strong-after-8-years-of-live-ops-jeonghee-jeong-interview/",
+        "date": "Fri, 08 Mar 2024 15:30:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            15,
+            30,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "UK fusion startup breaks pressure record using giant \u2018gun\u2019 machine",
+        "link": "https://thenextweb.com/news/uk-fusion-startup-breaks-pressure-record-giant-gun-z-machine",
+        "date": "Fri, 08 Mar 2024 14:58:11 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            58,
+            11,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "Change Healthcare registers pulse after crippling ransomware attack",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/change_healthcare_restores_first_system/",
+        "date": "2024-03-08T14:33:09.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            33,
+            9,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "How former PlayStation boss views gaming\u2019s tumultuous time | Shawn Layden interview",
+        "link": "https://venturebeat.com/games/how-former-playstation-boss-views-gamings-tumultuous-time-shawn-layden-interview/",
+        "date": "Fri, 08 Mar 2024 14:30:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            30,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Pres. Biden calls upon Congress to ban AI voice impersonation in State of the Union address",
+        "link": "https://venturebeat.com/ai/pres-biden-calls-upon-congress-to-ban-ai-voice-impersonation-in-state-of-the-union-address/",
+        "date": "Fri, 08 Mar 2024 14:17:48 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            17,
+            48,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Sharing the AI journey: Amplifying female founder voices",
+        "link": "https://thenextweb.com/news/ai-amplifying-female-founder-voices",
+        "date": "Fri, 08 Mar 2024 14:16:42 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            16,
+            42,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "LLMs exhibit significant Western cultural bias, study finds",
+        "link": "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
+        "date": "Fri, 08 Mar 2024 14:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Omeda Studios launches open beta for Predecessor MOBA on March 28",
+        "link": "https://venturebeat.com/games/omeda-studios-launches-open-beta-for-predecessor-moba-on-march-28/",
+        "date": "Fri, 08 Mar 2024 14:00:00 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            14,
+            0,
+            0,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "IBM lifts lid on latest bid to halt mainframe skill slips",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/ibm_mainframe_skill/",
+        "date": "2024-03-08T13:26:13.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            26,
+            13,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "The person and the personality behind AI companion MoeMate: Getting personal with founder Ahad Shams",
+        "link": "https://venturebeat.com/business/the-person-and-the-personality-behind-ai-companion-moemate-getting-personal-with-founder-ahad-shams/",
+        "date": "Fri, 08 Mar 2024 13:04:29 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            4,
+            29,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Experts call for stricter femtech laws to safeguard women\u2019s data",
+        "link": "https://thenextweb.com/news/femtech-app-law-privacy-women-data",
+        "date": "Fri, 08 Mar 2024 13:02:51 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            13,
+            2,
+            51,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "Swiss cheese security? Play ransomware gang milks government of 65,000 files",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/swiss_government_files_ransomware/",
+        "date": "2024-03-08T12:35:12.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            12,
+            35,
+            12,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "IAB Europe's ad consent popups pose privacy problem",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/ad_tracking_popups_in_europe/",
+        "date": "2024-03-08T11:22:10.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            11,
+            22,
+            10,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Plummer talks to us about spending Microsoft's money on a red Corvette",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/spending_microsoft_money_on_a/",
+        "date": "2024-03-08T10:29:07.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            10,
+            29,
+            7,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "The EU\u2019s DMA is a new take on tech regulation \u2014 but that doesn\u2019t mean it\u2019ll work",
+        "link": "https://thenextweb.com/news/eu-dma-new-take-tech-regulation-will-it-work",
+        "date": "Fri, 08 Mar 2024 09:56:24 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            9,
+            56,
+            24,
+            4,
+            68,
+            0
+        ],
+        "source": "thenextweb.com",
+        "image": ""
+    },
+    {
+        "title": "Job interview descended into sweary shouting match, candidate got the gig anyway",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/on_call/",
+        "date": "2024-03-08T08:27:08.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            8,
+            27,
+            8,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "AI mishaps are surging \u2013 and now they're being tracked like software bugs",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/ai_mishaps_are_surging_and/",
+        "date": "2024-03-08T07:25:12.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            7,
+            25,
+            12,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Euro-cloud consortium issues ultimatum to Microsoft: Fix your licensing or else",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/cispe_microsoft_licensing_complaint/",
+        "date": "2024-03-08T06:26:05.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            6,
+            26,
+            5,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Broadcom says VMware to grow revenue by double-digit percentages all year",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/broadcom_q1_2024/",
+        "date": "2024-03-08T05:05:03.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            5,
+            5,
+            3,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "NIST staffers revolt against expected appointment  of \u2018effective altruist\u2019 AI researcher to US AI Safety Institute",
+        "link": "https://venturebeat.com/ai/nist-staffers-revolt-against-potential-appointment-of-effective-altruist-ai-researcher-to-us-ai-safety-institute/",
+        "date": "Fri, 08 Mar 2024 04:48:55 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            4,
+            48,
+            55,
+            4,
+            68,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Font security 'still a Helvetica of a problem' says Australian graphics outfit Canva",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/canva_font_security/",
+        "date": "2024-03-08T03:57:10.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            3,
+            57,
+            10,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "India plans 10,000-GPU sovereign AI supercomputer",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/indiaai_policy_funding_secured/",
+        "date": "2024-03-08T02:30:15.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            2,
+            30,
+            15,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Securing open source software: Whose job is it, anyway?",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/08/securing_opensource_software_whose_job/",
+        "date": "2024-03-08T01:02:10.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            8,
+            1,
+            2,
+            10,
+            4,
+            68,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Apple may have made itself a target before the EU's Digital Markets Act comes into force",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/apple_eu_dma_target/",
+        "date": "2024-03-07T23:59:14.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            23,
+            59,
+            14,
+            3,
+            67,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Mandala: A little plaground for testing pixel logic patterns",
+        "link": "https://github.com/gingerbeardman/mandala",
+        "date": "Thu, 7 Mar 2024 23:00:01 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            23,
+            0,
+            1,
+            3,
+            67,
+            0
+        ],
+        "source": "github.com",
+        "image": ""
+    },
+    {
+        "title": "Attack wrangles thousands of web users into a password-cracking botnet",
+        "link": "https://arstechnica.com/?p=2008817",
+        "date": "Thu, 07 Mar 2024 22:29:46 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            22,
+            29,
+            46,
+            3,
+            67,
+            0
+        ],
+        "source": "arstechnica.com",
+        "image": ""
+    },
+    {
+        "title": "Boeing paper trail goes cold over door plug blowout",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/ntsb_boeing_door_plug/",
+        "date": "2024-03-07T22:15:14.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            22,
+            15,
+            14,
+            3,
+            67,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Microids reveals remake of classic adventure game Amerzone",
+        "link": "https://venturebeat.com/games/microids-reveals-remake-of-classic-adventure-game-amerzone/",
+        "date": "Thu, 07 Mar 2024 22:07:54 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            22,
+            7,
+            54,
+            3,
+            67,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "We're not Meta support: State AGs tell Zuck to fix rampant account takeover problem",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/82_of_us_ags_agree/",
+        "date": "2024-03-07T21:45:15.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            45,
+            15,
+            3,
+            67,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "NYTimes Files Copyright Takedown Against Hundreds of Wordle Clones",
+        "link": "https://www.404media.co/nytimes-files-copyright-takedowns-against-hundreds-of-wordle-clones/",
+        "date": "Thu, 07 Mar 2024 21:45:02 GMT",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            45,
+            2,
+            3,
+            67,
+            0
+        ],
+        "source": "404media.co",
+        "image": "https://www.404media.co/content/images/2024/03/Untitled-3.png"
+    },
+    {
+        "title": "Experts call for legal \u2018safe harbor\u2019 so researchers, journalists and artists can evaluate AI tools",
+        "link": "https://venturebeat.com/ai/experts-call-for-legal-safe-harbor-so-researchers-journalists-and-artists-can-evaluate-ai-tools/",
+        "date": "Thu, 07 Mar 2024 21:36:44 +0000",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            36,
+            44,
+            3,
+            67,
+            0
+        ],
+        "source": "venturebeat.com",
+        "image": ""
+    },
+    {
+        "title": "Intel inches closer to $3.5B contract to build secret fabs for Uncle Sam",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/intel_3b_military/",
+        "date": "2024-03-07T21:00:08.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            21,
+            0,
+            8,
+            3,
+            67,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Windows 10 failing to patch properly? You are most definitely not alone",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/users_report_windows_10_patch/",
+        "date": "2024-03-07T20:15:13.00Z",
+        "date_parsed": [
+            2024,
+            3,
+            7,
+            20,
+            15,
+            13,
+            3,
+            67,
+            0
+        ],
+        "source": "theregister.com",
+        "image": ""
+    },
+    {
+        "title": "Chrome users \u2013 get an alert when extensions are in danger of falling into wrong hands",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/chrome_extension_changes/",
+        "date": "2024-03-07T19:45:27.00Z",
         "date_parsed": [
             2024,
             3,
             7,
             19,
-            33,
-            52,
+            45,
+            27,
             3,
             67,
             0
         ],
-        "source": "techcrunch.com",
+        "source": "theregister.com",
         "image": ""
     },
     {
@@ -36,24 +3024,6 @@
         "image": ""
     },
     {
-        "title": "AI2 Incubator scores $200M in compute to feed needy AI startups",
-        "link": "https://techcrunch.com/2024/03/07/ai2-incubator-scores-200m-in-compute-to-feed-needy-ai-startups/",
-        "date": "Thu, 07 Mar 2024 19:30:45 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            19,
-            30,
-            45,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
         "title": "\u2018Boob Shirt\u2019 Speaks (Through an AI Model of Themselves)",
         "link": "https://www.404media.co/boob-shirt-google-ai-agi-house/",
         "date": "Thu, 07 Mar 2024 19:27:03 GMT",
@@ -72,258 +3042,6 @@
         "image": "https://www.404media.co/content/images/2024/03/boobshirt-1.png"
     },
     {
-        "title": "Rivian R2 launch event: the EV company\u2019s more affordable SUV is here",
-        "link": "https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live",
-        "date": "2024-03-07T14:20:16-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            19,
-            20,
-            16,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
-        "title": "Samsung Making It Harder To Know What Type of OLED TV You're Getting",
-        "link": "https://tech.slashdot.org/story/24/03/07/1920211/samsung-making-it-harder-to-know-what-type-of-oled-tv-youre-getting?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T19:20:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            19,
-            20,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "Maria Sibylla Merian's Metamorphosis Insectorum Surinamensium (1705)",
-        "link": "https://publicdomainreview.org/collection/merian-metamorphosis/",
-        "date": "Thu, 7 Mar 2024 19:11:33 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            19,
-            11,
-            33,
-            3,
-            67,
-            0
-        ],
-        "source": "publicdomainreview.org",
-        "image": ""
-    },
-    {
-        "title": "Rivian surprises with R3 and R3X electric SUVs",
-        "link": "https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs",
-        "date": "2024-03-07T14:02:37-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            19,
-            2,
-            37,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
-        "title": "How do computers calculate sine?",
-        "link": "https://androidcalculator.com/how-do-calculators-compute-sine/",
-        "date": "Thu, 7 Mar 2024 18:59:15 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            59,
-            15,
-            3,
-            67,
-            0
-        ],
-        "source": "androidcalculator.com",
-        "image": ""
-    },
-    {
-        "title": "Rivian takes the wraps off $45,000 R2 SUV, its biggest bet yet",
-        "link": "https://techcrunch.com/2024/03/07/rivian-takes-the-wraps-off-45000-r2-suv-its-biggest-bet-yet/",
-        "date": "Thu, 07 Mar 2024 18:59:03 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            59,
-            3,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "TikTok hijacks the For You page with call to action on ban",
-        "link": "https://techcrunch.com/2024/03/07/tiktok-ban-congress/",
-        "date": "Thu, 07 Mar 2024 18:57:24 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            57,
-            24,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Denver-based Todyl, a cybersecurity startup focused on SMBs, raised a $50M Series B led by Base10 Partners, bringing its total funding to $83.8M (Kyt Dotson/SiliconANGLE)",
-        "link": "http://www.techmeme.com/240307/p30#a240307p30",
-        "date": "Thu, 07 Mar 2024 13:55:15 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            55,
-            15,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "Rivian surprise announces the R3 hatchback, and it\u2019s cute as hell",
-        "link": "https://techcrunch.com/2024/03/07/rivian-r3-hatchback-ev-specs-preorder-info/",
-        "date": "Thu, 07 Mar 2024 18:49:11 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            49,
-            11,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Some of the best Switch games are $20 off in the lead-up to Mario Day",
-        "link": "https://www.theverge.com/2024/3/7/24092444/mario-kart-8-deluxe-ugreen-magsafe-charging-stand-logitech-crayon-stylus-deal-sale",
-        "date": "2024-03-07T13:41:41-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            41,
-            41,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
-        "title": "Feds To Offer New Support To Open-Source Developers",
-        "link": "https://news.slashdot.org/story/24/03/07/1834222/feds-to-offer-new-support-to-open-source-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T18:40:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            40,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "Launch HN: SiLogy (YC W24) \u2013 Chip design and verification in the cloud",
-        "link": "https://silogy.io/",
-        "date": "Thu, 7 Mar 2024 18:38:22 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            38,
-            22,
-            3,
-            67,
-            0
-        ],
-        "source": "silogy.io",
-        "image": ""
-    },
-    {
-        "title": "More Buyers Eye Independent Podcast Companies",
-        "link": "https://www.bloomberg.com/news/newsletters/2024-03-07/more-buyers-eye-independent-podcast-companies",
-        "date": "Thu, 07 Mar 2024 18:35:12 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            35,
-            12,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/indGzBSyETMM/v0/1200x-1.jpg"
-    },
-    {
-        "title": "Overwatch 2\u2019s Cowboy Bebop collaboration has won me back",
-        "link": "https://www.theverge.com/2024/3/7/24093455/overwatch-2-cowboy-bebop-collaboration",
-        "date": "2024-03-07T13:31:56-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            31,
-            56,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
         "title": "Possible China link to Change Healthcare ransomware attack",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/china_link_change_healthcare_ransomware/",
         "date": "2024-03-07T18:30:07.00Z",
@@ -339,42 +3057,6 @@
             0
         ],
         "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Databricks keeps marching forward with $1.6B in revenue",
-        "link": "https://techcrunch.com/2024/03/07/databricks-revenue-numbers-ipo/",
-        "date": "Thu, 07 Mar 2024 18:21:14 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            21,
-            14,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Rivian R2 revealed: a $45,000 electric off-roader for the masses",
-        "link": "https://www.theverge.com/2024/3/7/24093215/rivian-r2-revealed-ev-suv-price-specs-price",
-        "date": "2024-03-07T13:20:41-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            20,
-            41,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
         "image": ""
     },
     {
@@ -396,60 +3078,6 @@
         "image": ""
     },
     {
-        "title": "Palantir Adds General Mills, CBS and Aramark as New AI Customers",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/palantir-adds-general-mills-cbs-and-aramark-as-new-ai-customers",
-        "date": "Thu, 07 Mar 2024 18:13:37 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            13,
-            37,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDuir1jncGIo/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Apple is Working To Make It Easier To Switch From iPhone To Android Because of the EU",
-        "link": "https://apple.slashdot.org/story/24/03/07/187230/apple-is-working-to-make-it-easier-to-switch-from-iphone-to-android-because-of-the-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T18:08:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            8,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "Apple will cut off third-party app store updates if your iPhone leaves the EU for a month",
-        "link": "https://www.theverge.com/2024/3/7/24093437/apple-iphone-third-party-app-store-dma-eu",
-        "date": "2024-03-07T13:07:31-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            18,
-            7,
-            31,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
         "title": "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4",
         "link": "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/",
         "date": "Thu, 07 Mar 2024 17:48:11 +0000",
@@ -468,61 +3096,7 @@
         "image": ""
     },
     {
-        "title": "Threads now lets all users save drafts and take photos within the app",
-        "link": "https://techcrunch.com/2024/03/07/threads-save-drafts-take-photos-within-app/",
-        "date": "Thu, 07 Mar 2024 17:42:53 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            42,
-            53,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Intel to get $3.5B infusion from U.S. gov't to make chips for military: Report",
-        "link": "https://www.tomshardware.com/tech-industry/intel-to-get-dollar35-billion-from-us-govt-to-make-chips-for-military-report",
-        "date": "Thu, 7 Mar 2024 17:39:08 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            39,
-            8,
-            3,
-            67,
-            0
-        ],
-        "source": "tomshardware.com",
-        "image": ""
-    },
-    {
-        "title": "Tracking ads industry faces another body blow in the EU",
-        "link": "https://techcrunch.com/2024/03/07/iab-tcf-cjeu/",
-        "date": "Thu, 07 Mar 2024 17:37:12 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            37,
-            12,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Reddit rolling out AI bouncer to halt harrassment",
+        "title": "Reddit rolling out AI bouncer to halt harassment",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/reddit_introduces_aipowered_harassment_filter/",
         "date": "2024-03-07T17:31:06.00Z",
         "date_parsed": [
@@ -537,60 +3111,6 @@
             0
         ],
         "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Brevian is a no-code enterprise platform for building AI agents",
-        "link": "https://techcrunch.com/2024/03/07/brevian-is-a-no-code-enterprise-platform-for-building-ai-agents/",
-        "date": "Thu, 07 Mar 2024 17:30:43 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            30,
-            43,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Apple\u2019s last-minute App Store changes come with a catch \u2014 here\u2019s what developers think",
-        "link": "https://www.theverge.com/2024/3/7/24093202/apple-developers-revert-business-terms-eu-dma",
-        "date": "2024-03-07T12:29:39-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            29,
-            39,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
-        "title": "SEC Approves Rule Requiring Some Companies To Report Greenhouse Gas Emissions",
-        "link": "https://news.slashdot.org/story/24/03/07/1721237/sec-approves-rule-requiring-some-companies-to-report-greenhouse-gas-emissions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T17:22:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            22,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
         "image": ""
     },
     {
@@ -610,132 +3130,6 @@
         ],
         "source": "thenextweb.com",
         "image": ""
-    },
-    {
-        "title": "The Pile is a 825 GiB diverse, open-source language modelling data set",
-        "link": "https://pile.eleuther.ai/",
-        "date": "Thu, 7 Mar 2024 17:14:51 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            14,
-            51,
-            3,
-            67,
-            0
-        ],
-        "source": "eleuther.ai",
-        "image": ""
-    },
-    {
-        "title": "The SEC\u2019s new climate disclosure rule already faces legal challenges",
-        "link": "https://www.theverge.com/2024/3/7/24093354/sec-climate-disclosure-rule-legal-challenges",
-        "date": "2024-03-07T12:11:58-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            11,
-            58,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
-        "title": "Apple plans to let EU-based iPhone users uninstall Safari by 2024's end and is working on a more \"user-friendly\" way to let them switch to Android by fall 2025 (Jon Porter/The Verge)",
-        "link": "http://www.techmeme.com/240307/p29#a240307p29",
-        "date": "Thu, 07 Mar 2024 12:10:17 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            10,
-            17,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "The best deals on MacBooks right now",
-        "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-        "date": "2024-03-07T12:07:15-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            7,
-            15,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
-        "title": "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
-        "link": "https://www.workatastartup.com/jobs/64008",
-        "date": "Thu, 7 Mar 2024 17:00:24 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            0,
-            24,
-            3,
-            67,
-            0
-        ],
-        "source": "workatastartup.com",
-        "image": ""
-    },
-    {
-        "title": "Oura starts selling its products on Amazon",
-        "link": "https://techcrunch.com/2024/03/07/oura-starts-selling-its-products-on-amazon/",
-        "date": "Thu, 07 Mar 2024 17:00:20 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            0,
-            20,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Vivendi Advances Plan to Split French Media Conglomerate in Four",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/vivendi-advances-plan-to-split-french-media-conglomerate-in-four",
-        "date": "Thu, 07 Mar 2024 17:00:00 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            17,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6vrx4.5Ak.Y/v0/1200x-1.jpg"
     },
     {
         "title": "Cocone debuts AlterEgo City as 1st foray into U.S. gaming",
@@ -792,114 +3186,6 @@
         "image": ""
     },
     {
-        "title": "Uber Eats\u2019 new live location sharing feature helps couriers deliver food to users in hard-to-find locations",
-        "link": "https://techcrunch.com/2024/03/07/uber-eats-new-live-location-sharing-feature-helps-couriers-deliver-food-to-users-in-hard-to-find-locations/",
-        "date": "Thu, 07 Mar 2024 16:58:16 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            58,
-            16,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "PayPal launches Tap to Pay on iPhone for businesses using Venmo and Zettle in the US",
-        "link": "https://techcrunch.com/2024/03/07/paypal-launches-tap-to-pay-iphone-businesses-using-venmo-zettle/",
-        "date": "Thu, 07 Mar 2024 16:52:49 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            52,
-            49,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Apple is working to make it easier to switch from iPhone to Android because of the EU",
-        "link": "https://www.theverge.com/2024/3/7/24093355/apple-digital-markets-act-compliance-android-switch-eu",
-        "date": "2024-03-07T11:51:52-05:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            51,
-            52,
-            3,
-            67,
-            0
-        ],
-        "source": "theverge.com",
-        "image": ""
-    },
-    {
-        "title": "TikTok sends US users a push notification saying Congress plans a total ban, with a link to find representatives, after the White House supported a TikTok bill (Mia Sato/The Verge)",
-        "link": "http://www.techmeme.com/240307/p28#a240307p28",
-        "date": "Thu, 07 Mar 2024 11:50:01 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            50,
-            1,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "The Race to 2nm: RISC-V Chips in Japan \u2013 By Dr. Ian Cutress",
-        "link": "https://morethanmoore.substack.com/p/the-race-to-2nm-risc-v-chips-in-japan",
-        "date": "Thu, 7 Mar 2024 16:48:28 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            48,
-            28,
-            3,
-            67,
-            0
-        ],
-        "source": "substack.com",
-        "image": ""
-    },
-    {
-        "title": "EA Says Generative AI Could Make It 30% More Efficient",
-        "link": "https://games.slashdot.org/story/24/03/07/1633214/ea-says-generative-ai-could-make-it-30-more-efficient?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T16:40:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            40,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
         "title": "As NIST funding challenges persist, Schumer announces $10 million for its AI Safety Institute",
         "link": "https://venturebeat.com/ai/as-nist-funding-challenges-persist-schumer-announces-10-million-for-its-ai-safety-institute/",
         "date": "Thu, 07 Mar 2024 16:36:46 +0000",
@@ -936,114 +3222,6 @@
         "image": ""
     },
     {
-        "title": "You cannot simply publicly access private secure links, can you?",
-        "link": "https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html",
-        "date": "Thu, 7 Mar 2024 16:29:47 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            29,
-            47,
-            3,
-            67,
-            0
-        ],
-        "source": "github.io",
-        "image": ""
-    },
-    {
-        "title": "New Bounds for Matrix Multiplication: From Alpha to Omega",
-        "link": "https://epubs.siam.org/doi/10.1137/1.9781611977912.134",
-        "date": "Thu, 7 Mar 2024 16:26:15 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            26,
-            15,
-            3,
-            67,
-            0
-        ],
-        "source": "siam.org",
-        "image": ""
-    },
-    {
-        "title": "Sources: Temu became Meta's top advertiser by revenue in 2023 by spending nearly $2B on ads, and became one of Google's top five advertisers by spending in 2023 (Wall Street Journal)",
-        "link": "http://www.techmeme.com/240307/p27#a240307p27",
-        "date": "Thu, 07 Mar 2024 11:25:01 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            25,
-            1,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "How the Great Green Wall Is Holding Back the Sahara Desert",
-        "link": "https://kottke.org/24/03/how-the-great-green-wall-is-holding-back-the-sahara-desert",
-        "date": "Thu, 7 Mar 2024 16:23:22 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            23,
-            22,
-            3,
-            67,
-            0
-        ],
-        "source": "kottke.org",
-        "image": ""
-    },
-    {
-        "title": "Voyager 1, First Craft in Interstellar Space, May Have Gone Dark",
-        "link": "https://science.slashdot.org/story/24/03/07/1615204/voyager-1-first-craft-in-interstellar-space-may-have-gone-dark?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T16:14:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            14,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "Coinbase Convertibles Jump to Two-Year High During Crypto Rally",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/coinbase-convertibles-jump-to-two-year-high-amid-crypto-rally",
-        "date": "Thu, 07 Mar 2024 16:12:48 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            12,
-            48,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9edzCXm9iXc/v2/1200x-1.png"
-    },
-    {
         "title": "Tesla Berlin gigafactory to take week-long nap after suspected arson",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/tesla_berlin_gigafactory_offline/",
         "date": "2024-03-07T16:08:17.00Z",
@@ -1059,402 +3237,6 @@
             0
         ],
         "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Turnitin laid off staff earlier this year, after CEO forecast AI would allow it to cut headcount",
-        "link": "https://techcrunch.com/2024/03/07/turnitin-laid-off-staff-earlier-this-year-after-ceo-forecast-ai-would-allow-it-to-cut-headcount/",
-        "date": "Thu, 07 Mar 2024 16:04:06 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            4,
-            6,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Singer Studios unveils VR game The Pirate Queen: A Forgotten Legend with Lucy Liu",
-        "link": "https://venturebeat.com/games/singer-studios-unveils-vr-game-the-pirate-queen-a-forgotten-legend-with-lucy-liu/",
-        "date": "Thu, 07 Mar 2024 16:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Discord elevates support for game devs with enhanced Quest and Shop tools",
-        "link": "https://venturebeat.com/games/discord-elevates-support-for-game-devs-with-enhanced-quest-and-shop-tools/",
-        "date": "Thu, 07 Mar 2024 16:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            16,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Trump Media SPAC Avoids Legal Roadblock on Way to Merger Vote",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/trump-media-spac-avoids-legal-roadblock-on-way-to-merger-vote",
-        "date": "Thu, 07 Mar 2024 15:48:11 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            48,
-            11,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz9vpn5Ue8gs/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Nikon buys cinema camera maker RED",
-        "link": "https://techcrunch.com/2024/03/07/nikon-buys-film-camera-maker-red/",
-        "date": "Thu, 07 Mar 2024 15:46:59 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            46,
-            59,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "The Berkeley Software Distribution",
-        "link": "https://www.abortretry.fail/p/the-berkley-software-distribution",
-        "date": "Thu, 7 Mar 2024 15:46:22 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            46,
-            22,
-            3,
-            67,
-            0
-        ],
-        "source": "abortretry.fail",
-        "image": ""
-    },
-    {
-        "title": "Inflection launches Inflection-2.5, which for weeks has helped its chatbot Pi perform \"neck and neck with\" OpenAI's GPT-4, and says Pi has 1M DAUs and 6M MAUs (Ina Fried/Axios)",
-        "link": "http://www.techmeme.com/240307/p26#a240307p26",
-        "date": "Thu, 07 Mar 2024 10:45:01 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            45,
-            1,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "Spain-based Multiverse Computing, which makes software to compress LLMs using \"quantum-inspired tensor networks\", raised a &euro;25M Series A at a &euro;100M valuation (Ingrid Lunden/TechCrunch)",
-        "link": "http://www.techmeme.com/240307/p25#a240307p25",
-        "date": "Thu, 07 Mar 2024 10:35:00 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            35,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "Sources: Discord revenue has quadrupled since 2020 to over $600M on an annualized basis; Discord claims 200M+ MAUs and launches rewards for playing games online (Cecilia D'Anastasio/Bloomberg)",
-        "link": "http://www.techmeme.com/240307/p24#a240307p24",
-        "date": "Thu, 07 Mar 2024 10:30:02 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            30,
-            2,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "How Moon Beast plans to tap the well of player creators",
-        "link": "https://venturebeat.com/gaming-business/how-moon-beast-plans-to-tap-the-well-of-player-creators/",
-        "date": "Thu, 07 Mar 2024 15:30:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            30,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Governments \u2018Can\u2019t Keep Us Aloft Forever,\u2019 Oaktree\u2019s Marks Says",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/governments-can-t-keep-us-aloft-forever-oaktree-s-marks-says",
-        "date": "Thu, 07 Mar 2024 15:25:09 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            25,
-            9,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZVpv3Gf.hWc/v0/1200x-1.jpg"
-    },
-    {
-        "title": "We tested Anthropic\u2019s new chatbot \u2014 and came away a bit disappointed",
-        "link": "https://techcrunch.com/2024/03/07/we-tested-anthropics-new-chatbot-and-came-away-a-bit-disappointed/",
-        "date": "Thu, 07 Mar 2024 15:25:07 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            25,
-            7,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "'AI Prompt Engineering Is Dead'",
-        "link": "https://developers.slashdot.org/story/24/03/07/1511252/ai-prompt-engineering-is-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T15:20:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            20,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "Anonymous social apps face another reckoning as UNC System to ban Yik Yik, Fizz, Sidechat & Whisper",
-        "link": "https://techcrunch.com/2024/03/07/anonymous-social-apps-face-another-reckoning-as-unc-system-to-ban-yik-yik-fizz-sidechat-whisper/",
-        "date": "Thu, 07 Mar 2024 15:16:11 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            16,
-            11,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "A Montenegro court rules that Terraform Labs co-founder Do Kwon will be extradited to South Korea, reversing another court's decision to extradite him to the US (MK Manoylov/The Block)",
-        "link": "http://www.techmeme.com/240307/p23#a240307p23",
-        "date": "Thu, 07 Mar 2024 10:10:04 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            10,
-            4,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "Reach Security taps a company\u2019s existing tools to fight cyber threats",
-        "link": "https://techcrunch.com/2024/03/07/reach-security-taps-a-companys-existing-tools-to-fight-cyber-threats/",
-        "date": "Thu, 07 Mar 2024 15:00:34 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            0,
-            34,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Discord to Offer Rewards for Gamers as CEO Considers IPO",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/discord-to-offer-rewards-for-gamers-as-app-seeks-profit-in-2024",
-        "date": "Thu, 07 Mar 2024 15:00:00 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyjFieh5j.bE/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Maingear unveils North Series gaming PCs with new Fractal Design chassis",
-        "link": "https://venturebeat.com/games/maingear-unveils-north-series-gaming-pcs-with-new-fractal-design-chassis/",
-        "date": "Thu, 07 Mar 2024 15:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Saudi entertainment city Qiddiya sponsors Esports World Cup",
-        "link": "https://venturebeat.com/games/saudi-entertainment-city-qiddiya-sponsors-esports-world-cup/",
-        "date": "Thu, 07 Mar 2024 15:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            15,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Sources: after the resolution of the Sequoia-Klarna ordeal, Klarna's co-founders continue to clash on key governance decisions, like post-IPO control of Klarna (Bloomberg)",
-        "link": "http://www.techmeme.com/240307/p22#a240307p22",
-        "date": "Thu, 07 Mar 2024 09:50:08 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            50,
-            8,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "FCC Conducting \u2018Thorough\u2019 Investigation Into AT&amp;T Outage",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/fcc-conducting-thorough-investigation-into-at-t-outage",
-        "date": "Thu, 07 Mar 2024 14:46:48 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            46,
-            48,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijptLZp9LGXM/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Nikon To Acquire US Cinema Camera Manufacturer RED",
-        "link": "https://entertainment.slashdot.org/story/24/03/07/089209/nikon-to-acquire-us-cinema-camera-manufacturer-red?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T14:41:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            41,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
         "image": ""
     },
     {
@@ -1494,96 +3276,6 @@
         "image": "https://www.404media.co/content/images/2024/03/joe-biden.jpg"
     },
     {
-        "title": "Broadcom Earnings to Provide Next Test of Resolve for AI Rally",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/broadcom-earnings-to-provide-next-test-of-resolve-for-ai-rally",
-        "date": "Thu, 07 Mar 2024 14:35:00 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            35,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_uW8fMQBtrY/v2/1200x-1.png"
-    },
-    {
-        "title": "In X replies, Elon Musk says a future version of X's timeline will only show view counts, and users can swipe right to reply, left to favorite, and tap for more (Jody Serrano/Gizmodo)",
-        "link": "http://www.techmeme.com/240307/p21#a240307p21",
-        "date": "Thu, 07 Mar 2024 09:30:01 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            30,
-            1,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "Nvidia GTC 2024 preview \u2014 AI marches forward | Greg Estes",
-        "link": "https://venturebeat.com/ai/nvidia-gtc-2024-preview-ai-marches-forward-greg-estes/",
-        "date": "Thu, 07 Mar 2024 14:30:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            30,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
-        "link": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
-        "date": "Thu, 07 Mar 2024 14:29:19 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            29,
-            19,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "UK Blank-Check Company\u2019s Cash Turns It From Buyer to Target",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/uk-blank-check-company-s-cash-turns-it-from-buyer-to-target",
-        "date": "Thu, 07 Mar 2024 14:27:59 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            27,
-            59,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7M.FO7r.IlI/v1/1200x-1.jpg"
-    },
-    {
         "title": "US wants ASML to stop servicing China-owned chip equipment",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/us_asml_china_restrictions/",
         "date": "2024-03-07T14:23:13.00Z",
@@ -1599,132 +3291,6 @@
             0
         ],
         "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Bored? Go play this hidden game in your Instagram DMs",
-        "link": "https://techcrunch.com/2024/03/07/bored-go-play-this-hidden-game-in-your-instagram-dms/",
-        "date": "Thu, 07 Mar 2024 14:20:08 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            20,
-            8,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "MacBook Air (2024) review: sturdy and sleek, fast M3 chip, excellent 13- and 15-inch displays, great keyboard, and solid speakers, but USB-C is only on one side (Devindra Hardawar/Engadget)",
-        "link": "http://www.techmeme.com/240307/p20#a240307p20",
-        "date": "Thu, 07 Mar 2024 09:10:02 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            10,
-            2,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "Hurried Thoughts: You're Wrong About Tidal-Locking",
-        "link": "https://worldbuildingpasta.blogspot.com/2024/03/hurried-thoughts-youre-wrong-about.html",
-        "date": "Thu, 7 Mar 2024 14:08:26 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            8,
-            26,
-            3,
-            67,
-            0
-        ],
-        "source": "blogspot.com",
-        "image": ""
-    },
-    {
-        "title": "Source Code for Area 51 (2005) by Midway Studios Austin Found at Garage Sale",
-        "link": "https://github.com/ProjectDreamland/area51",
-        "date": "Thu, 7 Mar 2024 14:07:53 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            7,
-            53,
-            3,
-            67,
-            0
-        ],
-        "source": "github.com",
-        "image": ""
-    },
-    {
-        "title": "Europe\u2019s DMA rules for Big Tech explained",
-        "link": "https://techcrunch.com/2024/03/07/europes-dma-rules-for-big-tech-explained/",
-        "date": "Thu, 07 Mar 2024 14:05:28 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            5,
-            28,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
-        "image": ""
-    },
-    {
-        "title": "Millions of Research Papers at Risk of Disappearing From the Internet",
-        "link": "https://science.slashdot.org/story/24/03/07/0614207/millions-of-research-papers-at-risk-of-disappearing-from-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T14:01:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            1,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "Apple M3 MacBook Air review: Still the best Mac for most",
-        "link": "https://techcrunch.com/2024/03/07/apple-macbook-air-m3-review/",
-        "date": "Thu, 07 Mar 2024 14:00:29 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            0,
-            29,
-            3,
-            67,
-            0
-        ],
-        "source": "techcrunch.com",
         "image": ""
     },
     {
@@ -1746,132 +3312,6 @@
         "image": "https://www.404media.co/content/images/2024/03/header-art.png"
     },
     {
-        "title": "Hertz Taps Fintech Stripe for Processing of Rental-Car Payments",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/hertz-taps-fintech-stripe-for-processing-of-rental-car-payments",
-        "date": "Thu, 07 Mar 2024 14:00:00 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWFxg9wYSGfA/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Fallout promises world building and dark humor on April 11",
-        "link": "https://venturebeat.com/games/fallout-prime-video-april-11-trailer/",
-        "date": "Thu, 07 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Xsolla debuts Xsolla Wallet and takes game payments to Africa",
-        "link": "https://venturebeat.com/games/xsolla-debuts-xsolla-wallet-and-takes-game-payments-to-africa/",
-        "date": "Thu, 07 Mar 2024 14:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            14,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Eloquent JavaScript 4th edition (2024)",
-        "link": "https://eloquentjavascript.net/",
-        "date": "Thu, 7 Mar 2024 13:52:16 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            52,
-            16,
-            3,
-            67,
-            0
-        ],
-        "source": "eloquentjavascript.net",
-        "image": ""
-    },
-    {
-        "title": "The Magic of Bird Brains",
-        "link": "https://www.newyorker.com/science/elements/the-magic-of-bird-brains",
-        "date": "Thu, 7 Mar 2024 13:50:07 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            50,
-            7,
-            3,
-            67,
-            0
-        ],
-        "source": "newyorker.com",
-        "image": ""
-    },
-    {
-        "title": "The future of work: AI as a skill set",
-        "link": "https://venturebeat.com/business/the-future-of-work-ai-as-a-skill-set/",
-        "date": "Thu, 07 Mar 2024 13:49:34 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            49,
-            34,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "The David Rubenstein Show: Vas Narasimhan",
-        "link": "https://www.bloomberg.com/news/videos/2024-03-07/the-david-rubenstein-show-vas-narasimhan",
-        "date": "Thu, 07 Mar 2024 13:37:23 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            37,
-            23,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivQesUIRIE1Q/v43/1200x-1.jpg"
-    },
-    {
         "title": "Apple's had it with Epic's app store shenanigans, terminates dev account",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/epic_apple_developer_account/",
         "date": "2024-03-07T13:33:06.00Z",
@@ -1887,96 +3327,6 @@
             0
         ],
         "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Savvy Games Group\u2019s Brian Ward will speak at GamesBeat Summit 2024",
-        "link": "https://venturebeat.com/games/savvy-games-groups-brian-ward-will-speak-at-gamesbeat-summit-2024/",
-        "date": "Thu, 07 Mar 2024 13:30:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            30,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Telecom Italia\u2019s Record Plunge Shows Skepticism on Debt Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/telecom-italia-plunges-as-optimistic-growth-forecast-questioned",
-        "date": "Thu, 07 Mar 2024 13:11:22 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            11,
-            22,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM.12.QkgSwg/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Bipartisan Bill Could Force ByteDance To Divest TikTok",
-        "link": "https://yro.slashdot.org/story/24/03/07/0732221/bipartisan-bill-could-force-bytedance-to-divest-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T13:00:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "APhone app uses Web3 to create an affordable virtual smartphone",
-        "link": "https://venturebeat.com/games/aphone-app-uses-web3-to-create-an-affordable-virtual-smartphone/",
-        "date": "Thu, 07 Mar 2024 13:00:00 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            13,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Sources and filings: Pornhub, Xvideos, and Stripchat challenge the EU over new DSA moderation rules; porn platforms must submit compliance plans by April 20 (Clothilde Goujard/Politico)",
-        "link": "http://www.techmeme.com/240307/p19#a240307p19",
-        "date": "Thu, 07 Mar 2024 07:55:01 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            55,
-            1,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
         "image": ""
     },
     {
@@ -1998,24 +3348,6 @@
         "image": ""
     },
     {
-        "title": "After IAB Europe appealed a 2022 decision, the EU's highest court rules that IAB's online advertising model uses personal data and is therefore subject to GDPR (Cynthia Kroet/Euronews)",
-        "link": "http://www.techmeme.com/240307/p18#a240307p18",
-        "date": "Thu, 07 Mar 2024 07:45:00 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            45,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
         "title": "Spain halts Sam Altman\u2019s eyeball-scanning startup Worldcoin over privacy concerns",
         "link": "https://thenextweb.com/news/spain-sam-altman-eyeball-scanning-worldcoin-ban-privacy-concerns",
         "date": "Thu, 07 Mar 2024 12:39:55 +0000",
@@ -2031,78 +3363,6 @@
             0
         ],
         "source": "thenextweb.com",
-        "image": ""
-    },
-    {
-        "title": "Show HN: Flyde \u2013 an open-source visual programming language",
-        "link": "https://github.com/flydelabs/flyde",
-        "date": "Thu, 7 Mar 2024 12:33:36 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            33,
-            36,
-            3,
-            67,
-            0
-        ],
-        "source": "github.com",
-        "image": ""
-    },
-    {
-        "title": "CEO of Options Powerhouse Cboe Swats Down Talk of a Takeover",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/ceo-of-options-powerhouse-cboe-swats-down-takeover-talk",
-        "date": "Thu, 07 Mar 2024 12:31:01 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            31,
-            1,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i33kcHqRm_no/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Sex Differences Could Be Key to Treating Long Covid &mdash;\u00a0and So Much Else",
-        "link": "https://www.bloomberg.com/opinion/articles/2024-03-07/why-do-women-get-worse-long-covid-study-points-to-testosterone",
-        "date": "Thu, 07 Mar 2024 12:30:37 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            30,
-            37,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihNOPzbo2Apw/v1/1200x-1.jpg"
-    },
-    {
-        "title": "Sources detail Beijing's Document 79, issued in September 2022, directing state-owned companies to replace foreign email, HR, and business management software (Liza Lin/Wall Street Journal)",
-        "link": "http://www.techmeme.com/240307/p17#a240307p17",
-        "date": "Thu, 07 Mar 2024 07:30:00 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            30,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
         "image": ""
     },
     {
@@ -2124,96 +3384,6 @@
         "image": ""
     },
     {
-        "title": "How Microsoft has run a Chinese version of Bing since 2009, helping Beijing maintain its Great Firewall; China accounted for 1.8% of Microsoft's sales in 2020 (Ryan Gallagher/Bloomberg)",
-        "link": "http://www.techmeme.com/240307/p16#a240307p16",
-        "date": "Thu, 07 Mar 2024 07:15:15 -0500",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            15,
-            15,
-            3,
-            67,
-            0
-        ],
-        "source": "techmeme.com",
-        "image": ""
-    },
-    {
-        "title": "Walmart, TikTok and Shein Lure Amazon Merchants at Vegas Event",
-        "link": "https://www.bloomberg.com/news/newsletters/2024-03-07/walmart-tiktok-shein-challenge-amazon-at-prosper-show-in-vegas",
-        "date": "Thu, 07 Mar 2024 12:04:37 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            4,
-            37,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRoTG3ZD6hXs/v1/1200x-1.jpg"
-    },
-    {
-        "title": "D(HE)at: A Practical DoS Attack on the Finite Field Diffie\u2013Hellman Key Exchange",
-        "link": "https://ieeexplore.ieee.org/document/10374117",
-        "date": "Thu, 7 Mar 2024 12:00:40 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            0,
-            40,
-            3,
-            67,
-            0
-        ],
-        "source": "ieee.org",
-        "image": ""
-    },
-    {
-        "title": "Snapdragon 8 Gen 1's iGPU: Adreno Gets Big",
-        "link": "https://chipsandcheese.com/2024/03/05/inside-snapdragon-8-gen-1s-igpu-adreno-gets-big/",
-        "date": "Thu, 7 Mar 2024 12:00:10 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            12,
-            0,
-            10,
-            3,
-            67,
-            0
-        ],
-        "source": "chipsandcheese.com",
-        "image": ""
-    },
-    {
-        "title": "SAP Sees AI as Shortcut to Faster Cloud Revenue Growth",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/sap-sees-ai-as-shortcut-to-faster-cloud-revenue-growth",
-        "date": "Thu, 07 Mar 2024 11:59:56 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            11,
-            59,
-            56,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ib40nQowezQ0/v0/1200x-1.jpg"
-    },
-    {
         "title": "Venturing beyond the default OS on Raspberry Pi 5",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/alt_pi_5_linux_distros/",
         "date": "2024-03-07T11:50:45.00Z",
@@ -2230,24 +3400,6 @@
         ],
         "source": "theregister.com",
         "image": ""
-    },
-    {
-        "title": "Frenzy Over AI Drives Doubling of Chip Maker Options Trading",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/frenzy-over-ai-drives-doubling-of-options-trading-in-chip-makers",
-        "date": "Thu, 07 Mar 2024 11:26:02 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            11,
-            26,
-            2,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_uW8fMQBtrY/v2/1200x-1.png"
     },
     {
         "title": "UK finance minister promises NHS \u00a33.4B IT investment to unlock \u00a335B savings",
@@ -2268,42 +3420,6 @@
         "image": ""
     },
     {
-        "title": "Sky lapse in two tone",
-        "link": "https://blog.datadesk.eco/p/sky-lapse-in-two-tone",
-        "date": "Thu, 7 Mar 2024 10:48:39 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            10,
-            48,
-            39,
-            3,
-            67,
-            0
-        ],
-        "source": "datadesk.eco",
-        "image": ""
-    },
-    {
-        "title": "Show HN: TinyWasm \u2013 A tiny WebAssembly Runtime written in Rust",
-        "link": "https://github.com/explodingcamera/tinywasm",
-        "date": "Thu, 7 Mar 2024 10:44:35 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            10,
-            44,
-            35,
-            3,
-            67,
-            0
-        ],
-        "source": "github.com",
-        "image": ""
-    },
-    {
         "title": "HP print rental service seeks more users to become subscription addicts",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/hp_ink_addicts/",
         "date": "2024-03-07T10:15:07.00Z",
@@ -2319,60 +3435,6 @@
             0
         ],
         "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "US Stock Buybacks to Hit $1 Trillion in 2025, Goldman Says",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/us-stock-buybacks-to-hit-1-trillion-in-2025-goldman-says",
-        "date": "Thu, 07 Mar 2024 10:10:17 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            10,
-            10,
-            17,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHFTqny8ofXU/v0/1200x-1.png"
-    },
-    {
-        "title": "How Microsoft\u2019s Bing Helps Maintain Beijing\u2019s Great Firewall",
-        "link": "https://www.bloomberg.com/news/features/2024-03-07/microsoft-s-bing-helps-maintain-china-s-great-firewall",
-        "date": "Thu, 07 Mar 2024 10:00:39 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            10,
-            0,
-            39,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivB10F0ai4oI/v0/1200x-1.jpg"
-    },
-    {
-        "title": "Teachers Are Embracing ChatGPT-Powered Grading",
-        "link": "https://news.slashdot.org/story/24/03/07/0719222/teachers-are-embracing-chatgpt-powered-grading?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T10:00:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            10,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
         "image": ""
     },
     {
@@ -2412,24 +3474,6 @@
         "image": ""
     },
     {
-        "title": "Apple Set to Be Quizzed by EU Over \u2018Fortnite\u2019 Maker Shutout",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/apple-set-to-be-quizzed-by-eu-over-fortnite-maker-shutout",
-        "date": "Thu, 07 Mar 2024 08:22:59 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            8,
-            22,
-            59,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRLkFxSuC0Ps/v1/1200x-1.png"
-    },
-    {
         "title": "VMware urges emergency action to blunt hypervisor flaws",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/vmware_usb_critical_flaws/",
         "date": "2024-03-07T07:30:07.00Z",
@@ -2448,61 +3492,7 @@
         "image": ""
     },
     {
-        "title": "Nikon to acquire RED",
-        "link": "https://www.nikon.com/company/news/2024/0307_01.html",
-        "date": "Thu, 7 Mar 2024 07:01:42 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            7,
-            1,
-            42,
-            3,
-            67,
-            0
-        ],
-        "source": "nikon.com",
-        "image": ""
-    },
-    {
-        "title": "Fractional scales, fonts and hinting",
-        "link": "https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/",
-        "date": "Thu, 7 Mar 2024 07:01:37 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            7,
-            1,
-            37,
-            3,
-            67,
-            0
-        ],
-        "source": "gtk.org",
-        "image": ""
-    },
-    {
-        "title": "New 'Water Batteries' Are Cheaper, Recyclable, And Won't Explode",
-        "link": "https://hardware.slashdot.org/story/24/03/07/0013212/new-water-batteries-are-cheaper-recyclable-and-wont-explode?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T07:00:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            7,
-            0,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "Here\u2019s something else AI can do: expose bad infosec to give cyber-crims a toehold in your organization",
+        "title": "Reminder: Infostealer malware is coming for your ChatGPT credentials",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/more_than_250000/",
         "date": "2024-03-07T06:27:08.00Z",
         "date_parsed": [
@@ -2520,25 +3510,7 @@
         "image": ""
     },
     {
-        "title": "Xi\u2019s High-Tech Drive Spurs Hunt for New Chinese Growth Stocks",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/xi-s-high-tech-drive-spurs-hunt-for-new-chinese-growth-stocks",
-        "date": "Thu, 07 Mar 2024 06:10:44 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            6,
-            10,
-            44,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOvuxkMWQXvA/v2/1200x-1.png"
-    },
-    {
-        "title": "US lawmakers want ByteDance to divest TikTok or face a ban",
+        "title": "US politicians want ByteDance to sell off TikTok or face ban",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/tiktok_divest_ban/",
         "date": "2024-03-07T06:05:43.00Z",
         "date_parsed": [
@@ -2554,42 +3526,6 @@
         ],
         "source": "theregister.com",
         "image": ""
-    },
-    {
-        "title": "Taiwan to Decide on Power Tariff Hikes That Would Hit Chipmakers",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/taiwan-to-decide-on-power-tariff-hikes-that-would-hit-chipmakers",
-        "date": "Thu, 07 Mar 2024 06:01:30 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            6,
-            1,
-            30,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH1GoIcBwDnM/v0/1200x-1.jpg"
-    },
-    {
-        "title": "AI Frenzy Seen Powering TSMC\u2019s Rally From Overbought Levels",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/ai-frenzy-seen-powering-tsmc-s-rally-from-overbought-levels",
-        "date": "Thu, 07 Mar 2024 05:51:36 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            5,
-            51,
-            36,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQqugdl3IDU/v2/1200x-1.png"
     },
     {
         "title": "Beijing plans at least three new rockets \u2013 maybe reusables too",
@@ -2610,60 +3546,6 @@
         "image": ""
     },
     {
-        "title": "Zapier Central debuts as no-code tool for building enterprise AI bots",
-        "link": "https://venturebeat.com/ai/zapier-central-debuts-as-no-code-tool-for-building-enterprise-ai-bots/",
-        "date": "Thu, 07 Mar 2024 03:50:44 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            3,
-            50,
-            44,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "VMware Sandbox Escape Bugs Are So Critical, Patches Are Released For End-of-Life Products",
-        "link": "https://it.slashdot.org/story/24/03/07/003238/vmware-sandbox-escape-bugs-are-so-critical-patches-are-released-for-end-of-life-products?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T03:30:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            3,
-            30,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "InvGate\u2019s AI Hub automatically generates knowledge articles from IT incidents",
-        "link": "https://venturebeat.com/ai/invgates-ai-hub-automatically-generates-knowledge-articles-from-it-incidents/",
-        "date": "Thu, 07 Mar 2024 03:24:39 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            3,
-            24,
-            39,
-            3,
-            67,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
         "title": "Toyota, Samsung accelerate toward better EV batteries",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/07/toyota_battery_buyout/",
         "date": "2024-03-07T02:33:08.00Z",
@@ -2679,60 +3561,6 @@
             0
         ],
         "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Former Google Engineer Indicted For Stealing AI Secrets To Aid Chinese Companies",
-        "link": "https://yro.slashdot.org/story/24/03/06/2357244/former-google-engineer-indicted-for-stealing-ai-secrets-to-aid-chinese-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T02:20:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            2,
-            20,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
-        "image": ""
-    },
-    {
-        "title": "SK Hynix Invests $1 Billion in Key AI Memory Chip Technology",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/sk-hynix-investing-1-billion-to-widen-lead-in-ai-memory-chips",
-        "date": "Thu, 07 Mar 2024 01:50:26 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            1,
-            50,
-            26,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEv3FSnzubjc/v0/1200x-1.jpg"
-    },
-    {
-        "title": "Rising Temperatures and Heat Shocks Prompt Job Relocations, Study Finds",
-        "link": "https://news.slashdot.org/story/24/03/06/2352216/rising-temperatures-and-heat-shocks-prompt-job-relocations-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "date": "2024-03-07T01:40:00+00:00",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            1,
-            40,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "slashdot.org",
         "image": ""
     },
     {
@@ -2772,60 +3600,6 @@
         "image": ""
     },
     {
-        "title": "How Klarna\u2019s IPO Prep Got Tangled Up in a Boardroom Drama",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-07/how-klarna-s-ipo-prep-got-tangled-up-in-a-boardroom-drama",
-        "date": "Thu, 07 Mar 2024 00:01:00 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            7,
-            0,
-            1,
-            0,
-            3,
-            67,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLeDHjkeeV.Y/v0/1200x-1.jpg"
-    },
-    {
-        "title": "Nvidia Directors Reap Windfall With $180 Million Share Sale",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-06/nvidia-director-sells-170-million-in-shares-as-rally-powers-on-ltggna6j",
-        "date": "Wed, 06 Mar 2024 23:59:06 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            23,
-            59,
-            6,
-            2,
-            66,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyx_K4HDycvA/v2/1200x-1.png"
-    },
-    {
-        "title": "United Healthcare\u2019s ransomware attack shows why supply chains are under siege",
-        "link": "https://venturebeat.com/security/united-healthcares-ransomware-attack-shows-why-supply-chains-are-under-siege/",
-        "date": "Wed, 06 Mar 2024 23:24:08 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            23,
-            24,
-            8,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
         "title": "Desktop GPU shipments jumped by a third \u2013 no thanks to AI PCs",
         "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/desktop_gpu_shipments/",
         "date": "2024-03-06T23:09:14.00Z",
@@ -2862,96 +3636,6 @@
         "image": ""
     },
     {
-        "title": "How Apple Sank About $1 Billion a Year Into a Car It Never Built",
-        "link": "https://www.bloomberg.com/news/features/2024-03-06/apple-car-s-crash-design-details-tim-cook-s-indecision-failed-tesla-deal",
-        "date": "Wed, 06 Mar 2024 22:00:38 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            22,
-            0,
-            38,
-            2,
-            66,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iIyChnKQ1lHc/i2AQQGmI2M4A/v0/1200x-1.gif"
-    },
-    {
-        "title": "NY hospital exec: Multimodal LLM assistants will create a \u201cparadigm shift\u201d in patient care",
-        "link": "https://venturebeat.com/ai/ny-hospital-exec-multimodal-llm-assistants-will-create-a-paradigm-shift-in-patient-care/",
-        "date": "Wed, 06 Mar 2024 21:17:43 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            21,
-            17,
-            43,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "LinkedIn's turn to fall over: Outage hits thinkfluencer hub",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/linkedin_outage/",
-        "date": "2024-03-06T21:08:26.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            21,
-            8,
-            26,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "FBI: Critical infrastructure suffers spike in ransomware attacks",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/fbi_ransomware_cybercrime_costs/",
-        "date": "2024-03-06T20:49:31.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            20,
-            49,
-            31,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Citi exec: Generative AI is transformative in banking, but risky for customer support",
-        "link": "https://venturebeat.com/ai/citi-exec-generative-ai-is-transformative-in-banking-but-risky-for-customer-support/",
-        "date": "Wed, 06 Mar 2024 20:45:58 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            20,
-            45,
-            58,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
         "title": "VMware sandbox escape bugs are so critical, patches are released for end-of-life products",
         "link": "https://arstechnica.com/?p=2008406",
         "date": "Wed, 06 Mar 2024 20:19:39 +0000",
@@ -2967,42 +3651,6 @@
             0
         ],
         "source": "arstechnica.com",
-        "image": ""
-    },
-    {
-        "title": "Apple terminates Epic\u2019s third party iOS game store ambitions",
-        "link": "https://venturebeat.com/games/epic-games-apple-third-party-app-store-eu-terminated/",
-        "date": "Wed, 06 Mar 2024 19:29:27 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            19,
-            29,
-            27,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Copilot can't stop emitting violent, sexual images, says Microsoft whistleblower",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/microsoft_copilots_images/",
-        "date": "2024-03-06T19:29:10.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            19,
-            29,
-            10,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
         "image": ""
     },
     {
@@ -3060,114 +3708,6 @@
         "image": "https://www.404media.co/content/images/2024/03/404-media-foia-forum.png"
     },
     {
-        "title": "Frogwares debuts trailer for The Sinking City 2",
-        "link": "https://venturebeat.com/games/frogwares-debuts-trailer-for-the-sinking-city-2/",
-        "date": "Wed, 06 Mar 2024 18:34:24 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            18,
-            34,
-            24,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Persona 3 Reload\u2019s expansion pass adds FES content",
-        "link": "https://venturebeat.com/games/persona-3-reloads-expansion-pass-adds-fes-content/",
-        "date": "Wed, 06 Mar 2024 18:32:19 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            18,
-            32,
-            19,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "Olympic-level server tossing contest seeks entrants \u2013 warranty voiding guaranteed",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/cloudfest_server_tossing/",
-        "date": "2024-03-06T18:30:12.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            18,
-            30,
-            12,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Final Fantasy XIV\u2019s full Xbox launch hits on March 21",
-        "link": "https://venturebeat.com/games/final-fantasy-xivs-full-xbox-launch-hits-on-march-11/",
-        "date": "Wed, 06 Mar 2024 18:24:02 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            18,
-            24,
-            2,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "11 Bit Studios confirms The Alters is coming to Game Pass",
-        "link": "https://venturebeat.com/games/11-bit-studios-confirms-the-alters-is-coming-to-game-pass/",
-        "date": "Wed, 06 Mar 2024 18:11:54 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            18,
-            11,
-            54,
-            2,
-            66,
-            0
-        ],
-        "source": "venturebeat.com",
-        "image": ""
-    },
-    {
-        "title": "FDA clears first over-the-counter continuous glucose monitor",
-        "link": "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor",
-        "date": "Wed, 6 Mar 2024 18:03:43 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            18,
-            3,
-            43,
-            2,
-            66,
-            0
-        ],
-        "source": "fda.gov",
-        "image": ""
-    },
-    {
         "title": "OpenAI responds to Elon Musk lawsuit by clarifying its \u201copen\u201c nature",
         "link": "https://arstechnica.com/?p=2008231",
         "date": "Wed, 06 Mar 2024 17:59:27 +0000",
@@ -3204,60 +3744,6 @@
         "image": ""
     },
     {
-        "title": "Want to be a NASA astronaut? Applications are open",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/nasa_astronaut_applications_open/",
-        "date": "2024-03-06T17:45:08.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            17,
-            45,
-            8,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Apple's trademark tight lips extend to new iPhone, iPad zero-days",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/iphone_ipad_zero_days/",
-        "date": "2024-03-06T17:01:43.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            17,
-            1,
-            43,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Governments not keen on pushing citizen-facing AI services, for obvious reasons",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/ai_services_government_gartner/",
-        "date": "2024-03-06T16:15:10.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            16,
-            15,
-            10,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
         "title": "Digital bank Monzo raises \u00a3340M amid UK push to remain fintech leader",
         "link": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
         "date": "Wed, 06 Mar 2024 15:59:49 +0000",
@@ -3268,78 +3754,6 @@
             15,
             59,
             49,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
-        "image": ""
-    },
-    {
-        "title": "'We had to educate Oracle about our contract,' CIO says after Big Red audit",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/oracle_audits/",
-        "date": "2024-03-06T15:30:06.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            15,
-            30,
-            6,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "EU users can't update 3rd party iOS apps if abroad too long",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/apple_dma_geolocation/",
-        "date": "2024-03-06T15:11:26.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            15,
-            11,
-            26,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Russia plans to put a nuclear reactor on the Moon \u2013 with China's help",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/russia_nuclear_reactor_moon/",
-        "date": "2024-03-06T14:30:09.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            14,
-            30,
-            9,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Nobel winner behind graphene hails new \u2018wonder materials\u2019 for smart contact lenses",
-        "link": "https://thenextweb.com/news/graphene-nobel-winner-discovery-smart-contact-lenses",
-        "date": "Wed, 06 Mar 2024 14:17:22 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            14,
-            17,
-            22,
             2,
             66,
             0
@@ -3366,492 +3780,6 @@
         "image": "https://www.404media.co/content/images/2024/03/weekly-podcast-28.png"
     },
     {
-        "title": "OpenAI goes public with Musk emails, claiming he backed for-profit plans",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/openai_musk_lawsuit/",
-        "date": "2024-03-06T14:00:09.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            14,
-            0,
-            9,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Autogenerating a Book Series from Three Years of iMessages",
-        "link": "https://benkettle.xyz/posts/message-book/",
-        "date": "Wed, 6 Mar 2024 13:27:37 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            13,
-            27,
-            37,
-            2,
-            66,
-            0
-        ],
-        "source": "benkettle.xyz",
-        "image": ""
-    },
-    {
-        "title": "Why US-based VCs are investing big in European climate tech",
-        "link": "https://thenextweb.com/news/why-us-based-vcs-are-investing-big-in-european-climate-tech",
-        "date": "Wed, 06 Mar 2024 13:25:44 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            13,
-            25,
-            44,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
-        "image": ""
-    },
-    {
-        "title": "Dutch government in panic mode over keeping ASML in the country",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/dutch_asml_visas/",
-        "date": "2024-03-06T13:22:05.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            13,
-            22,
-            5,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "US Urges Allies to Squeeze China Further on Chip Technology",
-        "link": "https://www.bloomberg.com/news/articles/2024-03-06/us-urges-allies-to-further-squeeze-china-on-chip-technology",
-        "date": "Wed, 06 Mar 2024 13:17:12 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            13,
-            17,
-            12,
-            2,
-            66,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNAshtlR99x0/v0/1200x-1.png"
-    },
-    {
-        "title": "Capita says 2023 cyberattack costs a factor as it reports staggering \u00a3100M+ loss",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/capita_says_2023_cyberattack_recovery/",
-        "date": "2024-03-06T12:31:52.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            12,
-            31,
-            52,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "TNW Podcast: The tech that makes us walk",
-        "link": "https://thenextweb.com/news/podcast-tech-that-makes-us-walk",
-        "date": "Wed, 06 Mar 2024 12:17:07 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            12,
-            17,
-            7,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
-        "image": ""
-    },
-    {
-        "title": "Year of Linux on the desktop creeps closer as market share rises a little",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/linux_desktop_share_growing/",
-        "date": "2024-03-06T11:45:14.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            11,
-            45,
-            14,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Boffins propose fiber-optic network for the Moon",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/fiberoptic_network_moon/",
-        "date": "2024-03-06T11:00:08.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            11,
-            0,
-            8,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Take a break: Error-detecting codes in credit card numbers, ISBNs etc. (2000)",
-        "link": "https://plus.maths.org/content/take-break",
-        "date": "Wed, 6 Mar 2024 10:25:44 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            10,
-            25,
-            44,
-            2,
-            66,
-            0
-        ],
-        "source": "maths.org",
-        "image": ""
-    },
-    {
-        "title": "Logitech MX Brio 705 \u2013 where Ultra HD meets Ultra AI",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/logitech_mx_brio_webcam_review/",
-        "date": "2024-03-06T10:15:08.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            10,
-            15,
-            8,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "UK startup launches AI satellite to provide near real-time images of Earth",
-        "link": "https://thenextweb.com/news/uk-startup-ai-satellite-real-time-images-of-earth-spacex",
-        "date": "Wed, 06 Mar 2024 10:05:35 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            10,
-            5,
-            35,
-            2,
-            66,
-            0
-        ],
-        "source": "thenextweb.com",
-        "image": ""
-    },
-    {
-        "title": "Pikachu Volleyball",
-        "link": "https://github.com/gorisanson/pikachu-volleyball",
-        "date": "Wed, 6 Mar 2024 09:49:02 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            9,
-            49,
-            2,
-            2,
-            66,
-            0
-        ],
-        "source": "github.com",
-        "image": ""
-    },
-    {
-        "title": "Supermium drags Google Chrome back in time to Windows XP, Vista, and 7",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/supermium_chrome_for_xp/",
-        "date": "2024-03-06T09:30:09.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            9,
-            30,
-            9,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Chip lobby group SEMI to EU: Export restrictions should only be used in self-defense",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/chip_semi_eu/",
-        "date": "2024-03-06T08:23:14.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            8,
-            23,
-            14,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Google dresses up services for the EU's Digital Markets Act",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/google_dma_europe/",
-        "date": "2024-03-06T07:30:09.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            7,
-            30,
-            9,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "China pushes 'AI Plus' initiative to integrate technology and industry",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/china_peoples_congress_tech_plans/",
-        "date": "2024-03-06T06:35:14.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            6,
-            35,
-            14,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "The Cell Programming Language",
-        "link": "https://www.cell-lang.net/",
-        "date": "Wed, 6 Mar 2024 06:26:33 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            6,
-            26,
-            33,
-            2,
-            66,
-            0
-        ],
-        "source": "cell-lang.net",
-        "image": ""
-    },
-    {
-        "title": "Kaist develops next-generation ultra-low power LLM accelerator",
-        "link": "https://en.yna.co.kr/view/AEN20240306003700320",
-        "date": "Wed, 6 Mar 2024 06:21:47 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            6,
-            21,
-            47,
-            2,
-            66,
-            0
-        ],
-        "source": "yna.co.kr",
-        "image": ""
-    },
-    {
-        "title": "What a surprise! Apple found a way to deliver browser engine and app store choice",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/ios_17_4_eu_compliance/",
-        "date": "2024-03-06T05:27:07.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            5,
-            27,
-            7,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Citrix reveals invitation-only 'Platform' license",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/citrix_platform_hybrid_cloud_licenses/",
-        "date": "2024-03-06T04:31:07.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            4,
-            31,
-            7,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Japan orders local giants LINE and NAVER to disentangle their tech stacks",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/japan_line_naver_infosec_guidance/",
-        "date": "2024-03-06T03:29:05.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            3,
-            29,
-            5,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "NASA and Japan's X-ray satellite space 'scope sends first snaps of distant galaxies",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/japans_xrism_graduates_to_nominal/",
-        "date": "2024-03-06T01:27:06.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            1,
-            27,
-            6,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Uncle Sam intervenes as Change Healthcare ransomware fiasco creates mayhem",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/06/us_government_change_ransomware_intervention/",
-        "date": "2024-03-06T00:30:09.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            6,
-            0,
-            30,
-            9,
-            2,
-            66,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Stuck paying for your apartment's crummy internet? FCC boss Rosenworcel wants to help",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/05/fcc_proposed_regulation/",
-        "date": "2024-03-05T23:45:11.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            23,
-            45,
-            11,
-            1,
-            65,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "A Bug in Early Creative Commons Licenses Has Enabled Copyleft Trolls (2022)",
-        "link": "https://doctorow.medium.com/a-bug-in-early-creative-commons-licenses-has-enabled-a-new-breed-of-superpredator-5f6360713299",
-        "date": "Tue, 5 Mar 2024 23:40:13 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            23,
-            40,
-            13,
-            1,
-            65,
-            0
-        ],
-        "source": "medium.com",
-        "image": ""
-    },
-    {
-        "title": "Trump supporters forge AI deepfakes to woo Black voters",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/05/trump_ai_deepfake/",
-        "date": "2024-03-05T22:58:12.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            22,
-            58,
-            12,
-            1,
-            65,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
         "title": "After collecting $22 million, AlphV ransomware group stages FBI takedown",
         "link": "https://arstechnica.com/?p=2008120",
         "date": "Tue, 05 Mar 2024 22:28:13 +0000",
@@ -3867,42 +3795,6 @@
             0
         ],
         "source": "arstechnica.com",
-        "image": ""
-    },
-    {
-        "title": "Microsoft drags Windows Subsystem for Android into the trash",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/05/windows_subsystem_android/",
-        "date": "2024-03-05T21:27:24.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            21,
-            27,
-            24,
-            1,
-            65,
-            0
-        ],
-        "source": "theregister.com",
-        "image": ""
-    },
-    {
-        "title": "Fidelity customers' financial info feared stolen in suspected ransomware attack",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/05/fidelity_cyberattack/",
-        "date": "2024-03-05T19:28:12.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            19,
-            28,
-            12,
-            1,
-            65,
-            0
-        ],
-        "source": "theregister.com",
         "image": ""
     },
     {
@@ -3939,24 +3831,6 @@
             0
         ],
         "source": "arstechnica.com",
-        "image": ""
-    },
-    {
-        "title": "Amazon bends to Euro watchdogs, waives egress fees for folks ditching AWS",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2024/03/05/aws_data_egress/",
-        "date": "2024-03-05T18:56:14.00Z",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            18,
-            56,
-            14,
-            1,
-            65,
-            0
-        ],
-        "source": "theregister.com",
         "image": ""
     },
     {
@@ -4012,24 +3886,6 @@
         ],
         "source": "404media.co",
         "image": "https://www.404media.co/content/images/2024/03/gunblade.png"
-    },
-    {
-        "title": "My talk on CSS runtime performance",
-        "link": "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/",
-        "date": "Tue, 5 Mar 2024 01:06:39 +0000",
-        "date_parsed": [
-            2024,
-            3,
-            5,
-            1,
-            6,
-            39,
-            1,
-            65,
-            0
-        ],
-        "source": "nolanlawson.com",
-        "image": ""
     },
     {
         "title": "Hackers exploited Windows 0-day for 6 months after Microsoft knew of it",
@@ -4120,60 +3976,6 @@
         ],
         "source": "arstechnica.com",
         "image": ""
-    },
-    {
-        "title": "Behind the Blog: Corporate PR Stonewalling and The Sandwich Simulacrum",
-        "link": "https://www.404media.co/behind-the-blog-corporate-pr-stonewalling-and-the-sandwich-simulacrum/",
-        "date": "Fri, 01 Mar 2024 17:36:15 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            17,
-            36,
-            15,
-            4,
-            61,
-            0
-        ],
-        "source": "404media.co",
-        "image": "https://www.404media.co/content/images/2024/03/nl3.1.png"
-    },
-    {
-        "title": "A WordPress \u2018Firehose\u2019 Allows AI Companies to Buy Access to a Million Posts a Day",
-        "link": "https://www.404media.co/wordpress-firehose-allows-ai-companies-to-buy-access-to-a-million-posts-a-day/",
-        "date": "Fri, 01 Mar 2024 15:58:49 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            15,
-            58,
-            49,
-            4,
-            61,
-            0
-        ],
-        "source": "404media.co",
-        "image": "https://www.404media.co/content/images/2024/03/Screen-Shot-2024-03-01-at-7.42.44-AM.png"
-    },
-    {
-        "title": "Unionized YouTube Workers Learn Google Laid Them All Off During City Council Meeting",
-        "link": "https://www.404media.co/unionized-youtube-workers-learn-google-laid-them-all-off-during-city-council-meeting/",
-        "date": "Fri, 01 Mar 2024 15:37:48 GMT",
-        "date_parsed": [
-            2024,
-            3,
-            1,
-            15,
-            37,
-            48,
-            4,
-            61,
-            0
-        ],
-        "source": "404media.co",
-        "image": "https://www.404media.co/content/images/2024/03/Screen-Shot-2024-03-01-at-7.34.42-AM.png"
     },
     {
         "title": "HP wants you to pay up to $36/month to rent a printer that it monitors",
@@ -4300,77 +4102,5 @@
         ],
         "source": "arstechnica.com",
         "image": ""
-    },
-    {
-        "title": "Hackers backed by Russia and China are infecting SOHO routers like yours, FBI warns",
-        "link": "https://arstechnica.com/?p=2006319",
-        "date": "Tue, 27 Feb 2024 20:57:10 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            20,
-            57,
-            10,
-            1,
-            58,
-            0
-        ],
-        "source": "arstechnica.com",
-        "image": ""
-    },
-    {
-        "title": "Cops called after parents get tricked by AI-generated images of Wonka-like event",
-        "link": "https://arstechnica.com/?p=2006096",
-        "date": "Tue, 27 Feb 2024 18:02:32 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            27,
-            18,
-            2,
-            32,
-            1,
-            58,
-            0
-        ],
-        "source": "arstechnica.com",
-        "image": ""
-    },
-    {
-        "title": "Avast ordered to stop selling browsing data from its browsing privacy apps",
-        "link": "https://arstechnica.com/?p=2005605",
-        "date": "Fri, 23 Feb 2024 20:37:03 +0000",
-        "date_parsed": [
-            2024,
-            2,
-            23,
-            20,
-            37,
-            3,
-            4,
-            54,
-            0
-        ],
-        "source": "arstechnica.com",
-        "image": ""
-    },
-    {
-        "title": "Why Making Computer Chips Has Become a New Global Arms Race",
-        "link": "https://www.bloomberg.com/news/articles/2024-02-22/how-chip-war-puts-nations-in-technology-arms-race",
-        "date": "Thu, 22 Feb 2024 18:45:41 GMT",
-        "date_parsed": [
-            2024,
-            2,
-            22,
-            18,
-            45,
-            41,
-            3,
-            53,
-            0
-        ],
-        "source": "bloomberg.com",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifdO.pUIW3Ao/v1/1200x-1.jpg"
     }
 ]
